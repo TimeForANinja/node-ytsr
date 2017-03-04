@@ -1,0 +1,78 @@
+{
+  "query": "github",
+  "items": [
+    {
+      "type": "video",
+      "title": "Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics",
+      "link": "https://www.youtube.com/watch?v=0fKg7e37bQE",
+      "thumbnail": "https://i.ytimg.com/vi/0fKg7e37bQE/hqdefault.jpg?custom=true&amp;w=246&amp;h=138&amp;stc=true&amp;jpg444=true&amp;jpgq=90&amp;sp=68&amp;sigh=L_DyRFJc2Xx5-sRlzQ6Q0IpWPXM",
+      "owner": {
+        "name": "LearnCode.academy",
+        "id": "UCVTlvUkGslCV_h-nSAId8Sw",
+        "ref": "https://www.youtube.com/user/learncodeacademy"
+      },
+      "description": "Github Tutorial For Beginners - learn Github for Mac or Github for windows If you've been wanting to learn Github, now's the ...",
+      "views": null,
+      "duration": "18:54",
+      "uploaded_at": "3 years ago"
+    },
+    {
+      "type": "video",
+      "title": "What Is Github",
+      "link": "https://www.youtube.com/watch?v=VUaBfYCmJls",
+      "thumbnail": "https://i.ytimg.com/vi/VUaBfYCmJls/hqdefault.jpg?custom=true&amp;w=246&amp;h=138&amp;stc=true&amp;jpg444=true&amp;jpgq=90&amp;sp=68&amp;sigh=48Jr5SgqhuZuEz5zcFwTC02nKs8",
+      "owner": {
+        "name": "Sohail Shaghasi",
+        "id": "UCg-GeoabRDWWVZRDF14CVNQ",
+        "ref": "https://www.youtube.com/user/0193412750"
+      },
+      "description": "Basically, GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code ...",
+      "views": null,
+      "duration": "6:28",
+      "uploaded_at": "1 year ago"
+    },
+    {
+      "type": "video",
+      "title": "GitHub for Noobs (1/4) – A Short History",
+      "link": "https://www.youtube.com/watch?v=1h9_cB9mPT8",
+      "thumbnail": "https://i.ytimg.com/vi/1h9_cB9mPT8/hqdefault.jpg?custom=true&amp;w=246&amp;h=138&amp;stc=true&amp;jpg444=true&amp;jpgq=90&amp;sp=68&amp;sigh=CfvhWySGiY-SCtgBWXauZeYOtBo",
+      "owner": {
+        "name": "DevTips",
+        "id": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "ref": "https://www.youtube.com/user/DevTipsForDesigners"
+      },
+      "description": "Github for Noobs is a great way to become familiar with the basics of Git and GitHub. This first lesson is about the history of the two ...",
+      "views": null,
+      "duration": "4:45",
+      "uploaded_at": "1 year ago"
+    },
+    {
+      "type": "channel",
+      "name": "GitHub",
+      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "link": "https://www.youtube.com/user/github",
+      "avatar": "https://yt3.ggpht.com/-3BKTe8YFlbA/AAAAAAAAAAI/AAAAAAAAAAA/ad0jqQ4IkGE/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "followers": null,
+      "description_short": "How people build software. GitHub is how people build software. More than 10 million people use GitHub to discover, fork, and ...",
+      "videos": "176 videos"
+    },
+    {
+      "type": "video",
+      "title": "What is GitHub?",
+      "link": "https://www.youtube.com/watch?v=w3jLJU7DT5E",
+      "thumbnail": "https://i.ytimg.com/vi/w3jLJU7DT5E/hqdefault.jpg?custom=true&amp;w=246&amp;h=138&amp;stc=true&amp;jpg444=true&amp;jpgq=90&amp;sp=68&amp;sigh=P0vrIthnTIfWom7D9x3ZC1Aobmo",
+      "owner": {
+        "name": "GitHub",
+        "id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "ref": "https://www.youtube.com/user/github"
+      },
+      "description": "Ever wondered how GitHub works? Let's see how Eddie and his team use GitHub. As always, feel free to leave us a comment ...",
+      "views": null,
+      "duration": "3:46",
+      "uploaded_at": "2 months ago"
+    }
+  ],
+  "nextpage_ref": "/results?sp=SBTqAwA%253D&amp;q=github",
+  "results": "About 441,000 results",
+  "filters": []
+}

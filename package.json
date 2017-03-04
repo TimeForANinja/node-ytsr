@@ -1,0 +1,22 @@
+{
+  "name": "ytsr",
+  "description": "Do anonymous YouTube search requests.",
+  "keywords": [
+    "youtube",
+    "search"
+  ],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TimeForANinja/node-ytsr.git"
+  },
+  "author": "Tobias Kutscha (https://github.com/TimeForANinja)",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "html-entities": "^1.1.3"
+  },
+  "license": "MIT"
+}
