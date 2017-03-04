@@ -6,7 +6,6 @@ Doesn't need any login or GoogleAPI key
 # Usage
 
 ```js
-
 var ytsr = require('ytsr');
 
 ytsr.get_filters('github', function(err, filters) {
@@ -20,7 +19,6 @@ ytsr.get_filters('github', function(err, filters) {
 		dosth(search_results);
 	});
 })
-
 ```
 
 
