@@ -23,7 +23,7 @@ ytsr.get_filters('github', function(err, filters) {
 
 
 # API
-### ytsr.search(search_string, [options,] callback)
+### ytsr.search(search_string, [options, callback])
 
 Searches for the given string
 
@@ -38,9 +38,11 @@ Searches for the given string
     * function
     * getting fired after the request is done
     * contains an error or a result
+
+* returns a Promise when no callback is defined
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output)
 
-### ytsr.get_filters(search_string, callback)
+### ytsr.get_filters(search_string, [callback])
 
 Pulls avaible filters for the given string
 
@@ -50,6 +52,8 @@ Pulls avaible filters for the given string
     * function
     * getting fired after the request is done
     * contains an error or a result
+
+* returns a Promise when no callback is defined
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output)
 
 
