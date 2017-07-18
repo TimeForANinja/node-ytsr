@@ -12,6 +12,9 @@
   },
   "author": "Tobias Kutscha (https://github.com/TimeForANinja)",
   "main": "./lib/main.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
