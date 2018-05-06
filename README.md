@@ -25,7 +25,7 @@ ytsr.get_filters('github', function(err, filters) {
 		limit: 5,
 		nextpage_ref: filter.ref,
 	}
-	ytsr.search(null, options, function(err, search_results) {
+	ytsr(null, options, function(err, search_results) {
 		if(err) throw err;
 		dosth(search_results);
 	});
@@ -34,7 +34,7 @@ ytsr.get_filters('github', function(err, filters) {
 
 
 # API
-### ytsr.search(search_string, [options, callback])
+### ytsr(search_string, [options, callback])
 
 Searches for the given string
 
