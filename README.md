@@ -17,34 +17,40 @@ Doesn't need any login or GoogleAPI key
 # Usage
 
 ```js
-var ytsr = require('ytsr');
+const ytsr = require('ytsr');
+let filter;
 
-ytsr.get_filters('github', function(err, filters) {
-	var filter = filters['type'].find((o) => {return o.name == 'Video'})
-	var options = {
-		limit: 5,
-		nextpage_ref: filter.ref,
-	}
-	ytsr.search(null, options, function(err, search_results) {
-		if(err) throw err;
-		dosth(search_results);
+ytsr.getFilters('github', function(err, filters) {
+  if(err) throw err;
+	filter = filters.get('type').find(o => o.name === 'Video');
+  ytsr.getFilters(filter.ref, function(err, filters) {
+    if(err) throw err;
+  	filter = filters.get('Duration').find(o => o.name.startsWith('Short'));
+  	var options = {
+  		limit: 5,
+  		nextpageRef: filter.ref,
+  	}
+  	ytsr(null, options, function(err, searchResults) {
+  		if(err) throw err;
+  		dosth(searchResults);
+  	});
 	});
-})
+});
 ```
 
 
 # API
-### ytsr.search(search_string, [options, callback])
+### ytsr(searchString, [options, callback])
 
 Searches for the given string
 
-* `search_string`
+* `searchString`
     * string to search for
 * `options`
     * object with options
     * possible settings:
     * limit[integer] -> limits the pulled items
-	* nextpage_ref[String] -> if u wanna continue a previous search
+	* nextpageRef[String] -> if u wanna continue a previous search or use filters
 * `callback(err, result)`
     * function
     * getting fired after the request is done
@@ -53,12 +59,13 @@ Searches for the given string
 * returns a Promise when no callback is defined
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output)
 
-### ytsr.get_filters(search_string, [callback])
+### ytsr.getFilters(searchString, [callback])
 
-Pulls avaible filters for the given string
+Pulls avaible filters for the given string/ref
 
-* `search_string`
+* `searchString`
     * string to search for
+    * or previously optained filter ref
 * `callback(err, result)`
     * function
     * getting fired after the request is done
