@@ -11,6 +11,8 @@
 
 # node-ytsr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TimeForANinja/node-ytsr.svg)](https://greenkeeper.io/)
+
 Simple js only module to search YouTube
 Doesn't need any login or GoogleAPI key
 
