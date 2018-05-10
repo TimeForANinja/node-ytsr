@@ -1,0 +1,399 @@
+{
+  "channel": {
+    "type": "channel",
+    "name": "20th Century Fox",
+    "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+    "link": "https://www.youtube.com/user/FoxMovies",
+    "avatar": "https://yt3.ggpht.com/-iNxAZ7kI3Hk/AAAAAAAAAAI/AAAAAAAAAAA/6GD8OIDSFI0/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "verified": true,
+    "followers": 2743984,
+    "description_short": "Official YouTube Channel for 20th Century Fox Movies. Home of Avatar, Aliens, X-Men, Die Hard, Deadpool, Ice Age, Alvin and ...",
+    "videos": 1941
+  },
+  "movie-vertical-poster": {
+    "type": "movie",
+    "title": "Deadpool",
+    "link": "https://www.youtube.com/watch?v=PPyAS0Sd-yk",
+    "thumbnail": "https://i.ytimg.com/vi/PPyAS0Sd-yk/movieposter.jpg",
+    "author": {
+      "name": "YouTube Movies",
+      "ref": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g",
+      "verified": true
+    },
+    "description": "Basierend auf Marvels unkonventionellstem Anti-Helden, erzählt DEADPOOL die Geschichte des ehemaligen Special Forces ...",
+    "meta": [
+      "Science Fiction",
+      "2016",
+      "FSK 16",
+      "German"
+    ],
+    "actors": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "Ed Skrein"
+    ],
+    "director": "Tim Miller",
+    "duration": "1:48:12"
+  },
+  "mix": {
+    "type": "mix",
+    "title": "Deadpool",
+    "firstItem": "https://www.youtube.com/watch?v=HTzGMEfbnAw&list=RDQMMhnFXCGgL98",
+    "thumbnail": "https://i.ytimg.com/vi/HTzGMEfbnAw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAeoCsN1WkiQDTPBRXODVw7cJHqsQ",
+    "length": "50+ videos"
+  },
+  "playlist": {
+    "type": "playlist",
+    "title": "☺ Ganze Filme auf Deutsch 😍",
+    "link": "https://www.youtube.com/playlist?list=PLJCDsY6rUukmUCN7ysrZAlKx2I0P72t-P",
+    "thumbnail": "https://i.ytimg.com/vi/Hr_flFIQlLI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBdIXdjMmj8OYQbGkepM-1znDqt_w",
+    "author": {
+      "name": "Mariebell Röschke",
+      "ref": "https://www.youtube.com/channel/UC02A_2qE_pu2DKZla7Fuhvw",
+      "verified": false
+    },
+    "length": "163 videos"
+  },
+  "search-refinements": {
+    "type": "search-refinements",
+    "entrys": [
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+1",
+        "q": "deadpool 1"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+hindi",
+        "q": "deadpool 2 trailer hindi"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+reaction",
+        "q": "deadpool 2 trailer reaction"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+fight+scene",
+        "q": "deadpool fight scene"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+full+movie",
+        "q": "deadpool full movie"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+tamil",
+        "q": "deadpool 2 trailer tamil"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+in+hindi",
+        "q": "deadpool in hindi"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+final+trailer",
+        "q": "deadpool 2 final trailer"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+music",
+        "q": "deadpool music"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+full+movie+in+hindi",
+        "q": "deadpool full movie in hindi"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+german",
+        "q": "deadpool 2 trailer german"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+song",
+        "q": "deadpool 2 trailer song"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+scene",
+        "q": "deadpool scene"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+3",
+        "q": "deadpool 2 trailer 3"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+full+movie",
+        "q": "deadpool 2 full movie"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+1",
+        "q": "deadpool 2 trailer 1"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+game",
+        "q": "deadpool game"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+2+trailer+red+band",
+        "q": "deadpool 2 trailer red band"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+full+movie+subtitle+indonesia",
+        "q": "deadpool full movie subtitle indonesia"
+      },
+      {
+        "link": "https://www.youtube.com/results?search_query=deadpool+vs+spiderman",
+        "q": "deadpool vs spiderman"
+      }
+    ]
+  },
+  "vertical-shelf": {
+    "type": "shelf-vertical",
+    "title": "Latest from PietSmiet",
+    "items": [
+      {
+        "type": "video",
+        "title": "Die ZERREISPROBE der Geduld 🎮 Grand Theft Auto Online #203",
+        "link": "https://www.youtube.com/watch?v=ANcPL_hmOao",
+        "thumbnail": "https://i.ytimg.com/vi/ANcPL_hmOao/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLa5cIH8izC12JRMP66p-DTEawuw",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Geschicklichkeit und Geduld werden in der heutigen Challenge geprüft. Werbung: Spiele günstig & schnell per Email bei ...",
+        "views": 86747,
+        "duration": "17:55",
+        "uploaded_at": "15 hours ago"
+      },
+      {
+        "type": "video",
+        "title": "Wir spielen Thanos aus Avengers bei Fortnite",
+        "link": "https://www.youtube.com/watch?v=BlkffpWcnq4",
+        "thumbnail": "https://i.ytimg.com/vi/BlkffpWcnq4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxRoePH04VcdwvuZD55ejyo-UZjw",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Falls dir der Stream gefällt lass eine Bewertung da :) Trinkgeld ?? https://www.tipeeestream.com/pietsmiet/donation Alle sind im ...",
+        "views": 101204,
+        "duration": "2:09:32",
+        "uploaded_at": "Streamed 17 hours ago"
+      },
+      {
+        "type": "video",
+        "title": "Dhalu im Visier  🎮 TTT #589",
+        "link": "https://www.youtube.com/watch?v=TbdcnQ96S30",
+        "thumbnail": "https://i.ytimg.com/vi/TbdcnQ96S30/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHFgcjvLivtzEsnVVpnJZSy8CFZw",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Wenn Brammen Dhalu endlich im Visier hat! Werbung: Spiele günstig & schnell per Email bei MMOGA: http://mmo.ga/F7Ms Hier ...",
+        "views": 65467,
+        "duration": "23:03",
+        "uploaded_at": "17 hours ago"
+      },
+      {
+        "type": "video",
+        "title": "Der EINZIGARTIGE Brammini zeigt euch einen Kartentrick",
+        "link": "https://www.youtube.com/watch?v=JFhHTlw3rn8",
+        "thumbnail": "https://i.ytimg.com/vi/JFhHTlw3rn8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFrSsLYKYwqrGgSoUzSyOqdhD6mg",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Wir sind in Berlin und Brammen zeigt euch was für ein großartiger Zauberer er geworden ist Unser Büro in Berlin: ...",
+        "views": 89468,
+        "duration": "7:38",
+        "uploaded_at": "21 hours ago"
+      },
+      {
+        "type": "video",
+        "title": "Aus Pfui mach Hui mit EUREN Zutaten",
+        "link": "https://www.youtube.com/watch?v=ZKTRV4Gq70o",
+        "thumbnail": "https://i.ytimg.com/vi/ZKTRV4Gq70o/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBSNAmjpMd2FBN-MXBSQnxugIeskA",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Piet & Sep kochen heute mit Zutaten, die ihr ausgesucht haben - hoffentlich machen sie auf Pfui Hui! Werbung: Spiele günstig ...",
+        "views": 167653,
+        "duration": "18:50",
+        "uploaded_at": "1 day ago"
+      },
+      {
+        "type": "video",
+        "title": "Faschocard oder Liberalocard? 🎮 Secret Hitler #43",
+        "link": "https://www.youtube.com/watch?v=cXMULY6-TyU",
+        "thumbnail": "https://i.ytimg.com/vi/cXMULY6-TyU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAWZu_aQGsTdYGu7T7Oo3rSbia0Q",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Wer ist dieses Mal das Übel der Nation? Werbung: Spiele günstig & schnell per Email bei MMOGA: http://mmo.ga/F7Ms Hitler: ...",
+        "views": 111280,
+        "duration": "1:02:21",
+        "uploaded_at": "1 day ago"
+      },
+      {
+        "type": "video",
+        "title": "REACT: Best of September 2014",
+        "link": "https://www.youtube.com/watch?v=IXWc381XqCs",
+        "thumbnail": "https://i.ytimg.com/vi/IXWc381XqCs/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAi3MpKQ2kybsPsvun6PjWYjD9Akw",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Weiter geht´s mit unseren Klassikern. Dieses mal schauen wir uns das Best of September 2014 an! Werbung: Spiele günstig ...",
+        "views": 159180,
+        "duration": "12:52",
+        "uploaded_at": "1 day ago"
+      },
+      {
+        "type": "video",
+        "title": "Doppel D Diktator - Snob Lives Matter (Prod. by Planet Pluto) (Official Video)",
+        "link": "https://www.youtube.com/watch?v=vDUXRuj30uo",
+        "thumbnail": "https://i.ytimg.com/vi/vDUXRuj30uo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWYPGmNKSbzD2re63vmDI2RlFVOg",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Doppel D Diktator ist zurück: Mit dem Song \"Snob Lives Matter\" spittet er sich an die Spitze des Rapgames. Song auf Spotify: ...",
+        "views": 183377,
+        "duration": "3:35",
+        "uploaded_at": "2 days ago"
+      },
+      {
+        "type": "video",
+        "title": "Bombenstimmung bei Brammen  🎮 TTT #588",
+        "link": "https://www.youtube.com/watch?v=TdDIxiJ70G4",
+        "thumbnail": "https://i.ytimg.com/vi/TdDIxiJ70G4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA11vD8K4JRPAACPv1jXJ0nUDzBRQ",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Brammen hat einen Masterplan. An der Umsetzung muss er allerdings noch arbeiten! Werbung: Spiele günstig & schnell per ...",
+        "views": 107653,
+        "duration": "25:13",
+        "uploaded_at": "2 days ago"
+      },
+      {
+        "type": "video",
+        "title": "Safety-Car-HORROR | Spanien 2/2 🎮 F1 2017 S2 #10",
+        "link": "https://www.youtube.com/watch?v=qccmnL_Wo5g",
+        "thumbnail": "https://i.ytimg.com/vi/qccmnL_Wo5g/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBO5S1GJ9VfYwGY7y5Ld0qlHDHBcg",
+        "author": {
+          "name": "PietSmiet",
+          "ref": "https://www.youtube.com/user/PietSmittie",
+          "verified": true
+        },
+        "description": "Wurde das Safety-Car in F1 2017 eigentlich schon gefixt? Werbung: Spiele günstig & schnell per Email bei MMOGA: ...",
+        "views": 107450,
+        "duration": "37:03",
+        "uploaded_at": "2 days ago"
+      }
+    ]
+  },
+  "video": {
+    "type": "video",
+    "title": "Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)",
+    "link": "https://www.youtube.com/watch?v=CX11yw6YL1w",
+    "thumbnail": "https://i.ytimg.com/vi/CX11yw6YL1w/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdZ75sfr4ol3r_OG_lF5iDX-4XHg",
+    "author": {
+      "name": "CelineDionVEVO",
+      "ref": "https://www.youtube.com/user/CelineDionVEVO",
+      "verified": true
+    },
+    "description": "Celine Dion “Ashes” (From the Deadpool 2 Motion Picture Soundtrack) Get the song and soundtrack here: ...",
+    "views": 15163636,
+    "duration": "3:54",
+    "uploaded_at": "5 days ago"
+  },
+  "compact-shelf": {
+    "type": "shelf-compact",
+    "title": "Movies",
+    "items": [
+      {
+        "type": "movie-short",
+        "name": "Lucy",
+        "ref": "https://www.youtube.com/watch?v=q7ta8FFhrN4",
+        "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+        "duration": "1:29:21",
+        "price": "€2.99"
+      },
+      {
+        "type": "movie-short",
+        "name": "The Dark Knight",
+        "ref": "https://www.youtube.com/watch?v=-8kj_Mv4xsU",
+        "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+        "duration": "2:32:09",
+        "price": "€2.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "Transcendence",
+       "ref": "https://www.youtube.com/watch?v=3LVPyLJ_5jM",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "1:59:16",
+       "price": "€2.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "Million Dollar Baby",
+       "ref": "https://www.youtube.com/watch?v=uErwJasgJJE",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "2:12:43",
+       "price": "€2.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "The Dark Knight Rises",
+       "ref": "https://www.youtube.com/watch?v=R5gB8pIJJ0Q",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "2:44:29",
+       "price": "€2.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "Die Unfassbaren 2 - Now You See Me 2",
+       "ref": "https://www.youtube.com/watch?v=X0pcLlR1Otk",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "2:09:54",
+       "price": "€2.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "Abgang mit Stil",
+       "ref": "https://www.youtube.com/watch?v=X2qn_Ip40Vc",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "1:36:23",
+       "price": "€11.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "Robin Hood - König der Diebe",
+       "ref": "https://www.youtube.com/watch?v=Mu4ZdYqzSqw",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "2:35:01",
+       "price": "€2.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "Lucky Number Slevin",
+       "ref": "https://www.youtube.com/watch?v=zjzPEx-ZRiU",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "1:45:43",
+       "price": "€2.99"
+     },
+     {
+       "type": "movie-short",
+       "name": "Batman Begins",
+       "ref": "https://www.youtube.com/watch?v=jWk6Mrg5_Ng",
+       "thumbnail": "https://www.youtube.com/yts/img/pixel-vfl3z5WfW.gif",
+       "duration": "2:20:00",
+       "price": "€2.99"
+      }
+    ]
+  }
+}

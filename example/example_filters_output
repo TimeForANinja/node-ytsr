@@ -1,105 +1,82 @@
-{
-  "upload date": [
-    {
-      "ref": "/results?sp=EgIIAQ%253D%253D&amp;q=github",
-      "name": "Last hour"
-    },
-    {
-      "ref": "/results?sp=EgIIAg%253D%253D&amp;q=github",
-      "name": "Today"
-    },
-    {
-      "ref": "/results?sp=EgIIAw%253D%253D&amp;q=github",
-      "name": "This week"
-    },
-    {
-      "ref": "/results?sp=EgIIBA%253D%253D&amp;q=github",
-      "name": "This month"
-    },
-    {
-      "ref": "/results?sp=EgIIBQ%253D%253D&amp;q=github",
-      "name": "This year"
-    }
-  ],
-  "type": [
-    {
-      "ref": "/results?sp=EgIQAQ%253D%253D&amp;q=github",
-      "name": "Video"
-    },
-    {
-      "ref": "/results?sp=EgIQAg%253D%253D&amp;q=github",
-      "name": "Channel"
-    },
-    {
-      "ref": "/results?sp=EgIQAw%253D%253D&amp;q=github",
-      "name": "Playlist"
-    },
-    {
-      "ref": "/results?sp=EgIQBA%253D%253D&amp;q=github",
-      "name": "Movie"
-    },
-    {
-      "ref": "/results?sp=EgIQBQ%253D%253D&amp;q=github",
-      "name": "Show"
-    }
-  ],
-  "duration": [
-    {
-      "ref": "/results?sp=EgIYAQ%253D%253D&amp;q=github",
-      "name": "Short (&lt; 4 minutes)"
-    },
-    {
-      "ref": "/results?sp=EgIYAg%253D%253D&amp;q=github",
-      "name": "Long (&gt; 20 minutes)"
-    }
-  ],
-  "features": [
-    {
-      "ref": "/results?sp=EgJwAQ%253D%253D&amp;q=github",
-      "name": "4K"
-    },
-    {
-      "ref": "/results?sp=EgIgAQ%253D%253D&amp;q=github",
-      "name": "HD"
-    },
-    {
-      "ref": "/results?sp=EgIoAQ%253D%253D&amp;q=github",
-      "name": "Subtitles/CC"
-    },
-    {
-      "ref": "/results?sp=EgIwAQ%253D%253D&amp;q=github",
-      "name": "Creative Commons"
-    },
-    {
-      "ref": "/results?sp=EgI4AQ%253D%253D&amp;q=github",
-      "name": "3D"
-    },
-    {
-      "ref": "/results?sp=EgJAAQ%253D%253D&amp;q=github",
-      "name": "Live"
-    },
-    {
-      "ref": "/results?sp=EgJIAQ%253D%253D&amp;q=github",
-      "name": "Purchased"
-    },
-    {
-      "ref": "/results?sp=EgJ4AQ%253D%253D&amp;q=github",
-      "name": "360°"
-    }
-  ],
-  "sort by": [
-    {
-      "ref": "/results?sp=CAI%253D&amp;q=github",
-      "name": "Upload date"
-    },
-    {
-      "ref": "/results?sp=CAM%253D&amp;q=github",
-      "name": "View count"
-    },
-    {
-      "ref": "/results?sp=CAE%253D&amp;q=github",
-      "name": "Rating"
-    }
-  ],
-  "already_set": []
-}
+Map {
+  'Upload date' => [ { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIIAQ%253D%253D',
+    name: 'Last hour',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIIAg%253D%253D',
+    name: 'Today',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIIAw%253D%253D',
+    name: 'This week',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIIBA%253D%253D',
+    name: 'This month',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIIBQ%253D%253D',
+    name: 'This year',
+    active: false },
+  active: null ],
+  'Type' => [ { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIQAQ%253D%253D',
+    name: 'Video',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIQAg%253D%253D',
+    name: 'Channel',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIQAw%253D%253D',
+    name: 'Playlist',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIQBA%253D%253D',
+    name: 'Movie',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIQBQ%253D%253D',
+    name: 'Show',
+    active: false },
+  active: null ],
+  'Duration' => [ { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIYAQ%253D%253D',
+    name: 'Short (< 4 minutes)',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIYAg%253D%253D',
+    name: 'Long (> 20 minutes)',
+    active: false },
+  active: null ],
+  'Features' => [ { ref: 'https://www.youtube.com/results?search_query=github&sp=EgJwAQ%253D%253D',
+    name: '4K',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIgAQ%253D%253D',
+    name: 'HD',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgPIAQE%253D',
+    name: 'HDR',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIoAQ%253D%253D',
+    name: 'Subtitles/CC',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgIwAQ%253D%253D',
+    name: 'Creative Commons',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgI4AQ%253D%253D',
+    name: '3D',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgJAAQ%253D%253D',
+    name: 'Live',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgJIAQ%253D%253D',
+    name: 'Purchased',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgJ4AQ%253D%253D',
+    name: '360°',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=EgO4AQE%253D',
+    name: 'Location',
+    active: false },
+  active: null ],
+  'Sort by' => [ { ref: null, name: 'Relevance', active: true },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=CAI%253D',
+    name: 'Upload date',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=CAM%253D',
+    name: 'View count',
+    active: false },
+  { ref: 'https://www.youtube.com/results?search_query=github&sp=CAE%253D',
+    name: 'Rating',
+    active: false },
+  active: null ] }
