@@ -2,7 +2,8 @@
   <p>
     <a href="https://www.npmjs.com/package/ytsr"><img src="https://img.shields.io/npm/v/ytsr.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/ytsr"><img src="https://img.shields.io/npm/dt/ytsr.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://david-dm.org/timeforaninja/ytsr.svg"><img src="https://img.shields.io/david/timeforaninja/node-ytsr.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href="https://david-dm.org/"><img src="https://img.shields.io/david/timeforaninja/node-ytsr.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href="https://greenkeeper.io/"><img src="https://badges.greenkeeper.io/TimeForANinja/node-ytsr.svg" alt="Dependencies" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/ytsr/"><img src="https://nodei.co/npm/ytsr.png?downloads=true&stars=true" alt="NPM info" /></a>
@@ -10,8 +11,6 @@
 </div>
 
 # node-ytsr
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/TimeForANinja/node-ytsr.svg)](https://greenkeeper.io/)
 
 Simple js only module to search YouTube
 Doesn't need any login or GoogleAPI key
