@@ -23,7 +23,7 @@ let filter;
 
 ytsr.getFilters('github', function(err, filters) {
   if(err) throw err;
-	filter = filters.get('type').find(o => o.name === 'Video');
+	filter = filters.get('Type').find(o => o.name === 'Video');
   ytsr.getFilters(filter.ref, function(err, filters) {
     if(err) throw err;
   	filter = filters.get('Duration').find(o => o.name.startsWith('Short'));
