@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "eslint": "^5.0.0",
-    "assert-diff": "^1.2.4",
+    "assert-diff": "^2.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^5.0.0",
     "nock": "^9.1.5"
