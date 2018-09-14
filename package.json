@@ -29,7 +29,7 @@
     "assert-diff": "^2.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^5.0.0",
-    "nock": "^9.1.5"
+    "nock": "^10.0.0"
   },
   "engines": {
     "node": ">=6"
