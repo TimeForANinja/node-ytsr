@@ -23,7 +23,7 @@ exports = module.exports = (id, opts) => { // eslint-disable-line complexity
     scopes.push(
       NOCK(YT_HOST)
         .get(id)
-        .reply(opts.statusCode || 200, opts.body)
+        .reply(opts.statusCode || 200, opts.body),
     );
   }
 
@@ -31,7 +31,7 @@ exports = module.exports = (id, opts) => { // eslint-disable-line complexity
     scopes.push(
       NOCK(YT_HOST)
         .get(id)
-        .reply(400)
+        .reply(400),
     );
   }
 
@@ -40,49 +40,49 @@ exports = module.exports = (id, opts) => { // eslint-disable-line complexity
       scopes.push(
         NOCK(YT_HOST)
           .get(SEARCH_PATH + QS.escape(id) + SEARCH_TRACE)
-          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page1.html'))
+          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page1.html')),
       );
     }
     if (opts.pages.includes(2)) {
       scopes.push(
         NOCK(YT_HOST)
           .get(`${ADDITIONAL_SEARCH_PATH}${'SBTqAwA%253D'}${ADDITIONAL_MIDDLE}github${SEARCH_TRACE}`)
-          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page2.html'))
+          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page2.html')),
       );
     }
     if (opts.pages.includes(3)) {
       scopes.push(
         NOCK(YT_HOST)
           .get(`${ADDITIONAL_SEARCH_PATH}${'SCjqAwA%253D'}${ADDITIONAL_MIDDLE}github${SEARCH_TRACE}`)
-          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page3.html'))
+          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page3.html')),
       );
     }
     if (opts.pages.includes(4)) {
       scopes.push(
         NOCK(YT_HOST)
           .get(`${ADDITIONAL_SEARCH_PATH}${'SDzqAwA%253D'}${ADDITIONAL_MIDDLE}github${SEARCH_TRACE}`)
-          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page4.html'))
+          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page4.html')),
       );
     }
     if (opts.pages.includes(5)) {
       scopes.push(
         NOCK(YT_HOST)
           .get(`${ADDITIONAL_SEARCH_PATH}${'SFDqAwA%253D'}${ADDITIONAL_MIDDLE}github${SEARCH_TRACE}`)
-          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page5.html'))
+          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page5.html')),
       );
     }
     if (opts.pages.includes(6)) {
       scopes.push(
         NOCK(YT_HOST)
           .get(`${ADDITIONAL_SEARCH_PATH}${'SGTqAwA%253D'}${ADDITIONAL_MIDDLE}github${SEARCH_TRACE}`)
-          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page6.html'))
+          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page6.html')),
       );
     }
     if (opts.pages.includes(7)) {
       scopes.push(
         NOCK(YT_HOST)
           .get(`${ADDITIONAL_SEARCH_PATH}${'SHjqAwA%253D'}${ADDITIONAL_MIDDLE}github${SEARCH_TRACE}`)
-          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page7.html'))
+          .replyWithFile(opts.statusCode || 200, PATH.resolve(__dirname, 'mainFiles/Page7.html')),
       );
     }
   }

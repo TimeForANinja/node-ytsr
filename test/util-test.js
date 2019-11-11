@@ -240,7 +240,7 @@ describe('util.removeHtml()', () => {
   it('remove html', () => {
     ASSERT.equal(
       UTIL.removeHtml('<a href="/someref">Artist1 - Nova (Official)</a><div class="pl-video-owner">'),
-      'Artist1 - Nova (Official)'
+      'Artist1 - Nova (Official)',
     );
   });
 
