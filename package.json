@@ -28,7 +28,7 @@
     "eslint": "^6.0.0",
     "assert-diff": "^2.0.0",
     "istanbul": "^0.4.5",
-    "mocha": "^6.0.0",
+    "mocha": "^7.0.1",
     "nock": "^11.1.0"
   },
   "engines": {
