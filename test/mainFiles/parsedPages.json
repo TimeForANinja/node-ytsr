@@ -2,6 +2,7 @@
   "Page1": [
     {
       "type": "video",
+      "live": false,
       "title": "Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics",
       "link": "https://www.youtube.com/watch?v=0fKg7e37bQE",
       "thumbnail": "https://i.ytimg.com/vi/0fKg7e37bQE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlfBq-hcrX0cF0xmYgWYJjjJngyA",
@@ -17,6 +18,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git & GitHub Crash Course For Beginners",
       "link": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
       "thumbnail": "https://i.ytimg.com/vi/SWYqp7iY_Tc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDH_7RXlXgECgLvdFdg0M5eNQ7s1w",
@@ -32,6 +34,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "What is GitHub?",
       "link": "https://www.youtube.com/watch?v=w3jLJU7DT5E",
       "thumbnail": "https://i.ytimg.com/vi/w3jLJU7DT5E/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCMsh9hRvhIAgtlg9WHZaTjaD9rPw",
@@ -58,6 +61,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka",
       "link": "https://www.youtube.com/watch?v=xuB1Id2Wxak",
       "thumbnail": "https://i.ytimg.com/vi/xuB1Id2Wxak/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAHy3fSvm0SSGFsOhF9X5OY3k3g8g",
@@ -73,6 +77,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub for Noobs (1/4) – A Short History",
       "link": "https://www.youtube.com/watch?v=1h9_cB9mPT8",
       "thumbnail": "https://i.ytimg.com/vi/1h9_cB9mPT8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAoO0QoQdXCokd_as22yGX5RS4mPg",
@@ -88,6 +93,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "1.3: Forks and Pull Requests - Git and GitHub for Poets",
       "link": "https://www.youtube.com/watch?v=_NrSWLQsDL4",
       "thumbnail": "https://i.ytimg.com/vi/_NrSWLQsDL4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCPVb35oTdb3w0RrqKfEFDBXHy_4w",
@@ -103,6 +109,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Изучение GitHub в одном видео уроке за 15 минут!",
       "link": "https://www.youtube.com/watch?v=JfpCicDUMKc",
       "thumbnail": "https://i.ytimg.com/vi/JfpCicDUMKc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDzNFXBg1EeaARzqY1NbSn3RJN7Yg",
@@ -118,6 +125,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to Get Started with Github - Beginner Tutorial",
       "link": "https://www.youtube.com/watch?v=73I5dRucCds",
       "thumbnail": "https://i.ytimg.com/vi/73I5dRucCds/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrrIF4M_U-gnoCh8OmQ0kz9eiB1g",
@@ -133,6 +141,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Github 101 for beginners",
       "link": "https://www.youtube.com/watch?v=mvIomArt2g8",
       "thumbnail": "https://i.ytimg.com/vi/mvIomArt2g8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgCiD242LPMYqiJ3_LSnhA_3NO3w",
@@ -148,6 +157,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "HOW TO DO THE GITHUB (The Absolute Basics)",
       "link": "https://www.youtube.com/watch?v=EUvmCuPjHD4",
       "thumbnail": "https://i.ytimg.com/vi/EUvmCuPjHD4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAc_su4vE9nI4zqKz55aQWu2yM5QA",
@@ -163,6 +173,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Github - Pra que serve e como usar?",
       "link": "https://www.youtube.com/watch?v=neDiLHwXSVo",
       "thumbnail": "https://i.ytimg.com/vi/neDiLHwXSVo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBXnmwVuPhyNZgFJq3RLjhIM0ONxQ",
@@ -178,6 +189,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "What is Git and Github?",
       "link": "https://www.youtube.com/watch?v=uUuTYDg9XoI",
       "thumbnail": "https://i.ytimg.com/vi/uUuTYDg9XoI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC7M-NbN_0ApIPt6_GJZ6oPSBhO7A",
@@ -193,6 +205,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "What is GitHub Pages?",
       "link": "https://www.youtube.com/watch?v=2MsN8gpT6jY",
       "thumbnail": "https://i.ytimg.com/vi/2MsN8gpT6jY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgF-8J343ZEK5Jvj2YXiRz8IdqAw",
@@ -269,6 +282,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How To Add Eclipse Project To GitHub | How to Commit, Push, Pull from Eclipse to GitHub",
       "link": "https://www.youtube.com/watch?v=LPT7v69guVY",
       "thumbnail": "https://i.ytimg.com/vi/LPT7v69guVY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCvUWUrf0EFrj8xsOjTsMklPti23g",
@@ -296,6 +310,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "1.2: Branches - Git and GitHub for Poets",
       "link": "https://www.youtube.com/watch?v=oPpnCh7InLY",
       "thumbnail": "https://i.ytimg.com/vi/oPpnCh7InLY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBkMkjPcPKVSLkrffox7xMz7goQtQ",
@@ -311,6 +326,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git & GitHub Tutorial for Beginners #1 - Why Use Git?",
       "link": "https://www.youtube.com/watch?v=3RjQznt-8kE",
       "thumbnail": "https://i.ytimg.com/vi/3RjQznt-8kE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBGwfbBt5D7eeYgahHJ9GWqfSfmmg",
@@ -326,6 +342,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to use GitHub for Beginners",
       "link": "https://www.youtube.com/watch?v=E8TXME3bzNs",
       "thumbnail": "https://i.ytimg.com/vi/E8TXME3bzNs/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB9BFYGWtjVJ0Nmpq6tAjsRpp2LaA",
@@ -341,6 +358,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "كلام مبرمجين - ماهو Git ؟ ماهو github ؟",
       "link": "https://www.youtube.com/watch?v=doMqY_mihsc",
       "thumbnail": "https://i.ytimg.com/vi/doMqY_mihsc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBcVpQOo-fgLjeA4YOCbLqkVDUn9A",
@@ -358,6 +376,7 @@
   "Page2": [
     {
       "type": "video",
+      "live": false,
       "title": "An Introduction to Git and GitHub by Brian Yu",
       "link": "https://www.youtube.com/watch?v=MJUJ4wbFm_A",
       "thumbnail": "https://i.ytimg.com/vi/MJUJ4wbFm_A/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJ0iM13xDWxfIpQ47L98xquoabuQ",
@@ -373,6 +392,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "#0 Git Tutorial | What is Git? | Github",
       "link": "https://www.youtube.com/watch?v=OdbBmvfThJY",
       "thumbnail": "https://i.ytimg.com/vi/OdbBmvfThJY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvSgJ7_D-zoMSO3SY992NqugoNDg",
@@ -388,6 +408,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "كلام مبرمجين - ماهو Git ؟ ماهو github ؟",
       "link": "https://www.youtube.com/watch?v=doMqY_mihsc",
       "thumbnail": "https://i.ytimg.com/vi/doMqY_mihsc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBcVpQOo-fgLjeA4YOCbLqkVDUn9A",
@@ -415,6 +436,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GITHUB PULL REQUEST, Branching, Merging & Team Workflow",
       "link": "https://www.youtube.com/watch?v=oFYyTZwMyAg",
       "thumbnail": "https://i.ytimg.com/vi/oFYyTZwMyAg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLByNvRoOgnKnf1gI8OEPESt26Oc7w",
@@ -430,6 +452,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to Setup Github Pages - Website on Github - Complete Beginner Tutorial",
       "link": "https://www.youtube.com/watch?v=FiOgz3nKpgk",
       "thumbnail": "https://i.ytimg.com/vi/FiOgz3nKpgk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2R5oxyIeAoS3_fPzYdkma7MyBkA",
@@ -445,6 +468,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to use GitHub with Unity",
       "link": "https://www.youtube.com/watch?v=qpXxcvS-g3g",
       "thumbnail": "https://i.ytimg.com/vi/qpXxcvS-g3g/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBaK208qLEK-B7O6keK_gzOebENpw",
@@ -472,6 +496,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Github Basics",
       "link": "https://www.youtube.com/watch?v=WJ0eoGO2bhQ",
       "thumbnail": "https://i.ytimg.com/vi/WJ0eoGO2bhQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCGzlKX6aqkRqnSUUAcuj0dLceuwQ",
@@ -487,6 +512,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git and Github | Practical Course from Scratch",
       "link": "https://www.youtube.com/watch?v=HiXLkL42tMU",
       "thumbnail": "https://i.ytimg.com/vi/HiXLkL42tMU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAN3d-O3GTh5s8oAWAl2fVqcWIMkQ",
@@ -513,6 +539,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git e Github para iniciantes",
       "link": "https://www.youtube.com/watch?v=UMhskLXJuq4",
       "thumbnail": "https://i.ytimg.com/vi/UMhskLXJuq4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAw_EqeUVKum13xJjFXPwODLW7MYA",
@@ -540,6 +567,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "5.- Curso Git - Empezando con Github",
       "link": "https://www.youtube.com/watch?v=Qn186NyDqOk",
       "thumbnail": "https://i.ytimg.com/vi/Qn186NyDqOk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCeP9xFJW4hH_x8gjWt5hn_crRAaQ",
@@ -555,6 +583,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "O QUE É GITHUB? - VOCÊ DEVERIA APRENDER GIT ONTEM - 064",
       "link": "https://www.youtube.com/watch?v=ZDo_f3ZibFA",
       "thumbnail": "https://i.ytimg.com/vi/ZDo_f3ZibFA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDr13_yc6mW31JzaUFNWHiqzwf8sw",
@@ -570,6 +599,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Introduction to GITHUB | LIVE  (in Hindi)",
       "link": "https://www.youtube.com/watch?v=AS2uIDwkikk",
       "thumbnail": "https://i.ytimg.com/vi/AS2uIDwkikk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrQEfIOcrneJ8pvCcoxpWPcq_IUw",
@@ -585,6 +615,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Getting Started with GitHub",
       "link": "https://www.youtube.com/watch?v=noZnOSpcjYY",
       "thumbnail": "https://i.ytimg.com/vi/noZnOSpcjYY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBKZoMa7X-vzCXbE2kLJAPQCDgYBQ",
@@ -600,6 +631,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "#2 Git Tutorial | GitHub Creating Repository",
       "link": "https://www.youtube.com/watch?v=WfhRyz3Wf4o",
       "thumbnail": "https://i.ytimg.com/vi/WfhRyz3Wf4o/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBDQ3SRjGdxPRHe_YJE51-KscfEfQ",
@@ -615,6 +647,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Github | ¿Que es? y ¿Como funciona? 2017",
       "link": "https://www.youtube.com/watch?v=KbloUomtLrE",
       "thumbnail": "https://i.ytimg.com/vi/KbloUomtLrE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA77Qvv5VIpkqdoDRKWfDKs184ijg",
@@ -630,6 +663,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git Tutorial - 25 - GitHub Organizations and Teams",
       "link": "https://www.youtube.com/watch?v=SUu6cmcC-3A",
       "thumbnail": "https://i.ytimg.com/vi/SUu6cmcC-3A/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCo9Z7szstyAh3CivfHf9MsnSsjmw",
@@ -659,6 +693,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "RStudio & Github Integration",
       "link": "https://www.youtube.com/watch?v=E2d91v1Twcc",
       "thumbnail": "https://i.ytimg.com/vi/E2d91v1Twcc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDWPDlVdiWXLVnGJQhdLJeQy77r2g",
@@ -674,6 +709,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Introducción práctica a Git y Github | Cursos Platzi",
       "link": "https://www.youtube.com/watch?v=udughzlN5M4",
       "thumbnail": "https://i.ytimg.com/vi/udughzlN5M4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUAwIBdtrDxg_cBbfxAaA6QPeEow",
@@ -689,6 +725,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "1.1: Introduction - Git and GitHub for Poets",
       "link": "https://www.youtube.com/watch?v=BCQHnlnPusY",
       "thumbnail": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5mLIQgx-4Vc9nwgZJKPFf4eVuyQ",
@@ -704,6 +741,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "What is the difference between Git and GitHub?",
       "link": "https://www.youtube.com/watch?v=xKVlZ3wFVKA",
       "thumbnail": "https://i.ytimg.com/vi/xKVlZ3wFVKA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwDxjhOPxPk4pNPSJ189VLxQTXSQ",
@@ -719,6 +757,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "O QUE É GITHUB NA PRÁTICA",
       "link": "https://www.youtube.com/watch?v=fG6gl9ne6CE",
       "thumbnail": "https://i.ytimg.com/vi/fG6gl9ne6CE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBctSVQrRh5YBGJcBScKtfsnB_K-w",
@@ -734,6 +773,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git and GitHub for Beginners: GitHub basics, and how to use GitHub Desktop",
       "link": "https://www.youtube.com/watch?v=GqNAD4XoZ6k",
       "thumbnail": "https://i.ytimg.com/vi/GqNAD4XoZ6k/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDLmlBBgBO3zJZaKDeN6EOrSrEwRg",
@@ -761,6 +801,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "1.6: Cloning Repo and Push/Pull - Git and GitHub for Poets",
       "link": "https://www.youtube.com/watch?v=yXT1ElMEkW8",
       "thumbnail": "https://i.ytimg.com/vi/yXT1ElMEkW8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCVWSJ1Ar0zzVwc0Ks9-h9OZ-7YyQ",
@@ -776,6 +817,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to integrate Github in Android project using Android Studio",
       "link": "https://www.youtube.com/watch?v=3p_fgJEbsp8",
       "thumbnail": "https://i.ytimg.com/vi/3p_fgJEbsp8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBV5UB5qezt3L4VgSBHmmAZgkkqgQ",
@@ -791,6 +833,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git - для новичков - #3 - работаем с github",
       "link": "https://www.youtube.com/watch?v=vFj2-bKGwkw",
       "thumbnail": "https://i.ytimg.com/vi/vFj2-bKGwkw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxpaK81bmnFXqWEw9Ond_33AbxCw",
@@ -806,6 +849,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to source programmers/ software developers on GitHub.",
       "link": "https://www.youtube.com/watch?v=Mu0X2jyH5Hw",
       "thumbnail": "https://i.ytimg.com/vi/Mu0X2jyH5Hw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-a_-SbVbG7WCVoF9TmCJ0RtstkQ",
@@ -821,6 +865,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How To Use GitHub As A Developer?",
       "link": "https://www.youtube.com/watch?v=hFUBMykMDy8",
       "thumbnail": "https://i.ytimg.com/vi/hFUBMykMDy8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOiEkTdwj36AZmKZFdZRnsk1Q_5Q",
@@ -836,6 +881,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Tutorial - Cómo subir un proyecto a Github",
       "link": "https://www.youtube.com/watch?v=mlt1t5zDtbs",
       "thumbnail": "https://i.ytimg.com/vi/mlt1t5zDtbs/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgxRkMh_qyuvNZpseR96smQPFYKA",
@@ -851,6 +897,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "github基本教學 - 從無到有",
       "link": "https://www.youtube.com/watch?v=py3n6gF5Y00",
       "thumbnail": "https://i.ytimg.com/vi/py3n6gF5Y00/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDFO4tOcpb2DqAHvOIkzED4Haj9A",
@@ -866,6 +913,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Hack Anything With Github?/ GitHub For Hackers / हैकर्स कैसे करते है GitHub का प्रयोग",
       "link": "https://www.youtube.com/watch?v=ewFZEb66jMM",
       "thumbnail": "https://i.ytimg.com/vi/ewFZEb66jMM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9RABi2sGa7HBvIypKRTszA03PEg",
@@ -881,6 +929,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git and GitHub Beginner Tutorial 1 - Introduction",
       "link": "https://www.youtube.com/watch?v=-U-eUHI6euM",
       "thumbnail": "https://i.ytimg.com/vi/-U-eUHI6euM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBoS1eGRuOMYgkaGamNV211k9HZMA",
@@ -896,6 +945,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Как разместить верстку на GitHub Pages. Бесплатный хостинг от GitHub",
       "link": "https://www.youtube.com/watch?v=YhseegRCn0U",
       "thumbnail": "https://i.ytimg.com/vi/YhseegRCn0U/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUiWN77uhP0o2-ExoDC3Y_7oYBzQ",
@@ -911,6 +961,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Github Tutorial for Beginners (in Hindi) | Part 1",
       "link": "https://www.youtube.com/watch?v=1bS8VpQK29o",
       "thumbnail": "https://i.ytimg.com/vi/1bS8VpQK29o/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCv2RiDsrncB_W6uT8co2ZlhEruow",
@@ -940,6 +991,7 @@
   "Page4": [
     {
       "type": "video",
+      "live": false,
       "title": "jQuery & Ajax: Build A Github Finder App",
       "link": "https://www.youtube.com/watch?v=lIKrfLWNsUI",
       "thumbnail": "https://i.ytimg.com/vi/lIKrfLWNsUI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDhmSBDWHwmRnn5btfB65LzLKJIyQ",
@@ -955,6 +1007,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub Integrations • JIRA",
       "link": "https://www.youtube.com/watch?v=SCNWWfXpCw0",
       "thumbnail": "https://i.ytimg.com/vi/SCNWWfXpCw0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHU3Hlioc2a-_cpLQh-C8g9MSCoA",
@@ -970,6 +1023,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Make Your First Contribution on GitHub",
       "link": "https://www.youtube.com/watch?v=-e5xeKt0ztU",
       "thumbnail": "https://i.ytimg.com/vi/-e5xeKt0ztU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqt0Q6hAIY-0CQIFvpSfDrdyDRrA",
@@ -985,6 +1039,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub Desktop Quick Intro For Windows",
       "link": "https://www.youtube.com/watch?v=77W2JSL7-r8",
       "thumbnail": "https://i.ytimg.com/vi/77W2JSL7-r8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBZjWGoJhAJW74CQCsPuEZWE6YOGA",
@@ -1012,6 +1067,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git Browser: The New Way to Install Kodi Addons from GitHub (17.0 Krypton or Above)",
       "link": "https://www.youtube.com/watch?v=ty9YS4REeEA",
       "thumbnail": "https://i.ytimg.com/vi/ty9YS4REeEA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWPFsuojjKxRQBGcSdhcSwqRgn2w",
@@ -1027,6 +1083,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Everything I Wish I Knew When I Started Using GitHub",
       "link": "https://www.youtube.com/watch?v=KDUtjZHIx44",
       "thumbnail": "https://i.ytimg.com/vi/KDUtjZHIx44/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDCFZDhgTNEsFyclCkd35vunj3S1A",
@@ -1042,6 +1099,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub ve Kodlama Örnekleri",
       "link": "https://www.youtube.com/watch?v=o4v8W_4jEC0",
       "thumbnail": "https://i.ytimg.com/vi/o4v8W_4jEC0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgLqNLWtenWxJ6vOVN0_m4sIQ2xQ",
@@ -1057,6 +1115,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Private repositories, GitHub & BitBucket (Get started with Jenkins, part 14)",
       "link": "https://www.youtube.com/watch?v=HTlAssPBKBs",
       "thumbnail": "https://i.ytimg.com/vi/HTlAssPBKBs/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhew_q8QD6cUsWUh0Gw2dLJylRaA",
@@ -1072,6 +1131,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub Registration n Creating a GitHub Repository - (Hindi Language)",
       "link": "https://www.youtube.com/watch?v=6u5LtzY3VJM",
       "thumbnail": "https://i.ytimg.com/vi/6u5LtzY3VJM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTu4DddAyxX-cdLNd8v_nk5ScoXw",
@@ -1087,6 +1147,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to create your first repository and upload it to Github",
       "link": "https://www.youtube.com/watch?v=mMsWq3rS6Po",
       "thumbnail": "https://i.ytimg.com/vi/mMsWq3rS6Po/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwEi_d_cYCIp5tPL3B7LHXv9SK7w",
@@ -1102,6 +1163,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Что такое Git и GitHub. В чем разница?",
       "link": "https://www.youtube.com/watch?v=U82dUchVroc",
       "thumbnail": "https://i.ytimg.com/vi/U82dUchVroc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBalpoqODCNXVq36-mFrQo8_gC9fg",
@@ -1117,6 +1179,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to Use Git and GitHub from NetBeans",
       "link": "https://www.youtube.com/watch?v=MbwHOw6JXI8",
       "thumbnail": "https://i.ytimg.com/vi/MbwHOw6JXI8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCjWGw44f7nttplqSI1xQ1K1ABDJA",
@@ -1132,6 +1195,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Hosting a website on Github | Using Github Pages",
       "link": "https://www.youtube.com/watch?v=aX522Om28-Q",
       "thumbnail": "https://i.ytimg.com/vi/aX522Om28-Q/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCCVchIZgNUBpzuVLa-KDSWoYrpvA",
@@ -1147,6 +1211,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Create GitHub Repository with GitHub Desktop Mac",
       "link": "https://www.youtube.com/watch?v=oT1QweCzHB4",
       "thumbnail": "https://i.ytimg.com/vi/oT1QweCzHB4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBwn_hjBep_a1rCKSQlIiwVlloOXQ",
@@ -1162,6 +1227,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git & GitHub - работа под Windows",
       "link": "https://www.youtube.com/watch?v=SfSYrebXLDE",
       "thumbnail": "https://i.ytimg.com/vi/SfSYrebXLDE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBH0nK4Q-3uFhiJwsHXyoLJP_lSmQ",
@@ -1177,6 +1243,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Creating a New GitHub Repository",
       "link": "https://www.youtube.com/watch?v=LR5BYZjuXMU",
       "thumbnail": "https://i.ytimg.com/vi/LR5BYZjuXMU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnjCrph_cT4aGcaimrwmM-0TXohA",
@@ -1192,6 +1259,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to publish Project Websites on GitHub",
       "link": "https://www.youtube.com/watch?v=zWZDH9L1jMg",
       "thumbnail": "https://i.ytimg.com/vi/zWZDH9L1jMg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBRYxmbeHFnFSNUymoVRbOt6AuFYA",
@@ -1207,6 +1275,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Import GitHub Java Project into Eclipse and Run it",
       "link": "https://www.youtube.com/watch?v=38JFCqi_X3c",
       "thumbnail": "https://i.ytimg.com/vi/38JFCqi_X3c/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD69N2JJetDV6BDXok976FOnV-Taw",
@@ -1222,6 +1291,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to Install and Configure Git and Repositories on GitHub on Ubuntu Linux",
       "link": "https://www.youtube.com/watch?v=SwK2dPFXhpU",
       "thumbnail": "https://i.ytimg.com/vi/SwK2dPFXhpU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-zbI3JOP41nHa81Fko3nJCiAZ0A",
@@ -1239,6 +1309,7 @@
   "Page5": [
     {
       "type": "video",
+      "live": false,
       "title": "Github for Desktop - Como subir tu proyecto a Github",
       "link": "https://www.youtube.com/watch?v=IW28zJc7BN0",
       "thumbnail": "https://i.ytimg.com/vi/IW28zJc7BN0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAq7Lu9dZ9HOR1r8c_zj8tgGTjTYQ",
@@ -1254,6 +1325,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Débuter avec Git et Github en 30 min",
       "link": "https://www.youtube.com/watch?v=hPfgekYUKgk",
       "thumbnail": "https://i.ytimg.com/vi/hPfgekYUKgk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD49zD0jHaF7MJKcpQmTArnw0heYQ",
@@ -1269,6 +1341,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Committing Changes in Git and Pushing to a GitHub Repository",
       "link": "https://www.youtube.com/watch?v=ruieT3Nkg2M",
       "thumbnail": "https://i.ytimg.com/vi/ruieT3Nkg2M/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA7yt_5Kas-GgrOV-zLCBa4vgyVVg",
@@ -1284,6 +1357,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "#1 Git Tutorial | GitHub SignUp",
       "link": "https://www.youtube.com/watch?v=WdncOs2FANQ",
       "thumbnail": "https://i.ytimg.com/vi/WdncOs2FANQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRRPDLRH54OmuNnKWu80l-fXatMQ",
@@ -1299,6 +1373,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Android Studio App Development | GitHub Integration & Sharing",
       "link": "https://www.youtube.com/watch?v=Ldmc757EXaE",
       "thumbnail": "https://i.ytimg.com/vi/Ldmc757EXaE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBO3JKjD8cdmm7qdH6bCCEHL9zb1w",
@@ -1314,6 +1389,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Github tutorial with Xcode 8 - Upload existing project to github",
       "link": "https://www.youtube.com/watch?v=7s63f2QZ2W0",
       "thumbnail": "https://i.ytimg.com/vi/7s63f2QZ2W0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAu-rsls7AewzSQTak7IAqMp58WA",
@@ -1329,6 +1405,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Projects on GitHub",
       "link": "https://www.youtube.com/watch?v=C6MGKHkNtxU",
       "thumbnail": "https://i.ytimg.com/vi/C6MGKHkNtxU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJ0tyiuhtTQZhoeY40BAK4vCIrrQ",
@@ -1344,6 +1421,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to Install and Configure Git and GitHub on Windows",
       "link": "https://www.youtube.com/watch?v=J_Clau1bYco",
       "thumbnail": "https://i.ytimg.com/vi/J_Clau1bYco/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUk627KayGSB7Al4I0uCAsWlvU2Q",
@@ -1371,6 +1449,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to Use Github || How To Add Work/Code to a Repository",
       "link": "https://www.youtube.com/watch?v=VyGWD4UJAk8",
       "thumbnail": "https://i.ytimg.com/vi/VyGWD4UJAk8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBihhBchop37XzjawgrjwwNAKw35Q",
@@ -1386,6 +1465,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub and Git Bash: Create Folders in a Repository",
       "link": "https://www.youtube.com/watch?v=rVNFPj9jtb0",
       "thumbnail": "https://i.ytimg.com/vi/rVNFPj9jtb0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBad_gxFxACf2AhQrVbmtAHMtIKKA",
@@ -1401,6 +1481,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to Upload Project on GitHub using Eclipse",
       "link": "https://www.youtube.com/watch?v=Huwf0TgWrOw",
       "thumbnail": "https://i.ytimg.com/vi/Huwf0TgWrOw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCtMFm-2aGeOc6eHhddawtGtBdDZQ",
@@ -1428,6 +1509,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How To Use GitHub for Windows",
       "link": "https://www.youtube.com/watch?v=LufnCoPShZE",
       "thumbnail": "https://i.ytimg.com/vi/LufnCoPShZE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJwURyjZ-TWUEpeDBH8-DxnvsTyQ",
@@ -1443,6 +1525,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub với Window - Bài 1: Tạo repository, thêm và chỉnh sửa file",
       "link": "https://www.youtube.com/watch?v=mtGMbc4Csm0",
       "thumbnail": "https://i.ytimg.com/vi/mtGMbc4Csm0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCofIcF4PcdkNRgKX23iRoXmkwB6w",
@@ -1458,6 +1541,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Using PyCharm with GitHub",
       "link": "https://www.youtube.com/watch?v=2856pbucPAE",
       "thumbnail": "https://i.ytimg.com/vi/2856pbucPAE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAtZPq6J-79h-jJSe1MOSBzFiZNlA",
@@ -1473,6 +1557,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Android Studio & GitHub - Lesson 1 Setup",
       "link": "https://www.youtube.com/watch?v=AJune0EMP94",
       "thumbnail": "https://i.ytimg.com/vi/AJune0EMP94/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_R-8LIwGRgtjaGNX69KoHV-hEMw",
@@ -1488,6 +1573,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git & GitHub Tutorial for Beginners #10 - Introduction to GitHub",
       "link": "https://www.youtube.com/watch?v=fQLK8Ib_SKk",
       "thumbnail": "https://i.ytimg.com/vi/fQLK8Ib_SKk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfaYl5qfMEaSVSI9RrBWTqVVUUlA",
@@ -1503,6 +1589,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Syncing Your GitHub Fork",
       "link": "https://www.youtube.com/watch?v=-zvHQXnBO6c",
       "thumbnail": "https://i.ytimg.com/vi/-zvHQXnBO6c/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBpRwKMEGsbKdab5XrVEBRBpm-h9Q",
@@ -1518,6 +1605,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Github Desktop Tutorial",
       "link": "https://www.youtube.com/watch?v=kFix7UDJ7LA",
       "thumbnail": "https://i.ytimg.com/vi/kFix7UDJ7LA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCGNq2DquJz0FqH1U6a4zSkUczyVA",
@@ -1535,6 +1623,7 @@
   "Page6": [
     {
       "type": "video",
+      "live": false,
       "title": "Git & GitHub: Pull requests (10/11)",
       "link": "https://www.youtube.com/watch?v=FQsBmnZvBdc",
       "thumbnail": "https://i.ytimg.com/vi/FQsBmnZvBdc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCM0myydLhfCQLK-tsGGiDwfP7Yw",
@@ -1550,6 +1639,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Branches in GitHub using GitHub Desktop",
       "link": "https://www.youtube.com/watch?v=6cLlX0ZqO5Q",
       "thumbnail": "https://i.ytimg.com/vi/6cLlX0ZqO5Q/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgTt5Zd0yXH64bNKCygfhk-l9r0g",
@@ -1565,6 +1655,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "How to get code from GitHub?",
       "link": "https://www.youtube.com/watch?v=rgmDhNLQ3yU",
       "thumbnail": "https://i.ytimg.com/vi/rgmDhNLQ3yU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBcKPLTVTojD8RgJOpXSzd2UHdlLQ",
@@ -1580,6 +1671,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "【教學】如何使用GitHub",
       "link": "https://www.youtube.com/watch?v=QqwCgEovim0",
       "thumbnail": "https://i.ytimg.com/vi/QqwCgEovim0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLChaLHa89vim4qp7yqZBNXwPNn0jw",
@@ -1595,6 +1687,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "GitHub and Atom",
       "link": "https://www.youtube.com/watch?v=HqrkEVWBifw",
       "thumbnail": "https://i.ytimg.com/vi/HqrkEVWBifw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAQ0-4EDfIlrDsi2gDmYEF6lTkIdg",
@@ -1610,6 +1703,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Setting Up a GitHub Repository Using NetBeans IDE",
       "link": "https://www.youtube.com/watch?v=Ih9MFMuInjI",
       "thumbnail": "https://i.ytimg.com/vi/Ih9MFMuInjI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFT5Zxx33px7umlD3urZsYvtpAcw",
@@ -1625,6 +1719,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "README images in Github",
       "link": "https://www.youtube.com/watch?v=nvPOUdz5PL4",
       "thumbnail": "https://i.ytimg.com/vi/nvPOUdz5PL4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFDUOdat6d7t91Fo6_UAKHckWx9g",
@@ -1640,6 +1735,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "1.9: Resolving Merge Conflicts - Git and GitHub for Poets",
       "link": "https://www.youtube.com/watch?v=JtIX3HJKwfo",
       "thumbnail": "https://i.ytimg.com/vi/JtIX3HJKwfo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8hBb_ImnkNz11nJqWY3YxhUs64Q",
@@ -1655,6 +1751,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Publish and Clone a project on Github from PyCharm",
       "link": "https://www.youtube.com/watch?v=9tGb9FK6zVM",
       "thumbnail": "https://i.ytimg.com/vi/9tGb9FK6zVM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAIHVjrY7ZKEf3ydn6QbJSj0JOtNA",
@@ -1670,6 +1767,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "1.8: GitHub Pages - Git and GitHub for Poets",
       "link": "https://www.youtube.com/watch?v=bFVtrlyH-kc",
       "thumbnail": "https://i.ytimg.com/vi/bFVtrlyH-kc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCq82YtUZUtBt7fHRD90q9vCeZdOA",
@@ -1685,6 +1783,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Downloading the Sample code from GitHub and running it",
       "link": "https://www.youtube.com/watch?v=5R7jImV3et0",
       "thumbnail": "https://i.ytimg.com/vi/5R7jImV3et0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgnIIrF5oxdoSUqiKs8n7IgmtOKg",
@@ -1700,6 +1799,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "WARNING!! DO NOT USE THE NEW GITHUB BROWSER FROM TVA!! IT WILL ONLY CAUSE YOU ISSUES!",
       "link": "https://www.youtube.com/watch?v=QNpJDLrR2a4",
       "thumbnail": "https://i.ytimg.com/vi/QNpJDLrR2a4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCaLo4uLoqnwYmVlYbozGXyXrMHAg",
@@ -1715,6 +1815,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "AWS CodeDeploy & GitHub Integration - Automated Software Deployment on AWS",
       "link": "https://www.youtube.com/watch?v=N3saR9D7hq8",
       "thumbnail": "https://i.ytimg.com/vi/N3saR9D7hq8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFZWjjy3VMTwoE6tesvvSKmpEaCA",
@@ -1730,6 +1831,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Creating account on Github",
       "link": "https://www.youtube.com/watch?v=MkWHI6ODbzA",
       "thumbnail": "https://i.ytimg.com/vi/MkWHI6ODbzA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDpH1WCgdF732S4cJU_Wy0j_n-Uhg",
@@ -1745,6 +1847,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Master Recruiting on GitHub in 4 Minutes",
       "link": "https://www.youtube.com/watch?v=RtAUxJJcMns",
       "thumbnail": "https://i.ytimg.com/vi/RtAUxJJcMns/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwkJNXowyEOsHc4F9RYNCURLG-DA",
@@ -1760,6 +1863,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Cloning an Android Studio Project from GitHub",
       "link": "https://www.youtube.com/watch?v=qZal1-14YvM",
       "thumbnail": "https://i.ytimg.com/vi/qZal1-14YvM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBd_JUyexcs5EPrqxs4w4pW9MQ1eA",
@@ -1775,6 +1879,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "¿Qué es Github? ¿Para qué sirve? ¿Cómo se utiliza?",
       "link": "https://www.youtube.com/watch?v=ggD808TwCvU",
       "thumbnail": "https://i.ytimg.com/vi/ggD808TwCvU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCiyzbvCB2jbDF6WNBBiNjqyLW1iw",
@@ -1790,6 +1895,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Git Tutorial - 17 - GitHub",
       "link": "https://www.youtube.com/watch?v=kHwkaw3AxtY",
       "thumbnail": "https://i.ytimg.com/vi/kHwkaw3AxtY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBETnwmaG_2zL7lrxYz1gV8-fCM7Q",
@@ -1805,6 +1911,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Code Review in GitHub and Eclipse: Branch, Commit, Push, Pull Request",
       "link": "https://www.youtube.com/watch?v=9aO4xOlma_k",
       "thumbnail": "https://i.ytimg.com/vi/9aO4xOlma_k/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA4RtcDi9Fois_5pHKoWfRonA9SCw",
@@ -1820,6 +1927,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Tutoriel Internet - Utiliser GitHub",
       "link": "https://www.youtube.com/watch?v=La3SaI2hjzE",
       "thumbnail": "https://i.ytimg.com/vi/La3SaI2hjzE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDMLNEHKlWhQtTEJu9ZodiMQg9emQ",
@@ -1837,6 +1945,7 @@
   "Page7": [
     {
       "type": "video",
+      "live": false,
       "title": "Assistir Barcelona x Villarreal ao vivo 09/05/2018 eletronejo 2018",
       "link": "https://www.youtube.com/watch?v=ZII9kFJnveI",
       "thumbnail": "https://i.ytimg.com/vi/ZII9kFJnveI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDh9j-aTpb_NcEY5pznjBL-1M7xeQ",
@@ -1863,6 +1972,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Fortnite abozocken ???? livestream mit Face cam :)",
       "link": "https://www.youtube.com/watch?v=Hb_YxfbsLyE",
       "thumbnail": "https://i.ytimg.com/vi/Hb_YxfbsLyE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2IPxMsBQDEZryAisg3crzLM_W1w",
@@ -1878,6 +1988,7 @@
     },
     {
       "type": "video",
+      "live": false,
       "title": "Verlosung! + 1k Abbonenten Live Fortnite mit Facecam",
       "link": "https://www.youtube.com/watch?v=QplrqMQhzZQ",
       "thumbnail": "https://i.ytimg.com/vi/QplrqMQhzZQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkZk42vpYok4wLxScR7ltrfiKHqw",

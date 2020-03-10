@@ -145,6 +145,7 @@
     "items": [
       {
         "type": "video",
+        "live": false,
         "title": "Die ZERREISPROBE der Geduld 🎮 Grand Theft Auto Online #203",
         "link": "https://www.youtube.com/watch?v=ANcPL_hmOao",
         "thumbnail": "https://i.ytimg.com/vi/ANcPL_hmOao/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLa5cIH8izC12JRMP66p-DTEawuw",
@@ -160,6 +161,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Wir spielen Thanos aus Avengers bei Fortnite",
         "link": "https://www.youtube.com/watch?v=BlkffpWcnq4",
         "thumbnail": "https://i.ytimg.com/vi/BlkffpWcnq4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxRoePH04VcdwvuZD55ejyo-UZjw",
@@ -175,6 +177,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Dhalu im Visier  🎮 TTT #589",
         "link": "https://www.youtube.com/watch?v=TbdcnQ96S30",
         "thumbnail": "https://i.ytimg.com/vi/TbdcnQ96S30/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHFgcjvLivtzEsnVVpnJZSy8CFZw",
@@ -190,6 +193,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Der EINZIGARTIGE Brammini zeigt euch einen Kartentrick",
         "link": "https://www.youtube.com/watch?v=JFhHTlw3rn8",
         "thumbnail": "https://i.ytimg.com/vi/JFhHTlw3rn8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFrSsLYKYwqrGgSoUzSyOqdhD6mg",
@@ -205,6 +209,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Aus Pfui mach Hui mit EUREN Zutaten",
         "link": "https://www.youtube.com/watch?v=ZKTRV4Gq70o",
         "thumbnail": "https://i.ytimg.com/vi/ZKTRV4Gq70o/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBSNAmjpMd2FBN-MXBSQnxugIeskA",
@@ -220,6 +225,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Faschocard oder Liberalocard? 🎮 Secret Hitler #43",
         "link": "https://www.youtube.com/watch?v=cXMULY6-TyU",
         "thumbnail": "https://i.ytimg.com/vi/cXMULY6-TyU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAWZu_aQGsTdYGu7T7Oo3rSbia0Q",
@@ -235,6 +241,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "REACT: Best of September 2014",
         "link": "https://www.youtube.com/watch?v=IXWc381XqCs",
         "thumbnail": "https://i.ytimg.com/vi/IXWc381XqCs/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAi3MpKQ2kybsPsvun6PjWYjD9Akw",
@@ -250,6 +257,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Doppel D Diktator - Snob Lives Matter (Prod. by Planet Pluto) (Official Video)",
         "link": "https://www.youtube.com/watch?v=vDUXRuj30uo",
         "thumbnail": "https://i.ytimg.com/vi/vDUXRuj30uo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWYPGmNKSbzD2re63vmDI2RlFVOg",
@@ -265,6 +273,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Bombenstimmung bei Brammen  🎮 TTT #588",
         "link": "https://www.youtube.com/watch?v=TdDIxiJ70G4",
         "thumbnail": "https://i.ytimg.com/vi/TdDIxiJ70G4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA11vD8K4JRPAACPv1jXJ0nUDzBRQ",
@@ -280,6 +289,7 @@
       },
       {
         "type": "video",
+        "live": false,
         "title": "Safety-Car-HORROR | Spanien 2/2 🎮 F1 2017 S2 #10",
         "link": "https://www.youtube.com/watch?v=qccmnL_Wo5g",
         "thumbnail": "https://i.ytimg.com/vi/qccmnL_Wo5g/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBO5S1GJ9VfYwGY7y5Ld0qlHDHBcg",
@@ -297,6 +307,7 @@
   },
   "video": {
     "type": "video",
+    "live": false,
     "title": "Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)",
     "link": "https://www.youtube.com/watch?v=CX11yw6YL1w",
     "thumbnail": "https://i.ytimg.com/vi/CX11yw6YL1w/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdZ75sfr4ol3r_OG_lF5iDX-4XHg",
