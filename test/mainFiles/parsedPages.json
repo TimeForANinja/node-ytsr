@@ -50,7 +50,6 @@
     },
     {
       "type": "channel",
-      "live": false,
       "name": "GitHub",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
       "link": "https://www.youtube.com/user/github",
