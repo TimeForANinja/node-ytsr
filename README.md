@@ -50,6 +50,7 @@ Searches for the given string
 * `options`
     * object with options
     * possible settings:
+    * safeSearch[Boolean] -> pull items in youtube restriction mode. 
     * limit[integer] -> limits the pulled items
 	* nextpageRef[String] -> if u wanna continue a previous search or use filters
 * `callback(err, result)`

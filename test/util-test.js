@@ -259,7 +259,7 @@ describe('util.getPage()', () => {
     let scope = NOCK('/somePath', {
       body: shouldBody,
     });
-    UTIL.getPage('https://www.youtube.com/somePath', (err, body) => {
+    UTIL.getPage('https://www.youtube.com/somePath', {}, (err, body) => {
       scope.ifError(err);
       ASSERT.ifError(err);
       ASSERT.equal(body, shouldBody);
@@ -272,7 +272,7 @@ describe('util.getPage()', () => {
     let scope = NOCK('/somePath', {
       error: true,
     });
-    UTIL.getPage('https://www.youtube.com/somePath', err => {
+    UTIL.getPage('https://www.youtube.com/somePath', {}, err => {
       ASSERT.equal(err.message, 'Status Code 400');
       scope.done();
       done();
