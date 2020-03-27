@@ -1,4 +1,13 @@
+# dependencies
 node_modules
-/lib/dumbs
+
+# testing
 coverage
+/lib/dumbs
+
+# machine specific
 package-lock.json
+yarn.lock
+
+# misc
+.idea
