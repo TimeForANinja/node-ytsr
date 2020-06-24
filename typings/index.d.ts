@@ -4,7 +4,7 @@ declare module 'ytsr' {
       searchString?: string;
       safeSearch?: boolean;
       limit?: number;
-      nextPageRef?: string;
+      nextpageRef?: string;
     }
 
     interface Playlist {
@@ -100,9 +100,9 @@ declare module 'ytsr' {
   }
 
   function ytsr(id: string, callback: (err: Error, result: ytsr.Result) => any): void;
-  function ytsr(id: string, options: ytsr.Options, callback: (err: Error, result: ytsr.Result) => any): void;
+  function ytsr(id: string | null, options: ytsr.Options, callback: (err: Error, result: ytsr.Result) => any): void;
   function ytsr(id: string): Promise<ytsr.Result>;
-  function ytsr(id: string, options: ytsr.Options): Promise<ytsr.Result>;
+  function ytsr(id: string | null, options: ytsr.Options): Promise<ytsr.Result>;
 
   export = ytsr;
 }
