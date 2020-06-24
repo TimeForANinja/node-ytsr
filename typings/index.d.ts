@@ -83,11 +83,11 @@ declare module 'ytsr' {
       items: any;
     }
 
-    type Items = Playlist | Channel | Video | Movie | RelatedSearches | ShelfCompact | ShelfVertical;
+    type Item = Playlist | Channel | Video | Movie | RelatedSearches | ShelfCompact | ShelfVertical;
 
     interface Result {
       query: string;
-      items: Items[];
+      items: Item[];
       nextpageRef: string;
       results: string;
       filters: {
