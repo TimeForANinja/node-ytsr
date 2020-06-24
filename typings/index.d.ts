@@ -1,44 +1,108 @@
 declare module 'ytsr' {
-  namespace ytsr{
-    type options = {
-      searchString?:string
-      safeSearch?:boolean
-      limit?:number
-      nextPageRef?:string
+  namespace ytsr {
+    interface Options {
+      searchString?: string;
+      safeSearch?: boolean;
+      limit?: number;
+      nextPageRef?: string;
     }
-    type result = {
-      query:string
-      items:{
-        type:string
-        title:string
-        link:string
-        thumbnail:string
-        author:{
-          name:string
-          ref:string
-          verified:boolean
-        },
-        description:string
-        duration:string
-        meta?:string[]
-        actors?:string[]
-        views?:string
-        director?:string
-        uploaded_at?:string
-      }[]
-      nextpageRef:string
-      results:string
-      filters:{
-        ref?:string
-        name:string
-        active:boolean
-      }[]
-      currentRef?:string
+
+    interface Playlist {
+      type: 'playlist';
+      title: string;
+      link: string;
+      thumbnail: string;
+      author: {
+        name: string;
+        ref: string;
+        verified: boolean;
+      };
+      length: string;
+    }
+
+    interface Channel {
+      type: 'channel';
+      name: string;
+      channel_id: string;
+      link: string;
+      avatar: string;
+      verified: boolean;
+      followers: number;
+      description_short: string;
+      videos: number;
+    }
+
+    interface Video {
+      type: 'video';
+      live: boolean;
+      title: string;
+      link: string;
+      thumbnail: string;
+      author: {
+        name: string;
+        ref: string;
+        verified: boolean;
+      };
+      description: string;
+      views: number;
+      duration: string | null;
+      uploaded_at: string | null;
+    }
+
+    interface Movie {
+      type: 'movie';
+      title: string;
+      link: string;
+      thumbnail: string;
+      author: {
+        name: string;
+        ref: string;
+        verified: boolean;
+      };
+      description: string;
+      meta: string[];
+      actors: string[];
+      director: string;
+      duration: string;
+    }
+
+    interface RelatedSearches {
+      type: 'search-refinements';
+      entrys: any;
+    }
+
+    interface ShelfCompact {
+      type: 'shelf-compact';
+      title: string;
+      items: any;
+    }
+
+    interface ShelfVertical {
+      type: 'shelf-vertical';
+      title: string;
+      items: any;
+    }
+
+    type Items = Playlist | Channel | Video | Movie | RelatedSearches | ShelfCompact | ShelfVertical;
+
+    interface Result {
+      query: string;
+      items: Items[];
+      nextpageRef: string;
+      results: string;
+      filters: {
+        ref?: string;
+        name: string;
+        active: boolean;
+      }[];
+      currentRef?: string;
     }
   }
-  function ytsr(id:string,callback:((err:Error,result:ytsr.result)=>any)):void
-  function ytsr(id:string,options:ytsr.options,callback:((err:Error,result:ytsr.result)=>any)):void
-  function ytsr(id:string):Promise<ytsr.result>
-  function ytsr(id:string,options:ytsr.options):Promise<ytsr.result>
+
+  function ytsr(id: string, callback: (err: Error, result: ytsr.Result) => any): void;
+  function ytsr(id: string, options: ytsr.Options, callback: (err: Error, result: ytsr.Result) => any): void;
+  function ytsr(id: string): Promise<ytsr.Result>;
+  function ytsr(id: string, options: ytsr.Options): Promise<ytsr.Result>;
+
   export = ytsr;
 }
