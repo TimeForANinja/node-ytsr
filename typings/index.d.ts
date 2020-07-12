@@ -97,6 +97,9 @@ declare module 'ytsr' {
       }[];
       currentRef?: string;
     }
+
+    function getFilters(searchString: string, callback?: Function): Promise<any>
+ 
   }
 
   function ytsr(id: string, callback: (err: Error, result: ytsr.Result) => any): void;
