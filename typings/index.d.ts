@@ -98,7 +98,7 @@ declare module 'ytsr' {
       currentRef?: string;
     }
 
-    function getFilters(searchString: string, callback?: Function): Promise<any>
+    function getFilters(searchString: string, callback?: Function): Promise<Map<string, any>>
  
   }
 
