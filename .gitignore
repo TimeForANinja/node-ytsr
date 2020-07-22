@@ -1,4 +1,3 @@
 node_modules
-/lib/dumbs
 coverage
-package-lock.json
+.nyc_output
