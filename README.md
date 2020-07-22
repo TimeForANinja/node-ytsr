@@ -33,7 +33,7 @@ ytsr.getFilters('github').then(async filters1 => {
 
 
 # API
-### ytsr(searchString, [options, callback])
+### ytsr(searchString, [options])
 
 Searches for the given string
 
