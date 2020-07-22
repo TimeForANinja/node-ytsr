@@ -1,16 +1,17 @@
 /* global describe, it */
 const FS = require('fs');
 const PATH = require('path');
+const PARSE_ITEM = require('../lib/parseItem.js')
 const UTIL = require('../lib/util');
 const NOCK = require('./nock');
 const ASSERT = require('assert-diff');
 
-describe('util.parseItem()', () => {
+describe('parseItem()', () => {
   const parsed = JSON.parse(FS.readFileSync(PATH.resolve(__dirname, 'utilFiles/parsed.json')));
   it('parse channel', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-channel.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed.channel);
       done();
     });
@@ -18,7 +19,7 @@ describe('util.parseItem()', () => {
   it('parse compact shelf', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-compact-shelf.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed['compact-shelf']);
       done();
     });
@@ -26,7 +27,7 @@ describe('util.parseItem()', () => {
   it('parse movie vertical poster', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-movie-vertical-poster.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed['movie-vertical-poster']);
       done();
     });
@@ -34,7 +35,7 @@ describe('util.parseItem()', () => {
   it('parse mix', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-mix.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed.mix);
       done();
     });
@@ -42,7 +43,7 @@ describe('util.parseItem()', () => {
   it('parse playlist', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-playlist.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed.playlist);
       done();
     });
@@ -50,7 +51,7 @@ describe('util.parseItem()', () => {
   it('parse search refinements', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-search-refinements.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed['search-refinements']);
       done();
     });
@@ -58,7 +59,7 @@ describe('util.parseItem()', () => {
   it('parse vertical shelf', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-vertical-shelf.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed['vertical-shelf']);
       done();
     });
@@ -66,21 +67,21 @@ describe('util.parseItem()', () => {
   it('parse video', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-video.html'), (err, data) => {
       ASSERT.ifError(err);
-      let item = UTIL.parseItem(data.toString());
+      let item = PARSE_ITEM(data.toString());
       ASSERT.deepEqual(item, parsed.video);
       done();
     });
   });
 });
 
-describe('util.parseChannel()', () => {
+describe('parseItem.parseChannel()', () => {
   it('parses a channel', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data).channel;
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-channel.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parseChannel(dataIn.toString());
+        let item = PARSE_ITEM.parseChannel(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -88,14 +89,14 @@ describe('util.parseChannel()', () => {
   });
 });
 
-describe('util.parseShelfCompact()', () => {
+describe('parseItem.parseShelfCompact()', () => {
   it('parses a compact shelf', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data)['compact-shelf'];
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-compact-shelf.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parseShelfCompact(dataIn.toString());
+        let item = PARSE_ITEM.parseShelfCompact(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -103,14 +104,14 @@ describe('util.parseShelfCompact()', () => {
   });
 });
 
-describe('util.parseMovie()', () => {
+describe('parseItem.parseMovie()', () => {
   it('parses a movie', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data)['movie-vertical-poster'];
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-movie-vertical-poster.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parseMovie(dataIn.toString());
+        let item = PARSE_ITEM.parseMovie(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -118,14 +119,14 @@ describe('util.parseMovie()', () => {
   });
 });
 
-describe('util.parseMix()', () => {
+describe('parseItem.parseMix()', () => {
   it('parses a mix', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data).mix;
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-mix.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parseMix(dataIn.toString());
+        let item = PARSE_ITEM.parseMix(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -133,14 +134,14 @@ describe('util.parseMix()', () => {
   });
 });
 
-describe('util.parsePlaylist()', () => {
+describe('parseItem.parsePlaylist()', () => {
   it('parses a playlist', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data).playlist;
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-playlist.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parsePlaylist(dataIn.toString());
+        let item = PARSE_ITEM.parsePlaylist(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -148,14 +149,14 @@ describe('util.parsePlaylist()', () => {
   });
 });
 
-describe('util.parseRelatedSearches()', () => {
+describe('parseItem.parseRelatedSearches()', () => {
   it('parses a search refinement', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data)['search-refinements'];
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-search-refinements.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parseRelatedSearches(dataIn.toString());
+        let item = PARSE_ITEM.parseRelatedSearches(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -163,14 +164,14 @@ describe('util.parseRelatedSearches()', () => {
   });
 });
 
-describe('util.parseShelfVertical()', () => {
+describe('parseItem.parseShelfVertical()', () => {
   it('parses a vertical shelf', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data)['vertical-shelf'];
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-vertical-shelf.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parseShelfVertical(dataIn.toString());
+        let item = PARSE_ITEM.parseShelfVertical(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -178,14 +179,14 @@ describe('util.parseShelfVertical()', () => {
   });
 });
 
-describe('util.parseVideo()', () => {
+describe('parseItem.parseVideo()', () => {
   it('parses a video', done => {
     FS.readFile(PATH.resolve(__dirname, 'utilFiles/parsed.json'), (err, data) => {
       const parsed = JSON.parse(data).video;
       ASSERT.ifError(err);
       FS.readFile(PATH.resolve(__dirname, 'utilFiles/dump-video.html'), (errIn, dataIn) => {
         ASSERT.ifError(errIn);
-        let item = UTIL.parseVideo(dataIn.toString());
+        let item = PARSE_ITEM.parseVideo(dataIn.toString());
         ASSERT.deepEqual(item, parsed);
         done();
       });
@@ -193,18 +194,16 @@ describe('util.parseVideo()', () => {
   });
 });
 
-describe('util.buildLink()', () => {
+describe('util.buildRef()', () => {
   it('build a query link', () => {
-    const query = UTIL.buildLink('what &% up');
-    const should = 'https://www.youtube.com/results?search_query=what%20%26%25%20up&spf=navigate&gl=US&hl=en';
+    const query = UTIL.buildRef(null, 'what &% up');
+    const should = 'https://www.youtube.com/results?spf=navigate&gl=US&hl=en&search_query=what%20%26%25%20up';
     ASSERT.equal(query, should);
   });
-});
 
-describe('util.buildFromNextpage()', () => {
   it('builds a nextpage link', () => {
-    const query = UTIL.buildFromNextpage('/results?sp=SGajsdkasj&search_query=youtube');
-    const should = 'https://www.youtube.com/results?sp=SGajsdkasj&search_query=youtube&spf=navigate&gl=US&hl=en';
+    const query = UTIL.buildRef('/results?sp=SGajsdkasj&search_query=youtube', null);
+    const should = 'https://www.youtube.com/results?spf=navigate&gl=US&hl=en&search_query=youtube&sp=SGajsdkasj';
     ASSERT.equal(query, should);
   });
 });
@@ -250,33 +249,6 @@ describe('util.removeHtml()', () => {
 
   it('keeps newlines', () => {
     ASSERT.equal(UTIL.removeHtml('Artist1 &amp; Artist2 <br> Nova (Official)'), 'Artist1 & Artist2\nNova (Official)');
-  });
-});
-
-describe('util.getPage()', () => {
-  it('returns the body', done => {
-    let shouldBody = '420 blaze it';
-    let scope = NOCK('/somePath', {
-      body: shouldBody,
-    });
-    UTIL.getPage('https://www.youtube.com/somePath', {}, (err, body) => {
-      scope.ifError(err);
-      ASSERT.ifError(err);
-      ASSERT.equal(body, shouldBody);
-      scope.done();
-      done();
-    });
-  });
-
-  it('redirects invalid statusCode', done => {
-    let scope = NOCK('/somePath', {
-      error: true,
-    });
-    UTIL.getPage('https://www.youtube.com/somePath', {}, err => {
-      ASSERT.equal(err.message, 'Status Code 400');
-      scope.done();
-      done();
-    });
   });
 });
 

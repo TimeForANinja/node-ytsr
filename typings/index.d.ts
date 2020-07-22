@@ -1,10 +1,19 @@
 declare module 'ytsr' {
   namespace ytsr {
     interface Options {
-      searchString?: string;
       safeSearch?: boolean;
       limit?: number;
       nextpageRef?: string;
+      hl?: string;
+      gl?: string;
+    }
+
+    interface Mix {
+      type: 'mix';
+      title: string;
+      firstItem: string;
+      thumbnail: string;
+      length: string;
     }
 
     interface Playlist {
@@ -43,8 +52,8 @@ declare module 'ytsr' {
         ref: string;
         verified: boolean;
       };
-      description: string;
-      views: number;
+      description: string | null;
+      views: number | null;
       duration: string | null;
       uploaded_at: string | null;
     }
@@ -59,51 +68,62 @@ declare module 'ytsr' {
         ref: string;
         verified: boolean;
       };
-      description: string;
+      description: string | null;
       meta: string[];
       actors: string[];
-      director: string;
+      director: string | null;
       duration: string;
     }
 
     interface RelatedSearches {
       type: 'search-refinements';
-      entrys: any;
+      entrys: {
+        link: string;
+        q: string | null;
+      }[];
     }
 
     interface ShelfCompact {
       type: 'shelf-compact';
       title: string;
-      items: any;
+      items: {
+        type: string;
+        name: string;
+        ref: string;
+        thumbnail: string;
+        duration: string;
+        price: string;
+      }[];
     }
 
     interface ShelfVertical {
       type: 'shelf-vertical';
       title: string;
-      items: any;
+      items: Video[];
     }
 
-    type Item = Playlist | Channel | Video | Movie | RelatedSearches | ShelfCompact | ShelfVertical;
+    interface Filter {
+      ref: string | null;
+      name: string;
+      active: boolean;
+    }
+
+    type Item = Mix | Playlist | Channel | Video | Movie | RelatedSearches | ShelfCompact | ShelfVertical;
 
     interface Result {
       query: string;
       items: Item[];
-      nextpageRef: string;
+      nextpageRef: string | null;
       results: string;
-      filters: {
-        ref?: string;
-        name: string;
-        active: boolean;
-      }[];
-      currentRef?: string;
+      filters: Filter[];
+      currentRef: string | null;
     }
 
-    function getFilters(searchString: string, callback?: Function): Promise<Map<string, any>>
- 
+    function getFilters(searchString: string): Promise<Map<string, Filter>>
+    function getFilters(searchString: string, options: ytsr.Options): Promise<Map<string, Filter>>
+
   }
 
-  function ytsr(id: string, callback: (err: Error, result: ytsr.Result) => any): void;
-  function ytsr(id: string | null, options: ytsr.Options, callback: (err: Error, result: ytsr.Result) => any): void;
   function ytsr(id: string): Promise<ytsr.Result>;
   function ytsr(id: string | null, options: ytsr.Options): Promise<ytsr.Result>;
 
