@@ -2,7 +2,7 @@
 [![NPM version](https://img.shields.io/npm/v/ytsr.svg?maxAge=3600)](https://www.npmjs.com/package/ytsr)
 [![NPM downloads](https://img.shields.io/npm/dt/ytsr.svg?maxAge=3600)](https://www.npmjs.com/package/ytsr)
 [![codecov](https://codecov.io/gh/timeforaninja/node-ytsr/branch/master/graph/badge.svg)](https://codecov.io/gh/timeforaninja/node-ytsr)
-[![Dependencies](https://img.shields.io/david/timeforaninja/node-ytsr.svg?maxAge=3600)](https://david-dm.org/)
+[![Known Vulnerabilities](https://snyk.io/test/github/timeforaninja/node-ytsr/badge.svg)](https://snyk.io/test/github/timeforaninja/node-ytsr)
 [![NPM info](https://nodei.co/npm/ytsr.png?downloads=true&stars=true)](https://nodei.co/npm/ytsr/)
 
 
