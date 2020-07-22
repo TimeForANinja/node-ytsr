@@ -8,7 +8,7 @@ const NOCK = require('./nock'); // eslint-disable-line no-unused-vars
 describe('ytsr#getFilters()', () => {
   it('no search string provided', done => {
     let resp = YTSR.getFilters().catch(err => {
-      ASSERT.equal(err.message, 'searchString, currentRef or nextpageRef is mandatory')
+      ASSERT.equal(err.message, 'searchString, currentRef or nextpageRef is mandatory');
       ASSERT.ok(resp instanceof Promise);
       done();
     });

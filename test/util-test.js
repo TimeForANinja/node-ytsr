@@ -1,9 +1,8 @@
 /* global describe, it */
 const FS = require('fs');
 const PATH = require('path');
-const PARSE_ITEM = require('../lib/parseItem.js')
+const PARSE_ITEM = require('../lib/parseItem.js');
 const UTIL = require('../lib/util');
-const NOCK = require('./nock');
 const ASSERT = require('assert-diff');
 
 describe('parseItem()', () => {
