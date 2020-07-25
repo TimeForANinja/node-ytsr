@@ -7,10 +7,11 @@
 
 [![NPM info](https://nodei.co/npm/ytsr.png?downloads=true&stars=true)](https://nodei.co/npm/ytsr/)
 
-
 Simple js only module to search YouTube
 Doesn't need any login or GoogleAPI key
 
+# Support
+You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 
 # Usage
 
@@ -45,8 +46,9 @@ Searches for the given string
     * object with options
     * possible settings:
     * safeSearch[Boolean] -> pull items in youtube restriction mode.
-    * limit[integer] -> limits the pulled items
-	* nextpageRef[String] -> if u wanna continue a previous search or use filters
+    * limit[integer] -> limits the pulled items, defaults to 100, set to Infinity to get the whole playlist - numbers <1 result in the default being used
+    * nextpageRef[String] -> if u wanna continue a previous search or use filters
+    * All additional parameters will get passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
 * returns a Promise
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output)
 
