@@ -6,6 +6,7 @@ declare module 'ytsr' {
       nextpageRef?: string;
       hl?: string;
       gl?: string;
+      headers?: { [key: string]: string; };
     }
 
     interface Mix {
