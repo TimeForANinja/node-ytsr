@@ -99,13 +99,16 @@ declare module 'ytsr' {
     }
 
     function getFilters(searchString: string, callback?: Function): Promise<Map<string, any>>
- 
+
   }
 
   function ytsr(id: string, callback: (err: Error, result: ytsr.Result) => any): void;
   function ytsr(id: string | null, options: ytsr.Options, callback: (err: Error, result: ytsr.Result) => any): void;
   function ytsr(id: string): Promise<ytsr.Result>;
   function ytsr(id: string | null, options: ytsr.Options): Promise<ytsr.Result>;
+
+  // Helper property to suppress deprecation warnings
+  ytsr.do_warn_deprecate: boolean;
 
   export = ytsr;
 }
