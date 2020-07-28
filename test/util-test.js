@@ -197,57 +197,57 @@ describe('util.buildRef()', () => {
   it('build a query link', () => {
     const query = UTIL.buildRef(null, 'what &% up');
     const should = 'https://www.youtube.com/results?spf=navigate&gl=US&hl=en&search_query=what%20%26%25%20up';
-    ASSERT.equal(query, should);
+    ASSERT.strictEqual(query, should);
   });
 
   it('builds a nextpage link', () => {
     const query = UTIL.buildRef('/results?sp=SGajsdkasj&search_query=youtube', null);
     const should = 'https://www.youtube.com/results?spf=navigate&gl=US&hl=en&search_query=youtube&sp=SGajsdkasj';
-    ASSERT.equal(query, should);
+    ASSERT.strictEqual(query, should);
   });
 });
 
 describe('util.between()', () => {
   it('`left` positioned at the start', () => {
     const rs = UTIL.between('<b>hello there friend</b>', '<b>', '</b>');
-    ASSERT.equal(rs, 'hello there friend');
+    ASSERT.strictEqual(rs, 'hello there friend');
   });
 
   it('somewhere in the middle', () => {
     const rs = UTIL.between('something everything nothing', ' ', ' ');
-    ASSERT.equal(rs, 'everything');
+    ASSERT.strictEqual(rs, 'everything');
   });
 
   it('not found', () => {
     const rs = UTIL.between('oh oh _where_ is it', '<b>', '</b>');
-    ASSERT.equal(rs, '');
+    ASSERT.strictEqual(rs, '');
   });
 
   it('`right` before `left`', () => {
     const rs = UTIL.between('>>> a <this> and that', '<', '>');
-    ASSERT.equal(rs, 'this');
+    ASSERT.strictEqual(rs, 'this');
   });
 
   it('`right` not found', () => {
     const rs = UTIL.between('something [around[ somewhere', '[', ']');
-    ASSERT.equal(rs, '');
+    ASSERT.strictEqual(rs, '');
   });
 });
 
 describe('util.removeHtml()', () => {
   it('remove html', () => {
-    ASSERT.equal(
+    ASSERT.strictEqual(
       UTIL.removeHtml('<a href="/someref">Artist1 - Nova (Official)</a><div class="pl-video-owner">'),
       'Artist1 - Nova (Official)',
     );
   });
 
   it('replace unknown characters', () => {
-    ASSERT.equal(UTIL.removeHtml('Artist1 &amp; Artist2 - Nova (Official)'), 'Artist1 & Artist2 - Nova (Official)');
+    ASSERT.strictEqual(UTIL.removeHtml('Artist1 &amp; Artist2 - Nova (Official)'), 'Artist1 & Artist2 - Nova (Official)');
   });
 
   it('keeps newlines', () => {
-    ASSERT.equal(UTIL.removeHtml('Artist1 &amp; Artist2 <br> Nova (Official)'), 'Artist1 & Artist2\nNova (Official)');
+    ASSERT.strictEqual(UTIL.removeHtml('Artist1 &amp; Artist2 <br> Nova (Official)'), 'Artist1 & Artist2\nNova (Official)');
   });
 });
 
