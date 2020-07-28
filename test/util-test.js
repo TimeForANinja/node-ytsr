@@ -243,11 +243,17 @@ describe('util.removeHtml()', () => {
   });
 
   it('replace unknown characters', () => {
-    ASSERT.strictEqual(UTIL.removeHtml('Artist1 &amp; Artist2 - Nova (Official)'), 'Artist1 & Artist2 - Nova (Official)');
+    ASSERT.strictEqual(
+      UTIL.removeHtml('Artist1 &amp; Artist2 - Nova (Official)'),
+      'Artist1 & Artist2 - Nova (Official)',
+    );
   });
 
   it('keeps newlines', () => {
-    ASSERT.strictEqual(UTIL.removeHtml('Artist1 &amp; Artist2 <br> Nova (Official)'), 'Artist1 & Artist2\nNova (Official)');
+    ASSERT.strictEqual(
+      UTIL.removeHtml('Artist1 &amp; Artist2 <br> Nova (Official)'),
+      'Artist1 & Artist2\nNova (Official)',
+    );
   });
 });
 
