@@ -5,7 +5,7 @@
     "youtube",
     "search"
   ],
-  "version": "0.1.19",
+  "version": "0.1.20",
   "repository": {
     "type": "git",
     "url": "git://github.com/TimeForANinja/node-ytsr.git"
