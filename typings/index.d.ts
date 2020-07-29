@@ -108,7 +108,7 @@ declare module 'ytsr' {
   function ytsr(id: string | null, options: ytsr.Options): Promise<ytsr.Result>;
 
   // Helper property to suppress deprecation warnings
-  ytsr.do_warn_deprecate: boolean;
+  let do_warn_deprecate: boolean;
 
   export = ytsr;
 }
