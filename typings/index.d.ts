@@ -120,9 +120,7 @@ declare module 'ytsr' {
       currentRef: string | null;
     }
 
-    function getFilters(searchString: string): Promise<Map<string, Filter>>
-    function getFilters(searchString: string, options: ytsr.Options): Promise<Map<string, Filter>>
-
+    function getFilters(searchString: string, options? ytsr.Options): Promise<Map<string, Filter>>;
   }
 
   function ytsr(id: string): Promise<ytsr.Result>;
