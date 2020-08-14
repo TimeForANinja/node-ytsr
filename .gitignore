@@ -2,3 +2,4 @@ node_modules
 /lib/dumbs
 coverage
 package-lock.json
+.idea

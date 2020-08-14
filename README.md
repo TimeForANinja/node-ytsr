@@ -31,6 +31,7 @@ ytsr.getFilters('github', function(err, filters) {
     var options = {
       limit: 5,
       nextpageRef: filter.ref,
+      ipBlocks: '2001:470:1234:5678::/64' // IPv6 CIDR block for rotation
     }
     ytsr(null, options, function(err, searchResults) {
       if(err) throw err;
@@ -92,3 +93,4 @@ Pulls avaible filters for the given string/ref
 
 # License
 MIT
+
