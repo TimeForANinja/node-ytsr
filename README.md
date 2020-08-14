@@ -93,4 +93,3 @@ Pulls avaible filters for the given string/ref
 
 # License
 MIT
-
