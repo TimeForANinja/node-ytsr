@@ -8,7 +8,15 @@ const NOCK = require('./nock'); // eslint-disable-line no-unused-vars
 describe('ytsr#getFilters()', () => {
   it('no search string provided', done => {
     let resp = YTSR.getFilters().catch(err => {
-      ASSERT.strictEqual(err.message, 'searchString, currentRef or nextpageRef is mandatory');
+      ASSERT.strictEqual(err.message, 'searchString is mandatory');
+      ASSERT.ok(resp instanceof Promise);
+      done();
+    });
+  });
+
+  it('empty search string provided', done => {
+    let resp = YTSR.getFilters("").catch(err => {
+      ASSERT.strictEqual(err.message, 'searchString is mandatory');
       ASSERT.ok(resp instanceof Promise);
       done();
     });
@@ -28,6 +36,18 @@ describe('ytsr()', () => {
   it('errors when no nextpageRef or query is provided', () => {
     YTSR(null).catch(err => {
       ASSERT.strictEqual(err.message, 'search string or nextpageRef is mandatory');
+    });
+  });
+
+  it('errors when empty nextpageRef is provided', () => {
+    YTSR("").catch(err => {
+      ASSERT.strictEqual(err.message, 'search string must be of type string');
+    });
+  });
+
+  it('errors when empty query is provided', () => {
+    YTSR(null, { nextpageRef: "" }).catch(err => {
+      ASSERT.strictEqual(err.message, 'nextpageRef must be of type string');
     });
   });
 

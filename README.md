@@ -53,13 +53,15 @@ Searches for the given string
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output)
 
 
-### ytsr.getFilters(searchString)
+### ytsr.getFilters(searchString, options)
 
 Pulls avaible filters for the given string/ref
 
 * `searchString`
     * string to search for
     * or previously optained filter ref
+* `options`
+    * request options passed to miniget
 * returns a Promise
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output)
 
