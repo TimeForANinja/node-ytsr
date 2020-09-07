@@ -49,13 +49,19 @@ describe('ytsr()', () => {
 
   it('errors when empty nextpageRef is provided', () => {
     YTSR('').catch(err => {
-      ASSERT.strictEqual(err.message, 'search string must be of type string');
+      ASSERT.strictEqual(err.message, 'search string or nextpageRef is mandatory');
     });
   });
 
   it('errors when empty query is provided', () => {
     YTSR(null, { nextpageRef: '' }).catch(err => {
-      ASSERT.strictEqual(err.message, 'nextpageRef must be of type string');
+      ASSERT.strictEqual(err.message, 'search string or nextpageRef is mandatory');
+    });
+  });
+
+  it('errors when query is not a string but "!!true"', () => {
+    YTSR({}).catch(err => {
+      ASSERT.strictEqual(err.message, 'search string must be of type string');
     });
   });
 
