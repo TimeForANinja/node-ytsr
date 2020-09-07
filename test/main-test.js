@@ -24,7 +24,11 @@ describe('ytsr#getFilters()', () => {
 
   it('empty search string provided', done => {
     let resp = YTSR.getFilters('https://www.youtube.com/results?search_query=some+query&sp=some_param').catch(err => {
-      ASSERT.strictEqual(err.message, 'Nock: Disallowed net connect for "www.youtube.com:443/results?spf=navigate&gl=US&hl=en&search_query=some%20query"');
+      ASSERT.strictEqual(
+        err.message,
+        'Nock: Disallowed net connect for \
+        "www.youtube.com:443/results?spf=navigate&gl=US&hl=en&search_query=some%20query"',
+      );
       ASSERT.ok(resp instanceof Promise);
       done();
     });
