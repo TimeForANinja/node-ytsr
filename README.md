@@ -19,9 +19,9 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 const ytsr = require('ytsr');
 
 ytsr.getFilters('github').then(async (filters1) => {
-  filter1 = filters1.get('Type').find(o => o.name === 'Video');
+  const filter1 = filters1.get('Type').find(o => o.name === 'Video');
   const filters2 = await ytsr.getFilters(filter1.ref);
-  filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
+  const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
   const options = {
     limit: 5,
     nextpageRef: filter2.ref,
