@@ -17,7 +17,6 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 
 ```js
 const ytsr = require('ytsr');
-let filter;
 
 ytsr.getFilters('github').then(async (filters1) => {
   filter1 = filters1.get('Type').find(o => o.name === 'Video');
