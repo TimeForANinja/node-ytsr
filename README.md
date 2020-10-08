@@ -17,12 +17,11 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 
 ```js
 const ytsr = require('ytsr');
-let filter;
 
-ytsr.getFilters('github').then(async filters1 => {
-  filter1 = filters.get('Type').find(o => o.name === 'Video');
-  const filters2 = await ytsr.getFilters(filter.ref);
-  filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
+ytsr.getFilters('github').then(async (filters1) => {
+  const filter1 = filters1.get('Type').find(o => o.name === 'Video');
+  const filters2 = await ytsr.getFilters(filter1.ref);
+  const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
   const options = {
     limit: 5,
     nextpageRef: filter2.ref,
