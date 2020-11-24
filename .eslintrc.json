@@ -5,45 +5,43 @@
   },
   "env": {
     "es6": true,
-    "node": true
+    "node": true,
+    "mocha": false
   },
   "rules": {
-    "no-await-in-loop": "warn",
+    "no-await-in-loop": "off",
     "no-compare-neg-zero": "error",
     "no-extra-parens": ["warn", "all", {
       "nestedBinaryExpressions": false
     }],
     "no-template-curly-in-string": "error",
     "no-unsafe-negation": "error",
-    "valid-jsdoc": ["error", {
-      "requireReturn": false,
-      "requireReturnDescription": false,
+    "valid-jsdoc": ["warn", {
       "prefer": {
-        "return": "returns",
-        "arg": "param"
+        "arg": "param",
+        "return": "returns"
       },
       "preferType": {
-        "String": "string",
-        "Number": "number",
         "Boolean": "boolean",
-        "Symbol": "symbol",
+        "Number": "number",
         "object": "Object",
-        "function": "Function",
-        "array": "Array",
-        "date": "Date",
-        "error": "Error",
-        "null": "void"
-      }
+        "String": "string"
+      },
+      "requireReturn": false,
+      "requireReturnType": true,
+      "requireParamDescription": false,
+      "requireReturnDescription": false,
+      "requireParamType": true
     }],
-
     "accessor-pairs": "warn",
     "array-callback-return": "error",
-    "complexity": "warn",
+    "complexity": ["off", { "max": 25 }],
     "consistent-return": "warn",
     "curly": ["error", "multi-line", "consistent"],
     "dot-location": ["error", "property"],
     "dot-notation": "error",
     "eqeqeq": "error",
+    "no-console": ["error", { "allow": ["warn"] }],
     "no-empty-function": "error",
     "no-floating-decimal": "error",
     "no-implied-eval": "error",
@@ -54,7 +52,7 @@
     "no-new-wrappers": "error",
     "no-new": "error",
     "no-octal-escape": "error",
-    "no-return-assign": "error",
+    "no-return-assign": "off",
     "no-return-await": "error",
     "no-self-compare": "error",
     "no-sequences": "error",
