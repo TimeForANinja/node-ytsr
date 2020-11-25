@@ -1,5 +1,5 @@
 /* global describe, it */
-const ASSERT = require('ASSERT-diff');
+const ASSERT = require('assert-diff');
 ASSERT.options.strict = true;
 const UTILS = require('../lib/utils.js')
 
