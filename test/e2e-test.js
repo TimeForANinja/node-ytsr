@@ -25,7 +25,7 @@ describe('e2e', function e2e() {
   });
 
   it('search using filters', async() => {
-    const filters = await YTSR.getFilters("NoCopyrightSounds");
+    const filters = await YTSR.getFilters('NoCopyrightSounds');
     const filter = filters.get('Type').find(a => a.label === 'Video');
     const search = await YTSR(filter.query);
     // Check that the filter worked
