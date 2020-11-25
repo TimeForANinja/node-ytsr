@@ -1,0 +1,367 @@
+{
+  "specialities": "video without author",
+  "type":"videoRenderer",
+  "parsed":{
+    "type":"video",
+    "title":"Together Forever",
+    "id":"whBqghP5Oow",
+    "link":"https://www.youtube.com/watch?v=whBqghP5Oow",
+    "bestThumbnail":{
+      "url":"https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
+      "width":480,
+      "height":270
+    },
+    "thumbnails":[
+      {
+        "url":"https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
+        "width":480,
+        "height":270
+      }
+    ],
+    "isUpcoming":false,
+    "upcoming":null,
+    "isLive":false,
+    "badges":["Buy", "CC"],
+    "author":null,
+    "description":"Connie has a really clear vision for her future. Steven wants to make sure he'll be a part of it.",
+    "views":null,
+    "duration":"11:20",
+    "uploaded_at":"Mar 14, 2020",
+    "live":false,
+    "thumbnail":"https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg"
+  },
+  "raw":{
+    "videoRenderer": {
+      "videoId": "whBqghP5Oow",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
+            "width": 480,
+            "height": 270
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "Together Forever"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Together Forever by Steven Universe Future Mar 14, 2020 11 minutes, 20 seconds"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "Connie has a really clear vision for her future. Steven wants to make sure he'll be a part of it."
+          }
+        ]
+      },
+      "publishedTimeText": {
+        "simpleText": "Mar 14, 2020"
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "11 minutes, 20 seconds"
+          }
+        },
+        "simpleText": "11:20"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CEYQ3DAYAiITCK2M3bjU-uwCFeVvgwodLqABQDIGc2VhcmNoUhB0b2dldGhlciBmb3JldmVymgEDEPQk",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=whBqghP5Oow",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "whBqghP5Oow",
+          "params": "6gILR3pzM3RuNWxiT2_qAgs2ZENreDM1dGQ4QeoCC084MWx6ZmYyN29z6gILNmwyYkRhVHZvdzDqAgt4a0ZOcjdDM1Fyc-oCC0xGX1h2b0Q2WU8w6gILaGN1Qi1pNV9wdmvqAgtLdEJieWdscTM3ReoCCzF6a2xGLXNTanlr6gILUl9sMXNabWE5U3fqAgtENjNKY2RtRFJGOOoCC3NBTHV3VlJOaG5V6gILZWZSVTcydm5qQTjqAgtQc2tvLUdwczVmTeoCCzBKLV9mNG9SdVdJ6gILbDJXcTYtVzdxLTTqAgtReURKZnUzdGVuMOoCC180Y3Z6MzM4dkpR6gILSWZPd0lIbl9ubGuqAxB0b2dldGhlciBmb3JldmVyugMKCOrZlfPn9s2dG7oDCwjA77Xz95ip6OkBugMKCIvd27_fudnmO7oDCwiNxr6n2uHmruoBugMLCLuF3YX7tdOgxgG6AwoI7cHph-j39a8sugMLCPnN_vOiv-DlhQG6AwoIsb-ry6D5lugqugMLCKmeytj-osmc1wG6AwoIrOrrzJm23fxHugMKCN-IjcydrvLWD7oDCwj1jLaildi7gbABugMKCI-Ynt_2nZX6eboDCgjzy7PThp_K5D66AwsI4vLG0Pjv78_QAboDCwju1-6tvt3qspcBugMKCP30te_ur7KQQ7oDCwiU-fLv9_nLw_8BugMKCNm8_s-HhOz5IQ%3D%3D"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_YPC",
+            "label": "Buy",
+            "trackingParams": "CEYQ3DAYAiITCK2M3bjU-uwCFeVvgwodLqABQA=="
+          }
+        },
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "CC",
+            "trackingParams": "CEYQ3DAYAiITCK2M3bjU-uwCFeVvgwodLqABQA=="
+          }
+        }
+      ],
+      "trackingParams": "CEYQ3DAYAiITCK2M3bjU-uwCFeVvgwodLqABQECM9eSfodCaiMIB",
+      "showActionMenu": false,
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CEkQ_pgEGAYiEwitjN241PrsAhXlb4MKHS6gAUA=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/service_ajax",
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CEkQ_pgEGAYiEwitjN241PrsAhXlb4MKHS6gAUA=",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "whBqghP5Oow",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CEkQ_pgEGAYiEwitjN241PrsAhXlb4MKHS6gAUA=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/service_ajax",
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "whBqghP5Oow"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "whBqghP5Oow"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CEkQ_pgEGAYiEwitjN241PrsAhXlb4MKHS6gAUA="
+              }
+            }
+          ],
+          "trackingParams": "CEYQ3DAYAiITCK2M3bjU-uwCFeVvgwodLqABQA==",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "channelThumbnailSupportedRenderers": {
+        "channelThumbnailWithLinkRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/a-/AOh14GjOv2j8NB3mMxwZD8dsCfCUZea07o71MUrrzQ=s68-c-k-c0x00ffffff-no-rj-mo",
+                "width": 68,
+                "height": 68
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CEYQ3DAYAiITCK2M3bjU-uwCFeVvgwodLqABQA==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCMRBAbzuBje-TgPdkyYuLfg",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCMRBAbzuBje-TgPdkyYuLfg"
+            }
+          },
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Go to channel"
+            }
+          }
+        }
+      },
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "11 minutes, 20 seconds"
+                }
+              },
+              "simpleText": "11:20"
+            },
+            "style": "DEFAULT"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CEgQ-ecDGAMiEwitjN241PrsAhXlb4MKHS6gAUA=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "whBqghP5Oow",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CEgQ-ecDGAMiEwitjN241PrsAhXlb4MKHS6gAUA=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "whBqghP5Oow"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CEgQ-ecDGAMiEwitjN241PrsAhXlb4MKHS6gAUA="
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CEcQx-wEGAQiEwitjN241PrsAhXlb4MKHS6gAUA=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CEcQx-wEGAQiEwitjN241PrsAhXlb4MKHS6gAUA=",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "whBqghP5Oow",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CEcQx-wEGAQiEwitjN241PrsAhXlb4MKHS6gAUA=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/service_ajax",
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "whBqghP5Oow"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "whBqghP5Oow"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CEcQx-wEGAQiEwitjN241PrsAhXlb4MKHS6gAUA="
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "topStandaloneBadge": {
+        "metadataBadgeRenderer": {
+          "style": "BADGE_STYLE_TYPE_COLLECTION",
+          "label": "Steven Universe Future  S1 • E13",
+          "trackingParams": "CEYQ3DAYAiITCK2M3bjU-uwCFeVvgwodLqABQA=="
+        }
+      }
+    }
+  }
+}

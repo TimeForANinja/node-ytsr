@@ -1,0 +1,426 @@
+{
+  "specialities": "no description",
+  "type": "videoRenderer",
+  "parsed": {
+    "type": "video",
+    "title": "Will Cubs upcoming FA class force trades?",
+    "id": "wzEpnM3hUI8",
+    "link": "https://www.youtube.com/watch?v=wzEpnM3hUI8",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg",
+      "width": 480,
+      "height": 270
+    },
+    "thumbnails": [{
+      "url": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg",
+      "width": 480,
+      "height": 270
+    }],
+    "isUpcoming": false,
+    "upcoming": null,
+    "isLive": false,
+    "badges": ["New"],
+    "author": {
+      "name": "braverman26",
+      "channelID": "UCAs875Iui44clBS8OdG85Mg",
+      "ref": "https://www.youtube.com/channel/UCAs875Iui44clBS8OdG85Mg",
+      "bestAvatar": {
+        "url": "https://yt3.ggpht.com/a-/AOh14Gikv-tGBjuoSnPAScTRYqGq3WZHnoLVZJM11Q=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      },
+      "avatars": [{
+        "url": "https://yt3.ggpht.com/a-/AOh14Gikv-tGBjuoSnPAScTRYqGq3WZHnoLVZJM11Q=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      }],
+      "ownerBadges": [],
+      "verified": false
+    },
+    "description": "",
+    "views": 4984,
+    "duration": "6:27",
+    "uploaded_at": "1 day ago",
+    "live": false,
+    "thumbnail": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg"
+  },
+  "raw": {
+    "videoRenderer": {
+      "videoId": "wzEpnM3hUI8",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg",
+            "width": 480,
+            "height": 270
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "Will Cubs upcoming FA class force trades?"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Will Cubs upcoming FA class force trades? by braverman26 1 day ago 6 minutes, 27 seconds 4,984 views"
+          }
+        }
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "braverman26",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMfw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCAs875Iui44clBS8OdG85Mg",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCAs875Iui44clBS8OdG85Mg"
+              }
+            }
+          }
+        ]
+      },
+      "publishedTimeText": {
+        "simpleText": "1 day ago"
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "6 minutes, 27 seconds"
+          }
+        },
+        "simpleText": "6:27"
+      },
+      "viewCountText": {
+        "simpleText": "4,984 views"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMfzIGc2VhcmNoUgh1cGNvbWluZ5oBAxD0JA==",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=wzEpnM3hUI8",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "wzEpnM3hUI8",
+          "params": "qgMIdXBjb21pbme6AwsIlZzbp-_3j9SbAboDCwjGoaqN8Lf2tNQBugMLCM75mfCSjouHhwG6AwsIhJPZjfKX8fCmAboDCgiFmM2pjLC4u1m6AwoIj4_1p8m46el6ugMKCOztiPaHj_70GroDCgjcv6DBsPDelHy6AwsIoIjPpaLTirT8AboDCgix-s7Br_Ws-2q6AwsIgu3Z0---1M_TAboDCwjR1brt6IWu4pIBugMKCLrsgNqe3fC1HLoDCwi9z8Kq-MK47IUBugMLCKyyrdOM1sCDpgG6AwoIh4vXnbbDieNIugMLCJz2lImO1aiG7wG6AwoIoqrDjPu3rctJugMLCJ6txZPj6Z2T7gE%3D"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "New",
+            "trackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMfw=="
+          }
+        }
+      ],
+      "ownerText": {
+        "runs": [
+          {
+            "text": "braverman26",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMfw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCAs875Iui44clBS8OdG85Mg",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCAs875Iui44clBS8OdG85Mg"
+              }
+            }
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "braverman26",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMfw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCAs875Iui44clBS8OdG85Mg",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCAs875Iui44clBS8OdG85Mg"
+              }
+            }
+          }
+        ]
+      },
+      "trackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMf0CPoYXvzLPKmMMB",
+      "showActionMenu": false,
+      "shortViewCountText": {
+        "simpleText": "4.9K views"
+      },
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CBEQ_pgEGAUiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/service_ajax",
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CBEQ_pgEGAUiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "wzEpnM3hUI8",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CBEQ_pgEGAUiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/service_ajax",
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "wzEpnM3hUI8"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "wzEpnM3hUI8"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CBEQ_pgEGAUiEwi3372-uZ3tAhXGkN4KHUbRDH8="
+              }
+            }
+          ],
+          "trackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMfw==",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "channelThumbnailSupportedRenderers": {
+        "channelThumbnailWithLinkRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/a-/AOh14Gikv-tGBjuoSnPAScTRYqGq3WZHnoLVZJM11Q=s68-c-k-c0x00ffffff-no-rj-mo",
+                "width": 68,
+                "height": 68
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CA4Q3DAYCyITCLffvb65ne0CFcaQ3godRtEMfw==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCAs875Iui44clBS8OdG85Mg",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCAs875Iui44clBS8OdG85Mg"
+            }
+          },
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Go to channel"
+            }
+          }
+        }
+      },
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "6 minutes, 27 seconds"
+                }
+              },
+              "simpleText": "6:27"
+            },
+            "style": "DEFAULT"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CBAQ-ecDGAIiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "wzEpnM3hUI8",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CBAQ-ecDGAIiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "wzEpnM3hUI8"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CBAQ-ecDGAIiEwi3372-uZ3tAhXGkN4KHUbRDH8="
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CA8Qx-wEGAMiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CA8Qx-wEGAMiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "wzEpnM3hUI8",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CA8Qx-wEGAMiEwi3372-uZ3tAhXGkN4KHUbRDH8=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/service_ajax",
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "wzEpnM3hUI8"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "wzEpnM3hUI8"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CA8Qx-wEGAMiEwi3372-uZ3tAhXGkN4KHUbRDH8="
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

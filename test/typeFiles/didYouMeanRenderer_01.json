@@ -1,4 +1,5 @@
 {
+  "specialities": "None",
   "type":"didYouMeanRenderer",
   "parsed":{
     "type":"search-refinements",

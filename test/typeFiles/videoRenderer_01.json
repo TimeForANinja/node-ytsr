@@ -1,4 +1,5 @@
 {
+  "specialities": "None",
   "type":"videoRenderer",
   "parsed":{
     "type":"video",
@@ -35,9 +36,7 @@
     "isUpcoming":false,
     "upcoming":null,
     "isLive":false,
-    "badges":[
-
-    ],
+    "badges":[],
     "author":{
       "name":"Jahwa",
       "channelID":"UCdssA08g_Ta48IIFgV7Y8BA",

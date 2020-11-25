@@ -14,7 +14,7 @@ describe('parses various types', () => {
     const file = PATH.resolve(FILE_DIR, type);
     const data = JSON.parse(FS.readFileSync(file, 'utf8'));
 
-    it(`parses type ${data.type}`, done => {
+    it(`parses type ${data.type} - "${data.specialities}" speciality`, done => {
       const parsed = PARSE_ITEM(data.raw);
       ASSERT.deepEqual(data.parsed, parsed);
       done();

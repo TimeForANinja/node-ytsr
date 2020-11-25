@@ -1,0 +1,422 @@
+{
+  "specialities": "livestream without badge",
+  "type": "videoRenderer",
+  "parsed": {
+    "type": "video",
+    "title": "NCS 24/7 Gaming Music Livestream",
+    "id": "IP0ZRj-_xG4",
+    "link": "https://www.youtube.com/watch?v=IP0ZRj-_xG4",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBycKRvj82498MKyeI28xa0ACxj2Q",
+      "width": 720,
+      "height": 404
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBycKRvj82498MKyeI28xa0ACxj2Q",
+        "width": 720,
+        "height": 404
+      },
+      {
+        "url": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0s4hN59Amx-a4UwS8zFHC86Gekw",
+        "width": 360,
+        "height": 202
+      }
+    ],
+    "isUpcoming": false,
+    "upcoming": null,
+    "isLive": false,
+    "badges": [],
+    "author": {
+      "name": "NCS Arcade",
+      "channelID": "UCiJnBO_XuDsi1SSRAmt4n5g",
+      "ref": "https://www.youtube.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
+      "bestAvatar": {
+        "url": "https://yt3.ggpht.com/a-/AOh14GjmrkkekpSJSJ1NAvtav2o0L-53-1W-bVI2zQ=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      },
+      "avatars": [{
+        "url": "https://yt3.ggpht.com/a-/AOh14GjmrkkekpSJSJ1NAvtav2o0L-53-1W-bVI2zQ=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      }],
+      "ownerBadges": [],
+      "verified": false
+    },
+    "description": "The best in copyright-free music from NoCopyrightSounds while you're gaming, studying or just ...",
+    "views": 185881,
+    "duration": null,
+    "uploaded_at": "3 weeks ago",
+    "live": false,
+    "thumbnail": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBycKRvj82498MKyeI28xa0ACxj2Q"
+  },
+  "raw": {
+    "videoRenderer": {
+      "videoId": "IP0ZRj-_xG4",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBycKRvj82498MKyeI28xa0ACxj2Q",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0s4hN59Amx-a4UwS8zFHC86Gekw",
+            "width": 360,
+            "height": 202
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "NCS 24/7 Gaming Music Livestream"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "NCS 24/7 Gaming Music Livestream by NCS Arcade 3 weeks ago 185,881 views"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "The best in copyright-free music from "
+          },
+          {
+            "text": "NoCopyrightSounds",
+            "bold": true
+          },
+          {
+            "text": " while you're gaming, studying or just ..."
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "NCS Arcade",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIkBENwwGBIiEwibxuWO3p3tAhUWonsKHQAfBKM=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCiJnBO_XuDsi1SSRAmt4n5g"
+              }
+            }
+          }
+        ]
+      },
+      "publishedTimeText": {
+        "simpleText": "3 weeks ago"
+      },
+      "viewCountText": {
+        "simpleText": "185,881 views"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CIkBENwwGBIiEwibxuWO3p3tAhUWonsKHQAfBKMyBnNlYXJjaFIRTm9Db3B5cmlnaHRTb3VuZHOaAQMQ9CQ=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=IP0ZRj-_xG4",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "IP0ZRj-_xG4",
+          "params": "qgMRTm9Db3B5cmlnaHRTb3VuZHO6AwkI2p_7n4u44w26AwsIi9aIyMy3t_P4AboDCgjih7i6lo7Vr0u6AwsIzOHIt7nMj8zIAboDJBIiUExJb2dCR1RxT0pzajF3aTlfSVJtVzVPYi0tVEFfZmh3b7oDCgi406OE6_jLsXW6AwsI69SK4r_0pdy2AboDCgi3hOHD-vWR_By6AwsIlPKV4LWiu7nIAboDCwiZnemv5rHPsJoBugMkEiJQTFJCcDBGZTJHcGduSWgwQWlZS2g3bzdIbllBZWotNXBougMJCJLcp4enn-ZzugMKCIGbnO6Js_6yJ7oDCwjkvvi6lrGDut4BugMKCJa9up_B146TJboDCgjnxtuN1MC8wCu6AwoIpe_QpaiimO1CugMcEhpSREVNS29WTmtud0hkYTJzUWIwV3JXbndGUQ%3D%3D"
+        }
+      },
+      "ownerText": {
+        "runs": [
+          {
+            "text": "NCS Arcade",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIkBENwwGBIiEwibxuWO3p3tAhUWonsKHQAfBKM=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCiJnBO_XuDsi1SSRAmt4n5g"
+              }
+            }
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "NCS Arcade",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIkBENwwGBIiEwibxuWO3p3tAhUWonsKHQAfBKM=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCiJnBO_XuDsi1SSRAmt4n5g"
+              }
+            }
+          }
+        ]
+      },
+      "trackingParams": "CIkBENwwGBIiEwibxuWO3p3tAhUWonsKHQAfBKNA7oj__eOoxv4g",
+      "showActionMenu": false,
+      "shortViewCountText": {
+        "simpleText": "185K views"
+      },
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CIwBEP6YBBgDIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/service_ajax",
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CIwBEP6YBBgDIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "IP0ZRj-_xG4",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CIwBEP6YBBgDIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/service_ajax",
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "IP0ZRj-_xG4"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "IP0ZRj-_xG4"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CIwBEP6YBBgDIhMIm8bljt6d7QIVFqJ7Ch0AHwSj"
+              }
+            }
+          ],
+          "trackingParams": "CIkBENwwGBIiEwibxuWO3p3tAhUWonsKHQAfBKM=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "channelThumbnailSupportedRenderers": {
+        "channelThumbnailWithLinkRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/a-/AOh14GjmrkkekpSJSJ1NAvtav2o0L-53-1W-bVI2zQ=s68-c-k-c0x00ffffff-no-rj-mo",
+                "width": 68,
+                "height": 68
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CIkBENwwGBIiEwibxuWO3p3tAhUWonsKHQAfBKM=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCiJnBO_XuDsi1SSRAmt4n5g"
+            }
+          },
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Go to channel"
+            }
+          }
+        }
+      },
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CIsBEPnnAxgAIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "IP0ZRj-_xG4",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CIsBEPnnAxgAIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "IP0ZRj-_xG4"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CIsBEPnnAxgAIhMIm8bljt6d7QIVFqJ7Ch0AHwSj"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CIoBEMfsBBgBIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CIoBEMfsBBgBIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "IP0ZRj-_xG4",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CIoBEMfsBBgBIhMIm8bljt6d7QIVFqJ7Ch0AHwSj",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/service_ajax",
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "IP0ZRj-_xG4"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "IP0ZRj-_xG4"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CIoBEMfsBBgBIhMIm8bljt6d7QIVFqJ7Ch0AHwSj"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

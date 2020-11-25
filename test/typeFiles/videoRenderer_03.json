@@ -1,0 +1,468 @@
+{
+  "specialities": "badges",
+  "type": "videoRenderer",
+  "parsed": {
+    "type": "video",
+    "title": "Günther Brammen beweist sein Wissen, in WER WIRD MILLIONÄR!",
+    "id": "Ip-0pZSjHhg",
+    "link": "https://www.youtube.com/watch?v=Ip-0pZSjHhg",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCM5OdcghsIQmYwbgeABIIatLJ-6Q",
+      "width": 720,
+      "height": 404
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCM5OdcghsIQmYwbgeABIIatLJ-6Q",
+        "width": 720,
+        "height": 404
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA3X7Ip-g2Y3EXjvHBcJS0DrpRhVw",
+        "width": 360,
+        "height": 202
+      }
+    ],
+    "isUpcoming": false,
+    "upcoming": null,
+    "isLive": false,
+    "badges": ["New"],
+    "author": {
+      "name": "PietSmiet",
+      "channelID": "UCqwGaUvq_l0RKszeHhZ5leA",
+      "ref": "https://www.youtube.com/user/PietSmittie",
+      "bestAvatar": {
+        "url": "https://yt3.ggpht.com/a-/AOh14GicrIG8Rdk5gPq9Y_YGX0Fj2vPJNe_-hhMKfA=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      },
+      "avatars": [{
+        "url": "https://yt3.ggpht.com/a-/AOh14GicrIG8Rdk5gPq9Y_YGX0Fj2vPJNe_-hhMKfA=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      }],
+      "ownerBadges": ["Verified"],
+      "verified": true
+    },
+    "description": "Erreicht einer die Million? Unseren Merch mit Shirts, Hoodies und Caps findet ihr auf https://pietsmiet.de/shop Verpasst keine ...",
+    "views": 112976,
+    "duration": "33:32",
+    "uploaded_at": "1 day ago",
+    "live": false,
+    "thumbnail": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCM5OdcghsIQmYwbgeABIIatLJ-6Q"
+  },
+  "raw": {
+    "videoRenderer": {
+      "videoId": "Ip-0pZSjHhg",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA3X7Ip-g2Y3EXjvHBcJS0DrpRhVw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCM5OdcghsIQmYwbgeABIIatLJ-6Q",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "Günther Brammen beweist sein Wissen, in WER WIRD MILLIONÄR!"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Günther Brammen beweist sein Wissen, in WER WIRD MILLIONÄR! by PietSmiet 1 day ago 33 minutes 112,976 views"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "Erreicht einer die Million? Unseren Merch mit Shirts, Hoodies und Caps findet ihr auf https://"
+          },
+          {
+            "text": "pietsmiet",
+            "bold": true
+          },
+          {
+            "text": ".de/shop Verpasst keine ..."
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "PietSmiet",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOk=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/PietSmittie",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCqwGaUvq_l0RKszeHhZ5leA",
+                "canonicalBaseUrl": "/user/PietSmittie"
+              }
+            }
+          }
+        ]
+      },
+      "publishedTimeText": {
+        "simpleText": "1 day ago"
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "33 minutes, 32 seconds"
+          }
+        },
+        "simpleText": "33:32"
+      },
+      "viewCountText": {
+        "simpleText": "112,976 views"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOkyBnNlYXJjaFIJcGlldHNtaWV0mgEDEPQk",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=Ip-0pZSjHhg",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "Ip-0pZSjHhg",
+          "params": "qgMJcGlldHNtaWV0ugMKCOPMlp-4hbzJfroDCgjF0_SjvPrlmDO6AwsIrc-95bXWnJz0AboDCgijpOT7yJ-Ouiq6AwsIssn1jcXD1NioAboDCgjT7fTDmZ_CiA26AwsI_c7Eif7trrrVAboDCwjy56eUlMW097cBugMKCInt6v6ozJKvYroDCwj287e5s4ipkfsBugMKCMSj5uS3x9igO7oDCgjwh5W4vdrGxU-6AwsIxqOP7qDX6JS6AboDCgjB0q3v86Hjxiu6AwoItNeJ_f6DyJo2ugMLCN_T8JOar42L5wG6AwoIj8-dxqXMhc8K"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "New",
+            "trackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOk="
+          }
+        }
+      ],
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED",
+            "tooltip": "Verified",
+            "trackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOk="
+          }
+        }
+      ],
+      "ownerText": {
+        "runs": [
+          {
+            "text": "PietSmiet",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOk=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/PietSmittie",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCqwGaUvq_l0RKszeHhZ5leA",
+                "canonicalBaseUrl": "/user/PietSmittie"
+              }
+            }
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "PietSmiet",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOk=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/PietSmittie",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCqwGaUvq_l0RKszeHhZ5leA",
+                "canonicalBaseUrl": "/user/PietSmittie"
+              }
+            }
+          }
+        ]
+      },
+      "trackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOlAmLyMpdmU7c8i",
+      "showActionMenu": false,
+      "shortViewCountText": {
+        "simpleText": "112K views"
+      },
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CIoBEP6YBBgGIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/service_ajax",
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CIoBEP6YBBgGIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "Ip-0pZSjHhg",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CIoBEP6YBBgGIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/service_ajax",
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "Ip-0pZSjHhg"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "Ip-0pZSjHhg"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CIoBEP6YBBgGIhMI5ZP16rid7QIVGU_gCh18Lwjp"
+              }
+            }
+          ],
+          "trackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOk=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "channelThumbnailSupportedRenderers": {
+        "channelThumbnailWithLinkRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/a-/AOh14GicrIG8Rdk5gPq9Y_YGX0Fj2vPJNe_-hhMKfA=s68-c-k-c0x00ffffff-no-rj-mo",
+                "width": 68,
+                "height": 68
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CIcBENwwGAUiEwjlk_XquJ3tAhUZT-AKHXwvCOk=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/user/PietSmittie",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCqwGaUvq_l0RKszeHhZ5leA",
+              "canonicalBaseUrl": "/user/PietSmittie"
+            }
+          },
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Go to channel"
+            }
+          }
+        }
+      },
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "33 minutes, 32 seconds"
+                }
+              },
+              "simpleText": "33:32"
+            },
+            "style": "DEFAULT"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CIkBEPnnAxgDIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "Ip-0pZSjHhg",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CIkBEPnnAxgDIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "Ip-0pZSjHhg"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CIkBEPnnAxgDIhMI5ZP16rid7QIVGU_gCh18Lwjp"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CIgBEMfsBBgEIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CIgBEMfsBBgEIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "Ip-0pZSjHhg",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CIgBEMfsBBgEIhMI5ZP16rid7QIVGU_gCh18Lwjp",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/service_ajax",
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "Ip-0pZSjHhg"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "Ip-0pZSjHhg"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CIgBEMfsBBgEIhMI5ZP16rid7QIVGU_gCh18Lwjp"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
