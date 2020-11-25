@@ -1,19 +1,19 @@
 /* global describe, it */
 const ASSERT = require('assert-diff');
 ASSERT.options.strict = true;
-const UTILS = require('../lib/utils.js')
+const UTILS = require('../lib/utils.js');
 
 describe('utils.jsonAfter()', () => {
   it('`left` positioned at the start', () => {
-    ASSERT.deepEqual(UTILS._hidden.jsonAfter('{"a": 1, "b": 1}asdf', ''), {"a": 1, "b": 1});
+    ASSERT.deepEqual(UTILS._hidden.jsonAfter('{"a": 1, "b": 1}asdf', ''), { a: 1, b: 1 });
   });
 
   it('somewhere in the middle', () => {
-    ASSERT.deepEqual(UTILS._hidden.jsonAfter('test{"a": 1, "b": 1}test', 'test'), {"a": 1, "b": 1});
+    ASSERT.deepEqual(UTILS._hidden.jsonAfter('test{"a": 1, "b": 1}test', 'test'), { a: 1, b: 1 });
   });
 
   it('ending with string end', () => {
-    ASSERT.deepEqual(UTILS._hidden.jsonAfter('test{"a": 1, "b": 1}', 'test'), {"a": 1, "b": 1});
+    ASSERT.deepEqual(UTILS._hidden.jsonAfter('test{"a": 1, "b": 1}', 'test'), { a: 1, b: 1 });
   });
 
   it('invalid json', () => {
