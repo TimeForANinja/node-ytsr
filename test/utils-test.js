@@ -15,7 +15,7 @@ describe('utils.parseFilters()', () => {
 
   it('map-keys are always strings', () => {
     const resp = UTILS.parseFilters(data);
-    ASSERT.ok(Array.from(resp.keys()).every(x => typeof(x) === 'string'));
+    ASSERT.ok(Array.from(resp.keys()).every(x => typeof x === 'string'));
   });
 });
 
@@ -24,7 +24,7 @@ describe('utils.parseBody()', () => {
 
   it('json is the parsed data', () => {
     const resp = UTILS.parseBody(data);
-    ASSERT.deepEqual(resp.json, {data: 'data'});
+    ASSERT.deepEqual(resp.json, { data: 'data' });
   });
 
   it('json is null if unable to parse', () => {
@@ -53,7 +53,7 @@ describe('utils.parseBody()', () => {
   });
 
   it('overwrites hl & gl in context', () => {
-    const resp = UTILS.parseBody(data, { hl: 'AA', gl: 'BB'});
+    const resp = UTILS.parseBody(data, { hl: 'AA', gl: 'BB' });
     ASSERT.deepEqual(resp.context.client, {
       utcOffsetMinutes: 0,
       gl: 'BB',
@@ -74,17 +74,17 @@ describe('utils.parseText()', () => {
 
   it('parges from runs', () => {
     ASSERT.equal(
-      UTILS.parseText({ runs: [{text: 'a '}, {text: 'b'}, {text: ' c'}] }),
+      UTILS.parseText({ runs: [{ text: 'a ' }, { text: 'b' }, { text: ' c' }] }),
       'a b c',
     );
   });
 
   it('prefers simpleText over runs', () => {
     ASSERT.equal(
-      UTILS.parseText({  simpleText: 'simpleText', runs: [{text: 'a'}] }),
+      UTILS.parseText({ simpleText: 'simpleText', runs: [{ text: 'a' }] }),
       'simpleText',
     );
-  })
+  });
 });
 
 describe('utils.parseIntegerFromText()', () => {
@@ -97,29 +97,29 @@ describe('utils.parseIntegerFromText()', () => {
 
   it('parse from runs', () => {
     ASSERT.equal(
-      UTILS.parseIntegerFromText({ runs: [{text: '4'}] }),
+      UTILS.parseIntegerFromText({ runs: [{ text: '4' }] }),
       4,
     );
   });
 
   it('parses american-formatted numbers', () => {
-    ASSERT.equal(UTILS.parseIntegerFromText({simpleText:'4,000,123'}), 4000123);
+    ASSERT.equal(UTILS.parseIntegerFromText({ simpleText: '4,000,123' }), 4000123);
   });
 
   it('parses european-formatted numbers', () => {
-    ASSERT.equal(UTILS.parseIntegerFromText({simpleText:'4.000.123'}), 4000123);
+    ASSERT.equal(UTILS.parseIntegerFromText({ simpleText: '4.000.123' }), 4000123);
   });
 
   it('ignores leading strings', () => {
-    ASSERT.equal(UTILS.parseIntegerFromText({simpleText:'views: 420'}), 420);
+    ASSERT.equal(UTILS.parseIntegerFromText({ simpleText: 'views: 420' }), 420);
   });
 
   it('ignores following strings', () => {
-    ASSERT.equal(UTILS.parseIntegerFromText({simpleText:'420 viewers'}), 420);
+    ASSERT.equal(UTILS.parseIntegerFromText({ simpleText: '420 viewers' }), 420);
   });
 
   it('parses encased strings', () => {
-    ASSERT.equal(UTILS.parseIntegerFromText({simpleText:'viewed 420 times'}), 420);
+    ASSERT.equal(UTILS.parseIntegerFromText({ simpleText: 'viewed 420 times' }), 420);
   });
 });
 
@@ -132,14 +132,14 @@ describe('utils.checkArgs()', () => {
 
   it('errors when parameter is an empty string', () => {
     ASSERT.throws(() => {
-      UTILS.checkArgs("");
+      UTILS.checkArgs('');
     }, /search string is mandatory/);
 
-  it('errors when parameter is not a string', () => {
-    ASSERT.throws(() => {
-      UTILS.checkArgs(1337);
-    }, /search string must be of type string/);
-  });
+    it('errors when parameter is not a string', () => {
+      ASSERT.throws(() => {
+        UTILS.checkArgs(1337);
+      }, /search string must be of type string/);
+    });
   });
 
   it('returns default options', () => {
@@ -150,23 +150,23 @@ describe('utils.checkArgs()', () => {
         query: {
           search_query: 'searchString',
           hl: 'en',
-          gl: 'US'
+          gl: 'US',
         },
         requestOptions: {},
         limit: 100,
-        safeSearch: false
+        safeSearch: false,
       },
     );
   });
 
   it('overwrites gl & hl options', () => {
-    options = { gl: 'DE', hl: 'de' };
+    const options = { gl: 'DE', hl: 'de' };
     ASSERT.deepEqual(
       UTILS.checkArgs('searchString', options).query,
       {
         search_query: 'searchString',
         hl: 'de',
-        gl: 'DE'
+        gl: 'DE',
       },
     );
   });
@@ -178,7 +178,7 @@ describe('utils.checkArgs()', () => {
       search_query: 'NoCopyrightSounds',
       hl: 'en',
       gl: 'US',
-      sp: 'EgIIAg%3D%3D'
+      sp: 'EgIIAg%3D%3D',
     });
   });
 
@@ -188,7 +188,8 @@ describe('utils.checkArgs()', () => {
   });
 
   it('does not delete other headers', () => {
-    const opts = UTILS.checkArgs('searchString', { requestOptions: { headers: { Cookie: [ 'cookie1'] } }, safeSearch: true });
+    const options = { requestOptions: { headers: { Cookie: ['cookie1'] } }, safeSearch: true };
+    const opts = UTILS.checkArgs('searchString', options);
     ASSERT.deepEqual(opts.requestOptions.headers.Cookie, ['cookie1', 'PREF=f2=8000000']);
   });
 
