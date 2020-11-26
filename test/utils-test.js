@@ -134,12 +134,12 @@ describe('utils.checkArgs()', () => {
     ASSERT.throws(() => {
       UTILS.checkArgs('');
     }, /search string is mandatory/);
+  });
 
-    it('errors when parameter is not a string', () => {
-      ASSERT.throws(() => {
-        UTILS.checkArgs(1337);
-      }, /search string must be of type string/);
-    });
+  it('errors when parameter is not a string', () => {
+    ASSERT.throws(() => {
+      UTILS.checkArgs(1337);
+    }, /search string must be of type string/);
   });
 
   it('returns default options', () => {
