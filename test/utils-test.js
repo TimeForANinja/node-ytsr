@@ -212,6 +212,12 @@ describe('utils.checkArgs()', () => {
     const opts = UTILS.checkArgs('searchString', { limit: Infinity });
     ASSERT.equal(opts.limit, Infinity);
   });
+
+  it('does not alter request Options', () => {
+    const opts = { safeSearch: true, hl: 'hl', gl: 'gl', limit: 123, requestOptions: { test: 'test' } };
+    UTILS.checkArgs('searchString', opts);
+    ASSERT.deepEqual(opts.requestOptions, { test: 'test' });
+  });
 });
 
 describe('utils.jsonAfter()', () => {
