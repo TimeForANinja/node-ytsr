@@ -18,19 +18,18 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 ```js
 const ytsr = require('ytsr');
 
-ytsr.getFilters('github').then(async (filters1) => {
+const main = async() => {
+  const filters1 = await ytsr.getFilters('github');
   const filter1 = filters1.get('Type').find(o => o.name === 'Video');
   const filters2 = await ytsr.getFilters(filter1.ref);
   const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
   const options = {
     limit: 5,
-    nextpageRef: filter2.ref,
   }
-  const searchResults = await ytsr(null, options);
+  const searchResults = await ytsr(filter2.ref, options);
   dosth(searchResults);
-}).catch(err => {
-  console.error(err);
-});
+};
+main();
 ```
 
 
@@ -40,16 +39,17 @@ ytsr.getFilters('github').then(async (filters1) => {
 Searches for the given string
 
 * `searchString`
-    * string to search for
+    * search string or link (from getFilters) to search from
 * `options`
     * object with options
     * possible settings:
+    * gl[String] -> 2-Digit Code of a Country, defaults to `US` - Allows for localisation of the request
+    * hl[String] -> 2-Digit Code for a Language, defaults to `en` - Allows for localisation of the request
     * safeSearch[Boolean] -> pull items in youtube restriction mode.
     * limit[integer] -> limits the pulled items, defaults to 100, set to Infinity to get the whole playlist - numbers <1 result in the default being used
-    * nextpageRef[String] -> if u wanna continue a previous search or use filters
-    * All additional parameters will get passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
+    * requestOptions[Object] -> Additional parameters to passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
 * returns a Promise
-* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output)
+* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output.txt)
 
 
 ### ytsr.getFilters(searchString, options)
@@ -60,9 +60,9 @@ Pulls avaible filters for the given string/ref
     * string to search for
     * or previously optained filter ref
 * `options`
-    * request options passed to miniget
+    * requestOptions[Object] -> Additional parameters to passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
 * returns a Promise
-* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output)
+* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output.txt)
 
 
 # Related / Works well with
