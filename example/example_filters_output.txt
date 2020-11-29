@@ -44,7 +44,8 @@ Map(5) {
       active: false,
       name: 'This year',
       ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBQ%253D%253D'
-    }
+    },
+    active: null
   ],
   'Type' => [
     {
@@ -91,7 +92,8 @@ Map(5) {
       active: false,
       name: 'Show',
       ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBQ%253D%253D'
-    }
+    },
+    active: null
   ],
   'Duration' => [
     {
@@ -111,7 +113,8 @@ Map(5) {
       active: false,
       name: 'Long (> 20 minutes)',
       ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAg%253D%253D'
-    }
+    },
+    active: null
   ],
   'Features' => [
     {
@@ -212,7 +215,8 @@ Map(5) {
       active: false,
       name: 'Purchased',
       ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJIAQ%253D%253D'
-    }
+    },
+    active: null
   ],
   'Sort by' => [
     {
