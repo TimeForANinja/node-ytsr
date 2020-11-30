@@ -142,6 +142,12 @@ describe('utils.checkArgs()', () => {
     }, /search string must be of type string/);
   });
 
+  it('errors for non-search youtube lists', () => {
+    ASSERT.throws(() => {
+      UTILS.checkArgs('https://www.youtube.com/watch?v=00000000000');
+    }, /link has to include a "search_string" query/);
+  });
+
   it('returns default options', () => {
     ASSERT.deepEqual(
       UTILS.checkArgs('searchString'),
