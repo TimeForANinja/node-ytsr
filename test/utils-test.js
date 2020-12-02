@@ -21,7 +21,7 @@ describe('utils.parseFilters()', () => {
 });
 
 describe('utils.parseBody()', () => {
-  const data = FS.readFileSync('test/pages/firstpage.html', 'utf8');
+  const data = FS.readFileSync('test/pages/firstpage_nodata.html', 'utf8');
 
   it('json is the parsed data', () => {
     const resp = UTILS.parseBody(data);
