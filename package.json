@@ -31,8 +31,8 @@
     "nyc": "nyc --reporter=lcov npm run-script mocha",
     "test": "npm run-script nyc",
 
-    "mocha": "mocha -- -t 16000 test/*-test.js",
-    "nyc:coverage": "nyc --reporter=lcov npm run-script mocha",
+    "mocha:coverage": "mocha -- -t 16000 test/*-test.js",
+    "nyc:coverage": "nyc --reporter=lcov npm run-script mocha:coverage",
     "test:coverage": "npm run-script nyc:coverage && codecov"
   },
   "dependencies": {
