@@ -27,11 +27,11 @@
     "lint:typings": "tslint typings/index.d.ts",
     "lint:typings:fix": "tslint --fix typings/index.d.ts",
 
-    "mocha": "mocha -- -t 16000 test/*-test.js --exclude test/e2e-test.js",
+    "mocha": "mocha -- -t 16000 test/*-test.js",
     "nyc": "nyc --reporter=lcov npm run-script mocha",
     "test": "npm run-script nyc",
 
-    "mocha:coverage": "mocha -- -t 16000 test/*-test.js",
+    "mocha:coverage": "mocha -- -t 16000 test/*-test.js --exclude test/e2e-test.js",
     "nyc:coverage": "nyc --reporter=lcov npm run-script mocha:coverage",
     "test:coverage": "npm run-script nyc:coverage && codecov"
   },
