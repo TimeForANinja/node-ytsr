@@ -52,15 +52,22 @@ describe('parseItem.js#catchAndLogFunc', () => {
   });
 
   it(`catches errors, returns null and creates dump file`, () => {
+    // Variables
     const params = [{ test: true }, 'asdf'];
     const func = () => {
       throw new Error('nope');
     };
+    // Prepare
+    if (FS.existsSync('dumps')) {
+      FS.readdirSync('dumps').map(x => `dumps/${x}`).map(x => FS.unlinkSync(x));
+      FS.rmdirSync('dumps');
+    }
+    // Run
     const val = PARSE_ITEM._hidden.catchAndLogFunc(func, params);
     ASSERT.equal(val, null);
 
     const files = FS.readdirSync('dumps');
-    ASSERT.ok(files.length !== 1, 'needs exactly 1 dump file to continue');
+    ASSERT.ok(files.length === 1, 'needs exactly 1 dump file to continue');
     if (files.length !== 1) return;
 
     const data = FS.readFileSync(`dumps/${files[0]}`);
