@@ -8,15 +8,40 @@ const NOCK = require('nock');
 describe('utils.parseFilters()', () => {
   const data = JSON.parse(FS.readFileSync('test/pages/firstpage_payload.json', 'utf8'));
 
-  it('returns a map of arrays', () => {
+  it('returns a map of maps', () => {
     const resp = UTILS.parseFilters(data);
     ASSERT.ok(resp instanceof Map);
-    ASSERT.ok(Array.from(resp.values()).every(x => Array.isArray(x)));
+    ASSERT.ok(Array.from(resp.values()).every(x => x instanceof Map));
   });
 
   it('map-keys are always strings', () => {
     const resp = UTILS.parseFilters(data);
     ASSERT.ok(Array.from(resp.keys()).every(x => typeof x === 'string'));
+    ASSERT.ok(
+      // For all inner maps
+      Array.from(resp.values())
+        .every(x =>
+          // All keys
+          Array.from(x.keys())
+            // Are type string
+            .every(y => typeof y === 'string'),
+        ),
+    );
+  });
+
+  it('set\'s active property', () => {
+    const resp = UTILS.parseFilters(data);
+    ASSERT.equal(resp.get('Duration').active, null);
+    ASSERT.equal(resp.get('Sort by').active, resp.get('Sort by').get('Relevance'));
+    ASSERT.deepEqual(resp.get('Sort by').active, {
+      description: 'Sort by relevance',
+      label: 'Relevance',
+      query: null,
+      isSet: true,
+      active: true,
+      name: 'Relevance',
+      ref: null,
+    });
   });
 });
 

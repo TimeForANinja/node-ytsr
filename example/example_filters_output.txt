@@ -1,268 +1,52 @@
 Map(5) {
-  'Upload date' => [
-    {
-      description: 'Search for Last hour',
-      label: 'Last hour',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Last hour',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAQ%253D%253D'
-    },
-    {
-      description: 'Search for Today',
-      label: 'Today',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAg%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Today',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAg%253D%253D'
-    },
-    {
-      description: 'Search for This week',
-      label: 'This week',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAw%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'This week',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAw%253D%253D'
-    },
-    {
-      description: 'Search for This month',
-      label: 'This month',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBA%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'This month',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBA%253D%253D'
-    },
-    {
-      description: 'Search for This year',
-      label: 'This year',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBQ%253D%253D',
-      isSet: false,
-      active: false,
+  'Upload date' => Map(1) {
+    undefined => {
       name: 'This year',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBQ%253D%253D'
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBQ%253D%253D',
+      description: 'Search for This year'
     },
     active: null
-  ],
-  'Type' => [
-    {
-      description: 'Search for Video',
-      label: 'Video',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Video',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAQ%253D%253D'
-    },
-    {
-      description: 'Search for Channel',
-      label: 'Channel',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAg%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Channel',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAg%253D%253D'
-    },
-    {
-      description: 'Search for Playlist',
-      label: 'Playlist',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAw%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Playlist',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAw%253D%253D'
-    },
-    {
-      description: 'Search for Movie',
-      label: 'Movie',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBA%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Movie',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBA%253D%253D'
-    },
-    {
-      description: 'Search for Show',
-      label: 'Show',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBQ%253D%253D',
-      isSet: false,
-      active: false,
+  },
+  'Type' => Map(1) {
+    undefined => {
       name: 'Show',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBQ%253D%253D'
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBQ%253D%253D',
+      description: 'Search for Show'
     },
     active: null
-  ],
-  'Duration' => [
-    {
-      description: 'Search for Short (< 4 minutes)',
-      label: 'Short (< 4 minutes)',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Short (< 4 minutes)',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAQ%253D%253D'
-    },
-    {
-      description: 'Search for Long (> 20 minutes)',
-      label: 'Long (> 20 minutes)',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAg%253D%253D',
-      isSet: false,
-      active: false,
+  },
+  'Duration' => Map(1) {
+    undefined => {
       name: 'Long (> 20 minutes)',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAg%253D%253D'
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAg%253D%253D',
+      description: 'Search for Long (> 20 minutes)'
     },
     active: null
-  ],
-  'Features' => [
-    {
-      description: 'Search for Live',
-      label: 'Live',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJAAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Live',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJAAQ%253D%253D'
-    },
-    {
-      description: 'Search for 4K',
-      label: '4K',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJwAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: '4K',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJwAQ%253D%253D'
-    },
-    {
-      description: 'Search for HD',
-      label: 'HD',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIgAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'HD',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIgAQ%253D%253D'
-    },
-    {
-      description: 'Search for Subtitles/CC',
-      label: 'Subtitles/CC',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIoAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Subtitles/CC',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIoAQ%253D%253D'
-    },
-    {
-      description: 'Search for Creative Commons',
-      label: 'Creative Commons',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIwAQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: 'Creative Commons',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIwAQ%253D%253D'
-    },
-    {
-      description: 'Search for 360°',
-      label: '360°',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJ4AQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: '360°',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJ4AQ%253D%253D'
-    },
-    {
-      description: 'Search for VR180',
-      label: 'VR180',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgPQAQE%253D',
-      isSet: false,
-      active: false,
-      name: 'VR180',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgPQAQE%253D'
-    },
-    {
-      description: 'Search for 3D',
-      label: '3D',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgI4AQ%253D%253D',
-      isSet: false,
-      active: false,
-      name: '3D',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgI4AQ%253D%253D'
-    },
-    {
-      description: 'Search for HDR',
-      label: 'HDR',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgPIAQE%253D',
-      isSet: false,
-      active: false,
-      name: 'HDR',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgPIAQE%253D'
-    },
-    {
-      description: 'Search for Location',
-      label: 'Location',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgO4AQE%253D',
-      isSet: false,
-      active: false,
-      name: 'Location',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgO4AQE%253D'
-    },
-    {
-      description: 'Search for Purchased',
-      label: 'Purchased',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJIAQ%253D%253D',
-      isSet: false,
-      active: false,
+  },
+  'Features' => Map(1) {
+    undefined => {
       name: 'Purchased',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJIAQ%253D%253D'
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJIAQ%253D%253D',
+      description: 'Search for Purchased'
     },
     active: null
-  ],
-  'Sort by' => [
-    {
-      description: 'Sort by relevance',
-      label: 'Relevance',
-      query: null,
-      isSet: true,
-      active: true,
-      name: 'Relevance',
-      ref: null
-    },
-    {
-      description: 'Sort by upload date',
-      label: 'Upload date',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAI%253D',
-      isSet: false,
-      active: false,
-      name: 'Upload date',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAI%253D'
-    },
-    {
-      description: 'Sort by view count',
-      label: 'View count',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAM%253D',
-      isSet: false,
-      active: false,
-      name: 'View count',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAM%253D'
-    },
-    {
-      description: 'Sort by rating',
-      label: 'Rating',
-      query: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAE%253D',
-      isSet: false,
-      active: false,
+  },
+  'Sort by' => Map(1) {
+    undefined => {
       name: 'Rating',
-      ref: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAE%253D'
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAE%253D',
+      description: 'Sort by rating'
     },
     active: {
-      description: 'Sort by relevance',
-      label: 'Relevance',
-      query: null,
-      isSet: true,
-      active: true,
       name: 'Relevance',
-      ref: null
+      active: true,
+      url: null,
+      description: 'Sort by relevance'
     }
-  ]
+  }
 }

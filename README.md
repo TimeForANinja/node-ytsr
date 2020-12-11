@@ -50,13 +50,13 @@ Searches for the given string
 const ytsr = require('ytsr');
 
 const filters1 = await ytsr.getFilters('github');
-const filter1 = filters1.get('Type').find(o => o.name === 'Video');
-const filters2 = await ytsr.getFilters(filter1.ref);
-const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
+const filter1 = filters1.get('Type').get('Video');
+const filters2 = await ytsr.getFilters(filter1.url);
+const filter2 = filters2.get('Duration').get('Short');
 const options = {
   pages: 2,
 }
-const searchResults = await ytsr(filter2.ref, options);
+const searchResults = await ytsr(filter2.url, options);
 dosth(searchResults);
 ```
 
