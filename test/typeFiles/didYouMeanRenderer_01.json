@@ -1,16 +1,8 @@
 {
   "specialities": "None",
   "throws": null,
-  "type":"didYouMeanRenderer",
-  "parsed":{
-    "type":"search-refinements",
-    "entrys":[
-      {
-        "q":"Masa Mainds Dada-Didi audio",
-        "link":"https://www.youtube.com/results?search_query=Masa+Mainds+Dada-Didi+audio"
-      }
-    ]
-  },
+  "type": "didYouMeanRenderer",
+  "parsed": null,
   "raw":{
     "didYouMeanRenderer":{
       "didYouMean":{

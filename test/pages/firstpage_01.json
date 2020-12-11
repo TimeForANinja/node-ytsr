@@ -1,5 +1,6 @@
 {
-  "query": "testing",
+  "originalQuery": "testing",
+  "correctedQuery": "testing",
   "results": 322671961,
   "activeFilters": [
     {
@@ -9,6 +10,7 @@
       "url": null
     }
   ],
+  "refinements": [],
   "items": 16,
   "continuation": null
 }

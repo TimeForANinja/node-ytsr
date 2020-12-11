@@ -81,3 +81,46 @@ describe('parseItem.js#catchAndLogFunc', () => {
     ASSERT.deepEqual(JSON.parse(data), params);
   });
 });
+
+describe('parseItem.js#parseDidYouMeanRenderer', () => {
+  const data = JSON.parse(FS.readFileSync('test/typeFiles/didYouMeanRenderer_01.json', 'utf8'));
+
+  it('does not error when no resp is provided', () => {
+    ASSERT.doesNotThrow(() => PARSE_ITEM._hidden.parseItem(data.raw));
+  });
+
+  it('does not error when refinements is not an array', () => {
+    ASSERT.doesNotThrow(() => PARSE_ITEM._hidden.parseItem(data.raw, { refinements: 'test' }));
+  });
+
+  it('returns null', () => {
+    ASSERT.equal(PARSE_ITEM._hidden.parseItem(data.raw, {}), null);
+  });
+
+  it('pushes into resp#refinements on first position', () => {
+    const resp = { refinements: [{ other: 'refinement' }] };
+    PARSE_ITEM._hidden.parseItem(data.raw, resp);
+    ASSERT.deepEqual(resp.refinements[0], {
+      q: 'Masa Mainds Dada-Didi audio',
+      link: 'https://www.youtube.com/results?search_query=Masa+Mainds+Dada-Didi+audio',
+    });
+  });
+});
+
+describe('parseItem.js#parseShowingResultsFor', () => {
+  const data = JSON.parse(FS.readFileSync('test/typeFiles/showingResultsForRenderer_01.json', 'utf8'));
+
+  it('does not error when no resp is provided', () => {
+    ASSERT.doesNotThrow(() => PARSE_ITEM._hidden.parseItem(data.raw));
+  });
+
+  it('returns null', () => {
+    ASSERT.equal(PARSE_ITEM._hidden.parseItem(data.raw, {}), null);
+  });
+
+  it('overwrites resp#resultsFor', () => {
+    const resp = { correctedQuery: 'testing' };
+    PARSE_ITEM._hidden.parseItem(data.raw, resp);
+    ASSERT.equal(resp.correctedQuery, 'vorwerk');
+  });
+});
