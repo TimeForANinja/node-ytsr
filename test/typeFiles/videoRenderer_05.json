@@ -6,7 +6,7 @@
     "type": "video",
     "title": "Will Cubs upcoming FA class force trades?",
     "id": "wzEpnM3hUI8",
-    "link": "https://www.youtube.com/watch?v=wzEpnM3hUI8",
+    "url": "https://www.youtube.com/watch?v=wzEpnM3hUI8",
     "bestThumbnail": {
       "url": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg",
       "width": 480,
@@ -24,7 +24,7 @@
     "author": {
       "name": "braverman26",
       "channelID": "UCAs875Iui44clBS8OdG85Mg",
-      "ref": "https://www.youtube.com/channel/UCAs875Iui44clBS8OdG85Mg",
+      "url": "https://www.youtube.com/channel/UCAs875Iui44clBS8OdG85Mg",
       "bestAvatar": {
         "url": "https://yt3.ggpht.com/a-/AOh14Gikv-tGBjuoSnPAScTRYqGq3WZHnoLVZJM11Q=s68-c-k-c0x00ffffff-no-rj-mo",
         "width": 68,
@@ -38,12 +38,10 @@
       "ownerBadges": [],
       "verified": false
     },
-    "description": "",
+    "description": null,
     "views": 4984,
     "duration": "6:27",
-    "uploaded_at": "1 day ago",
-    "live": false,
-    "thumbnail": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg"
+    "uploadedAt": "1 day ago"
   },
   "raw": {
     "videoRenderer": {

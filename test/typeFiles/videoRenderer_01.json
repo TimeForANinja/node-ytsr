@@ -6,7 +6,7 @@
     "type":"video",
     "title":"Poju - Haluu sitä miestä",
     "id":"HXjQAAqs2rM",
-    "link":"https://www.youtube.com/watch?v=HXjQAAqs2rM",
+    "url":"https://www.youtube.com/watch?v=HXjQAAqs2rM",
     "bestThumbnail":{
       "url":"https://i.ytimg.com/vi/HXjQAAqs2rM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpAibBjKY52_sgh-2MfKhVFnk0PA",
       "width":336,
@@ -41,7 +41,7 @@
     "author":{
       "name":"Jahwa",
       "channelID":"UCdssA08g_Ta48IIFgV7Y8BA",
-      "ref":"https://www.youtube.com/user/bullterrierit",
+      "url":"https://www.youtube.com/user/bullterrierit",
       "bestAvatar":{
         "url":"https://yt3.ggpht.com/a-/AOh14GixRmIEdsOsXAfnHNj3iCqnMQ2tbSMgoeU38Q=s68-c-k-c0x00ffffff-no-rj-mo",
         "width":68,
@@ -62,9 +62,7 @@
     "description":"Poju - Haluu sitä miestä.",
     "views":7566,
     "duration":"3:35",
-    "uploaded_at":"8 years ago",
-    "live":false,
-    "thumbnail":"https://i.ytimg.com/vi/HXjQAAqs2rM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpAibBjKY52_sgh-2MfKhVFnk0PA"
+    "uploadedAt":"8 years ago"
   },
   "raw":{
     "videoRenderer":{

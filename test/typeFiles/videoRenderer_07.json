@@ -6,7 +6,7 @@
     "type": "video",
     "title": "NCS 24/7 Gaming Music Livestream",
     "id": "IP0ZRj-_xG4",
-    "link": "https://www.youtube.com/watch?v=IP0ZRj-_xG4",
+    "url": "https://www.youtube.com/watch?v=IP0ZRj-_xG4",
     "bestThumbnail": {
       "url": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBycKRvj82498MKyeI28xa0ACxj2Q",
       "width": 720,
@@ -31,7 +31,7 @@
     "author": {
       "name": "NCS Arcade",
       "channelID": "UCiJnBO_XuDsi1SSRAmt4n5g",
-      "ref": "https://www.youtube.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
+      "url": "https://www.youtube.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
       "bestAvatar": {
         "url": "https://yt3.ggpht.com/a-/AOh14GjmrkkekpSJSJ1NAvtav2o0L-53-1W-bVI2zQ=s68-c-k-c0x00ffffff-no-rj-mo",
         "width": 68,
@@ -48,9 +48,7 @@
     "description": "The best in copyright-free music from NoCopyrightSounds while you're gaming, studying or just ...",
     "views": 185881,
     "duration": null,
-    "uploaded_at": "3 weeks ago",
-    "live": false,
-    "thumbnail": "https://i.ytimg.com/vi/IP0ZRj-_xG4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBycKRvj82498MKyeI28xa0ACxj2Q"
+    "uploadedAt": "3 weeks ago"
   },
   "raw": {
     "videoRenderer": {

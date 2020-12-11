@@ -40,7 +40,7 @@ describe('YTSR()', () => {
       .query({ gl: 'US', hl: 'en', search_query: 'testing' })
       .replyWithFile(200, 'test/pages/firstpage_01.html');
 
-    const resp = await YTSR('testing', { limit: 10 });
+    const resp = await YTSR('testing', { limit: 11 });
     ASSERT.equal(resp.items.length, 11);
     ASSERT.equal(resp.continuation, null);
     scope.done();
@@ -70,7 +70,7 @@ describe('YTSR()', () => {
       .query({ gl: 'US', hl: 'en', search_query: 'testing' })
       .replyWithFile(200, 'test/pages/firstpage_01.html');
 
-    const resp = await YTSR('testing', { limit: 10 });
+    const resp = await YTSR('testing', { limit: 11 });
     ASSERT.equal(resp.items.length, 11);
     ASSERT.equal(resp.continuation, null);
     scope.done();
@@ -85,6 +85,7 @@ describe('YTSR()', () => {
 
     const resp = await YTSR('testing', { limit: 15 });
     resp.items = resp.items.length;
+    resp.refinements = resp.refinements.length;
     ASSERT.deepEqual(parsed, resp);
     scope.done();
   });
@@ -96,7 +97,7 @@ describe('YTSR()', () => {
       .replyWithFile(200, 'test/pages/firstpage_01.html');
 
     const resp = await YTSR('testing', { pages: 1 });
-    ASSERT.equal(resp.items.length, 23);
+    ASSERT.equal(resp.items.length, 21);
     ASSERT.equal(resp.continuation[0], '<apikey>');
     ASSERT.equal(resp.continuation[1], '<firstContinuationToken>');
     ASSERT.equal(resp.continuation[2].client.clientVersion, '<client_version>');
@@ -115,7 +116,7 @@ describe('YTSR()', () => {
       .replyWithFile(200, 'test/pages/secondpage_01.html');
 
     const resp = await YTSR('testing', { pages: 2 });
-    ASSERT.equal(resp.items.length, 41);
+    ASSERT.equal(resp.items.length, 39);
     ASSERT.equal(resp.continuation[0], '<apikey>');
     ASSERT.equal(resp.continuation[1], '<secondContinuationToken>');
     ASSERT.equal(resp.continuation[2].client.clientVersion, '<client_version>');
@@ -140,7 +141,7 @@ describe('YTSR()', () => {
       .replyWithFile(200, 'test/pages/secondpage_01.html');
 
     const resp = await YTSR('testing', { pages: 3 });
-    ASSERT.equal(resp.items.length, 59);
+    ASSERT.equal(resp.items.length, 57);
     ASSERT.equal(resp.continuation[0], '<apikey>');
     ASSERT.equal(resp.continuation[1], '<secondContinuationToken>');
     ASSERT.equal(resp.continuation[2].client.clientVersion, '<client_version>');

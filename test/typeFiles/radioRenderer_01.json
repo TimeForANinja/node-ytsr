@@ -5,11 +5,11 @@
   "parsed":{
     "type":"mix",
     "title":"Mix - Dada-Dii",
-    "link":"https://www.youtube.com/watch?v=h6vUBjGTYxQ&list=RDh6vUBjGTYxQ&start_radio=1",
+    "url":"https://www.youtube.com/watch?v=h6vUBjGTYxQ&list=RDh6vUBjGTYxQ&start_radio=1",
     "firstVideo":{
       "id":"h6vUBjGTYxQ",
-      "shortLink":"https://www.youtube.com/watch?v=h6vUBjGTYxQ",
-      "link":"https://www.youtube.com/watch?v=h6vUBjGTYxQ&list=RDh6vUBjGTYxQ&start_radio=1",
+      "shortURL":"https://www.youtube.com/watch?v=h6vUBjGTYxQ",
+      "url":"https://www.youtube.com/watch?v=h6vUBjGTYxQ&list=RDh6vUBjGTYxQ&start_radio=1",
       "text":"Dada-Dii",
       "length":"3:22",
       "thumbnails":[
@@ -39,10 +39,7 @@
         "width":336,
         "height":188
       }
-    },
-    "firstItem":"https://www.youtube.com/watch?v=h6vUBjGTYxQ&list=RDh6vUBjGTYxQ&start_radio=1",
-    "thumbnail":"https://i.ytimg.com/vi/h6vUBjGTYxQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkFdgIvfoiqgHJVeaW-HCw3rgoHw",
-    "length":"50+"
+    }
   },
   "raw":{
     "radioRenderer":{

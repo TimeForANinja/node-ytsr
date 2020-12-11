@@ -5,8 +5,8 @@
   "parsed":{
     "type":"channel",
     "name":"SAVE YHTYE",
-    "channel_id":"UCMUnMdqXX73Z9kxC8TGdv1Q",
-    "link":"https://www.youtube.com/channel/UCMUnMdqXX73Z9kxC8TGdv1Q",
+    "channelID":"UCMUnMdqXX73Z9kxC8TGdv1Q",
+    "url":"https://www.youtube.com/channel/UCMUnMdqXX73Z9kxC8TGdv1Q",
     "bestAvatar":{
       "url":"//yt3.ggpht.com/a/AATXAJycBw-9AgWs0K0lPLbRGsvxP0B19Yas62709tw-aw=s176-c-k-c0x00ffffff-no-rj-mo",
       "width":176,
@@ -26,10 +26,8 @@
     ],
     "verified":false,
     "subscribers":545,
-    "description_short":"",
-    "videos":8,
-    "avatar":"//yt3.ggpht.com/a/AATXAJycBw-9AgWs0K0lPLbRGsvxP0B19Yas62709tw-aw=s176-c-k-c0x00ffffff-no-rj-mo",
-    "followers":545
+    "descriptionShort":null,
+    "videos":8
   },
   "raw":{
     "channelRenderer":{

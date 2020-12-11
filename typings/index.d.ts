@@ -1,130 +1,214 @@
 declare module 'ytsr' {
   namespace ytsr {
-    interface Options {
-      safeSearch?: boolean;
+    // General
+    interface Options extends ShortOptions {
+      /** Limits the pulled items. */
       limit?: number;
-      nextpageRef?: string;
-      hl?: string;
+      /** Limits the pulled pages - overwrites limit. */
+      pages?: number;
+      safeSearch?: boolean;
+    }
+
+    interface ShortOptions {
+      /** Location setting */
       gl?: string;
-      headers?: { [key: string]: string; };
+      hl?: string;
+      /** Request Options for Miniget */
+      requestOptions?: { headers?: { [key: string]: string; }};
     }
 
-    interface Mix {
-      type: 'mix';
+    interface ContinueResult {
+      continuation: Continuation | null;
+      items: Item[];
+    }
+
+    interface Continuation {}
+
+    interface Filter {
+      url: string | null;
+      name: string;
+      description: string;
+      active: boolean;
+    }
+
+    interface Result {
+      originalQuery: string;
+      correctedQuery: string;
+      results: number;
+      activeFilters: Filter[];
+      refinements: Refinement[];
+      items: Item[];
+      continuation: Continuation | null;
+    }
+
+    // Subtypes
+    interface VideoSmall {
+    // Generalization for Mix and Playlist
+      id: string;
+      shortURL: string;
+      url: string;
       title: string;
-      firstItem: string;
-      thumbnail: string;
       length: string;
+      thumbnails: Image[];
+      bestThumbnail: Image;
     }
 
-    interface Playlist {
-      type: 'playlist';
+    interface Image {
+      url: string;
+      width: number;
+      height: number;
+    }
+
+    interface Refinement {
+      q: string;
+      url: string;
+      // Only provided for HorizontalCardListRenderer
+      thumbnails: string[] | null;
+      bestThumbnail: string | null;
+    }
+
+    // Response Items
+    interface Video {
+      type: 'video';
       title: string;
-      link: string;
-      thumbnail: string;
+      id: string;
+      url: string;
+      bestThumbnail: Image;
+      thumbnails: Image[];
+      isUpcoming: boolean;
+      upcoming: number | null;
+      isLive: boolean;
+      badges: string[];
+
       author: {
         name: string;
-        ref: string;
+        channelID: string;
+        url: string;
+        bestAvatar: Image;
+        avatars: Image[];
+        ownerBadges: string[];
         verified: boolean;
-      };
-      length: string;
+      } | null;
+      description: string | null;
+      views: number | null;
+      duration: string | null;
+      uploadedAt: string | null;
     }
 
     interface Channel {
       type: 'channel';
       name: string;
-      channel_id: string;
-      link: string;
-      avatar: string;
+      channelID: string;
+      url: string;
+      bestAvatar: Image;
+      avatars: Image[];
       verified: boolean;
-      followers: number;
-      description_short: string;
-      videos: number;
+      subscribers: number | null;
+      descriptionShort: string | null;
+      videos: number | null;
     }
 
-    interface Video {
-      type: 'video';
-      live: boolean;
+    interface Playlist {
+      type: 'playlist';
       title: string;
-      link: string;
-      thumbnail: string;
-      author: {
+      playlistID: string;
+      url: string;
+      firstVideo: VideoSmall | null;
+      owner: {
         name: string;
-        ref: string;
+        channelID: string;
+        url: string;
+        ownerBadges: string[];
         verified: boolean;
       };
-      description: string | null;
-      views: number | null;
-      duration: string | null;
-      uploaded_at: string | null;
+      publishedAt: string | null;
+      length: number;
+    }
+
+    interface Mix {
+      type: 'mix';
+      title: string;
+      url: string;
+      firstVideo: VideoSmall;
+    }
+
+    interface GridMovie {
+      type: 'gridMovie';
+      title: string;
+      videoID: string;
+      url: string;
+      thumbnails: Image[];
+      bestThumbnail: Image;
+      duration: string;
     }
 
     interface Movie {
       type: 'movie';
       title: string;
-      link: string;
-      thumbnail: string;
+      videoID: string;
+      url: string;
+      bestThumbnail: Image;
+      thumbnails: Image[];
       author: {
         name: string;
-        ref: string;
+        channelID: string;
+        url: string;
+        ownerBadges: string[];
         verified: boolean;
       };
       description: string | null;
       meta: string[];
       actors: string[];
-      director: string | null;
+      directors: string[];
       duration: string;
     }
 
-    interface RelatedSearches {
-      type: 'search-refinements';
-      entrys: {
-        link: string;
-        q: string | null;
-      }[];
-    }
-
-    interface ShelfCompact {
-      type: 'shelf-compact';
+    interface Show {
+      type: 'show';
       title: string;
-      items: {
-        type: string;
+      thumbnails: Image[];
+      bestThumbnail: Image;
+      url: string;
+      videoID: string;
+      playlistID: string;
+      episodes: number;
+      owner: {
+        // No owner badges in here :shrug:
         name: string;
-        ref: string;
-        thumbnail: string;
-        duration: string;
-        price: string;
-      }[];
+        channelID: string;
+        url: string;
+        verified: boolean;
+      };
     }
 
-    interface ShelfVertical {
-      type: 'shelf-vertical';
+    interface Shelf {
+      type: 'shelf';
       title: string;
-      items: Video[];
-    }
-
-    interface Filter {
-      ref: string | null;
-      name: string;
-      active: boolean;
-    }
-
-    type Item = Mix | Playlist | Channel | Video | Movie | RelatedSearches | ShelfCompact | ShelfVertical;
-
-    interface Result {
-      query: string;
       items: Item[];
-      nextpageRef: string | null;
-      results: string;
-      filters: Filter[];
-      currentRef: string | null;
     }
 
-    function getFilters(searchString: string, options?: ytsr.Options): Promise<Map<string, Filter[]>>;
+    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf;
+
+    /**
+     * @param searchString search query or link from a previous getFilters request
+     * @param options Optional additional Options
+     * @description Fetches the links of all available filters
+     */
+    function getFilters(searchString: string, options?: ytsr.ShortOptions): Promise<Map<string, Map<string, Filter>>>;
+
+    /**
+     * @param continuationData Data provided from a previous request
+     * @description fetches one additional page & parses its items - only supported when using pages
+     */
+    function continueReq(continuationData: Continuation): Promise<ContinueResult>;
   }
 
-  function ytsr(id: string): Promise<ytsr.Result>;
-  function ytsr(id: string | null, options: ytsr.Options): Promise<ytsr.Result>;
+  /**
+   * @param query search query or link from a previous getFilters request
+   * @param options Optional additional Options
+   * @description Searches youtube for the query
+   */
+  function ytsr(query: string, options?: ytsr.Options): Promise<ytsr.Result>;
 
   export = ytsr;
 }

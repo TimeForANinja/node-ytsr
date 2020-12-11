@@ -10,7 +10,7 @@
         "type":"video",
         "title":"Apulanta - Lokin päällä lokki",
         "id":"yTgXIjU_olI",
-        "link":"https://www.youtube.com/watch?v=yTgXIjU_olI",
+        "url":"https://www.youtube.com/watch?v=yTgXIjU_olI",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/yTgXIjU_olI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3gguTh1mRseAEfeh2EgP8ite9-A",
           "width":336,
@@ -41,13 +41,11 @@
         "isUpcoming":false,
         "upcoming":null,
         "isLive":false,
-        "badges":[
-
-        ],
+        "badges":[],
         "author":{
           "name":"ApulantaOfficial",
           "channelID":"UC9Csb-hlPklaL7zkJjzEokQ",
-          "ref":"https://www.youtube.com/channel/UC9Csb-hlPklaL7zkJjzEokQ",
+          "url":"https://www.youtube.com/channel/UC9Csb-hlPklaL7zkJjzEokQ",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14GhTA2VhiIubWQchkIjIxScEtaXywF_OVpvO3A=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -68,15 +66,13 @@
         "description":"From the EP \"Make Nu Metal Great Again\" ▻ https://spoti.fi/2ZcrwgU New single \"Lokin päällä lokki\", out now!",
         "views":1279897,
         "duration":"4:26",
-        "uploaded_at":"1 year ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/yTgXIjU_olI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3gguTh1mRseAEfeh2EgP8ite9-A"
+        "uploadedAt":"1 year ago"
       },
       {
         "type":"video",
         "title":"Retropop - Kultaiset ysärivuodet (Official Music Video)",
         "id":"ippzlWairdI",
-        "link":"https://www.youtube.com/watch?v=ippzlWairdI",
+        "url":"https://www.youtube.com/watch?v=ippzlWairdI",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/ippzlWairdI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqARpffc2jqO9MScdoBEnYVs7AAA",
           "width":336,
@@ -113,7 +109,7 @@
         "author":{
           "name":"Retropop",
           "channelID":"UCC5Rtw2ZyYsArd9eGchNVWg",
-          "ref":"https://www.youtube.com/channel/UCC5Rtw2ZyYsArd9eGchNVWg",
+          "url":"https://www.youtube.com/channel/UCC5Rtw2ZyYsArd9eGchNVWg",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14Gh4xpP2_qndbYiS5oxvv7bJ9pxdGs3FBAj1nQ=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -134,15 +130,13 @@
         "description":"Tilaa kanava/Subscribe: https://goo.gl/EK9KWd ♥ ▻ Spotify: https://goo.gl/s16CtM ▻ Facebook: ...",
         "views":863869,
         "duration":"3:15",
-        "uploaded_at":"2 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/ippzlWairdI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqARpffc2jqO9MScdoBEnYVs7AAA"
+        "uploadedAt":"2 years ago"
       },
       {
         "type":"video",
         "title":"Poju-Poika Saunoo (Lyrics)",
         "id":"jAyXzC7iKPA",
-        "link":"https://www.youtube.com/watch?v=jAyXzC7iKPA",
+        "url":"https://www.youtube.com/watch?v=jAyXzC7iKPA",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/jAyXzC7iKPA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBy-OEXWZwK_mlyyEXqDj273vKEeQ",
           "width":336,
@@ -179,7 +173,7 @@
         "author":{
           "name":"96Aarr",
           "channelID":"UCaOHB_bjX_nuTGzH4BA4Rew",
-          "ref":"https://www.youtube.com/user/96Aarr",
+          "url":"https://www.youtube.com/user/96Aarr",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14Gh-lhCjp8gi9FlxtXjEzuA2xZo3iMUJW21ydw=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -200,15 +194,13 @@
         "description":"Nyt poika saunoo se kylpee, se laulaa ja huutaa kannusta samppanjaa Meidän poika on tullut kotiin Nyt poika saunoo se valvoo ...",
         "views":9458391,
         "duration":"2:58",
-        "uploaded_at":"9 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/jAyXzC7iKPA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBy-OEXWZwK_mlyyEXqDj273vKEeQ"
+        "uploadedAt":"9 years ago"
       },
       {
         "type":"video",
         "title":"J&J - Köyhä laulaa (ORG)",
         "id":"kAlrrGY1H6U",
-        "link":"https://www.youtube.com/watch?v=kAlrrGY1H6U",
+        "url":"https://www.youtube.com/watch?v=kAlrrGY1H6U",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/kAlrrGY1H6U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAanj4ZtHi7IVIBSA_GSlkmZrfyRw",
           "width":336,
@@ -245,7 +237,7 @@
         "author":{
           "name":"JJmusiikki",
           "channelID":"UC8hy8Dls1TVEtyY1EV35alg",
-          "ref":"https://www.youtube.com/user/JJmusiikki",
+          "url":"https://www.youtube.com/user/JJmusiikki",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14GhUyQnKwlB1HjucqPoqHkrhftZfxpuZk_QcGg=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -266,15 +258,13 @@
         "description":"https://www.facebook.com/pages/JJ/105023312956182.",
         "views":1997264,
         "duration":"3:03",
-        "uploaded_at":"7 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/kAlrrGY1H6U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAanj4ZtHi7IVIBSA_GSlkmZrfyRw"
+        "uploadedAt":"7 years ago"
       },
       {
         "type":"video",
         "title":"MOVETRON feat POJU - ÄLÄ UNOHDA MINUA...",
         "id":"Q0zn3yTVQgA",
-        "link":"https://www.youtube.com/watch?v=Q0zn3yTVQgA",
+        "url":"https://www.youtube.com/watch?v=Q0zn3yTVQgA",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/Q0zn3yTVQgA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCLP9z9F5Kizm3ASbdbA6rwABOVqg",
           "width":336,
@@ -311,7 +301,7 @@
         "author":{
           "name":"Tarhill Production Oy",
           "channelID":"UCJ7gxL3gYqHgXOXdRWtilwg",
-          "ref":"https://www.youtube.com/user/Tarhill63",
+          "url":"https://www.youtube.com/user/Tarhill63",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14GhpLX39g-qw1sCsKaVHbLCBU131Gx0jxMXfWg=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -332,15 +322,13 @@
         "description":"Uusi sinkku \"ÄLÄ UNOHDA MINUA...\" Jotain uutta ja jotain vanhaa..... Digikaupoissa NYT - Käyhän virallisilla ostoksilla ja lisää ...",
         "views":1497039,
         "duration":"3:57",
-        "uploaded_at":"5 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/Q0zn3yTVQgA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCLP9z9F5Kizm3ASbdbA6rwABOVqg"
+        "uploadedAt":"5 years ago"
       },
       {
         "type":"video",
         "title":"Marilii - Nautin elämästä (Lyrics)",
         "id":"zHsbeoAOC0Y",
-        "link":"https://www.youtube.com/watch?v=zHsbeoAOC0Y",
+        "url":"https://www.youtube.com/watch?v=zHsbeoAOC0Y",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/zHsbeoAOC0Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAoWxSomy9f7BGmVe8NK5O6-40JxQ",
           "width":336,
@@ -377,7 +365,7 @@
         "author":{
           "name":"LakuLyriikka",
           "channelID":"UCLIdDLKPXmeRNszRl4H3smA",
-          "ref":"https://www.youtube.com/user/LakuLyriikka",
+          "url":"https://www.youtube.com/user/LakuLyriikka",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14GgF2VGMcLWETdq-ubskCDBYv2Ewx_sVixvYtQ=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -398,15 +386,13 @@
         "description":"Mariliin Nautin elämästä sanoilla :) Marilii's Nautin elämästä with lyrics :) -DeskaGirl.",
         "views":880835,
         "duration":"2:24",
-        "uploaded_at":"8 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/zHsbeoAOC0Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAoWxSomy9f7BGmVe8NK5O6-40JxQ"
+        "uploadedAt":"8 years ago"
       },
       {
         "type":"video",
         "title":"Poju-Pitonainen",
         "id":"jr_HoKxXKOQ",
-        "link":"https://www.youtube.com/watch?v=jr_HoKxXKOQ",
+        "url":"https://www.youtube.com/watch?v=jr_HoKxXKOQ",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/jr_HoKxXKOQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtUPvxJoUb4rENT6zj-59bsoQqLg",
           "width":336,
@@ -443,7 +429,7 @@
         "author":{
           "name":"SkySound & Rockpool Rec",
           "channelID":"UCfohVE31L5nYoVGHDbzJUJA",
-          "ref":"https://www.youtube.com/user/PojuOfficial",
+          "url":"https://www.youtube.com/user/PojuOfficial",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14GioRn-YlPbwILrYGDYHRems-idVTqPhj7Tb-Q=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -464,15 +450,13 @@
         "description":"säv.san.sov-Poju c)RockpoolRecords 2018 ...",
         "views":2487585,
         "duration":"3:15",
-        "uploaded_at":"2 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/jr_HoKxXKOQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtUPvxJoUb4rENT6zj-59bsoQqLg"
+        "uploadedAt":"2 years ago"
       },
       {
         "type":"video",
         "title":"Millennium Project - PELIMIES (Dance Remix) Feat. Oku Luukkainen, Jay Rocka",
         "id":"Jm84hHzHJZs",
-        "link":"https://www.youtube.com/watch?v=Jm84hHzHJZs",
+        "url":"https://www.youtube.com/watch?v=Jm84hHzHJZs",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/Jm84hHzHJZs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDixvvK4V1_HKCfEwK1PBwB5TDmFQ",
           "width":336,
@@ -509,7 +493,7 @@
         "author":{
           "name":"Millennium Project Official",
           "channelID":"UCXRJx9kIfRx4RkiwwdTAgYw",
-          "ref":"https://www.youtube.com/channel/UCXRJx9kIfRx4RkiwwdTAgYw",
+          "url":"https://www.youtube.com/channel/UCXRJx9kIfRx4RkiwwdTAgYw",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14GirgXgyGzJ7t861ws8ewtaKJvaMpmz_f1eOPQ=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -530,15 +514,13 @@
         "description":"Kuuntele Spotifyssä: https://open.spotify.com/track/1gAoFkCHYUTac2uZbcxYnY?si=UMYG11K7TYClk60X1htYEw Osta ...",
         "views":942584,
         "duration":"3:32",
-        "uploaded_at":"2 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/Jm84hHzHJZs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDixvvK4V1_HKCfEwK1PBwB5TDmFQ"
+        "uploadedAt":"2 years ago"
       },
       {
         "type":"video",
         "title":"Portion Boys - Mieleni Pahotin (Official Lyric Video)",
         "id":"6JQ09xZWR40",
-        "link":"https://www.youtube.com/watch?v=6JQ09xZWR40",
+        "url":"https://www.youtube.com/watch?v=6JQ09xZWR40",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/6JQ09xZWR40/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATj3_3hvSHSd4Ij4HAm--wBBSzEg",
           "width":336,
@@ -575,7 +557,7 @@
         "author":{
           "name":"Portion Boys Official",
           "channelID":"UC_XFRH7Der1T_vwpEk-wy5w",
-          "ref":"https://www.youtube.com/user/Portionboys",
+          "url":"https://www.youtube.com/user/Portionboys",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14Gh1mbvOZJ-RMpZPFDEtbWrljQqvwERyaM9BXw=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -596,15 +578,13 @@
         "description":"Mieleni Pahotin nyt julkaistu! Spotify : https://spoti.fi/2HpDQTo Videon toteutus: Joonas Hahmo IG: @portionboysofficial www.",
         "views":1805240,
         "duration":"3:50",
-        "uploaded_at":"1 year ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/6JQ09xZWR40/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATj3_3hvSHSd4Ij4HAm--wBBSzEg"
+        "uploadedAt":"1 year ago"
       },
       {
         "type":"video",
         "title":"POJU- Leijonakesä",
         "id":"_qTLEIHct6w",
-        "link":"https://www.youtube.com/watch?v=_qTLEIHct6w",
+        "url":"https://www.youtube.com/watch?v=_qTLEIHct6w",
         "bestThumbnail":{
           "url":"https://i.ytimg.com/vi/_qTLEIHct6w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLARMRq7uchV7Ay7zrijeOSHMHOKFw",
           "width":336,
@@ -641,7 +621,7 @@
         "author":{
           "name":"go away",
           "channelID":"UCo42S6XVDMui09F8pYWLmgw",
-          "ref":"https://www.youtube.com/user/oskuomari",
+          "url":"https://www.youtube.com/user/oskuomari",
           "bestAvatar":{
             "url":"https://yt3.ggpht.com/a-/AOh14GgvsjC5wSXQJYmv-_uSXUH0JthVmtMkR3wz7A=s68-c-k-c0x00ffffff-no-rj-mo",
             "width":68,
@@ -662,9 +642,7 @@
         "description":"2012.",
         "views":60702,
         "duration":"3:30",
-        "uploaded_at":"8 years ago",
-        "live":false,
-        "thumbnail":"https://i.ytimg.com/vi/_qTLEIHct6w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLARMRq7uchV7Ay7zrijeOSHMHOKFw"
+        "uploadedAt":"8 years ago"
       }
     ]
   },

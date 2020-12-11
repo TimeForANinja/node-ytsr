@@ -6,13 +6,12 @@
     "type":"playlist",
     "title":"Poju",
     "playlistID":"PLPoH32WKos_taVumTjN8siSgwEmUIqtsp",
-    "playlist_id":"PLPoH32WKos_taVumTjN8siSgwEmUIqtsp",
-    "link":"https://www.youtube.com/playlist?list=PLPoH32WKos_taVumTjN8siSgwEmUIqtsp",
+    "url":"https://www.youtube.com/playlist?list=PLPoH32WKos_taVumTjN8siSgwEmUIqtsp",
     "firstVideo":{
       "id":"St6_PL-xQNw",
-      "shortLink":"https://www.youtube.com/watch?v=St6_PL-xQNw",
-      "link":"https://www.youtube.com/watch?v=St6_PL-xQNw&list=PLPoH32WKos_taVumTjN8siSgwEmUIqtsp",
-      "text":"Haluu sitä miestä",
+      "shortURL":"https://www.youtube.com/watch?v=St6_PL-xQNw",
+      "url":"https://www.youtube.com/watch?v=St6_PL-xQNw&list=PLPoH32WKos_taVumTjN8siSgwEmUIqtsp",
+      "title":"Haluu sitä miestä",
       "length":"3:33",
       "thumbnails":[
         {
@@ -45,20 +44,12 @@
     "owner":{
       "name":"akemonstro",
       "channelID":"UCbNJhrRJDJYei4iZ2dkqEhw",
-      "link":"https://www.youtube.com/channel/UCbNJhrRJDJYei4iZ2dkqEhw",
-      "ownerBadges":[
-
-      ],
-      "verified":false
+      "url":"https://www.youtube.com/channel/UCbNJhrRJDJYei4iZ2dkqEhw",
+      "ownerBadges": [],
+      "verified": false
     },
-    "published_at":"Updated 6 days ago",
-    "length":"6",
-    "thumbnail":"https://i.ytimg.com/vi/St6_PL-xQNw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQN6sa86-L05tLYyoQImSrmzaeMg",
-    "author":{
-      "name":"akemonstro",
-      "ref":"https://www.youtube.com/channel/UCbNJhrRJDJYei4iZ2dkqEhw",
-      "verified":false
-    }
+    "publishedAt":"Updated 6 days ago",
+    "length":6
   },
   "raw":{
     "playlistRenderer":{

@@ -102,7 +102,44 @@ describe('parseItem.js#parseDidYouMeanRenderer', () => {
     PARSE_ITEM._hidden.parseItem(data.raw, resp);
     ASSERT.deepEqual(resp.refinements[0], {
       q: 'Masa Mainds Dada-Didi audio',
-      link: 'https://www.youtube.com/results?search_query=Masa+Mainds+Dada-Didi+audio',
+      url: 'https://www.youtube.com/results?search_query=Masa+Mainds+Dada-Didi+audio',
+      thumbnails: null,
+      bestThumbnail: null,
+    });
+  });
+});
+
+describe('parseItem.js#parseHorizontalCardListRenderer', () => {
+  const data = JSON.parse(FS.readFileSync('test/typeFiles/horizontalCardListRenderer_01.json', 'utf8'));
+
+  it('does not error when no resp is provided', () => {
+    ASSERT.doesNotThrow(() => PARSE_ITEM._hidden.parseItem(data.raw));
+  });
+
+  it('does not error when refinements is not an array', () => {
+    ASSERT.doesNotThrow(() => PARSE_ITEM._hidden.parseItem(data.raw, { refinements: 'test' }));
+  });
+
+  it('returns null', () => {
+    ASSERT.equal(PARSE_ITEM._hidden.parseItem(data.raw, {}), null);
+  });
+
+  it('appends to end of resp#refinements', () => {
+    const resp = { refinements: [{ other: 'refinement' }] };
+    PARSE_ITEM._hidden.parseItem(data.raw, resp);
+    ASSERT.deepEqual(resp.refinements[1], {
+      q: 'jlv feel again remix',
+      url: 'https://www.youtube.com/results?search_query=jlv+feel+again+remix&sp=eAE%253D',
+      bestThumbnail: {
+        url: '//i.ytimg.com/vi/UjgRAj-Ns20/mqdefault.jpg',
+        width: 320,
+        height: 180,
+      },
+      thumbnails: [{
+        url: '//i.ytimg.com/vi/UjgRAj-Ns20/mqdefault.jpg',
+        width: 320,
+        height: 180,
+      }],
     });
   });
 });

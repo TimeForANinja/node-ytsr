@@ -6,7 +6,7 @@
     "type": "video",
     "title": "Günther Brammen beweist sein Wissen, in WER WIRD MILLIONÄR!",
     "id": "Ip-0pZSjHhg",
-    "link": "https://www.youtube.com/watch?v=Ip-0pZSjHhg",
+    "url": "https://www.youtube.com/watch?v=Ip-0pZSjHhg",
     "bestThumbnail": {
       "url": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCM5OdcghsIQmYwbgeABIIatLJ-6Q",
       "width": 720,
@@ -31,7 +31,7 @@
     "author": {
       "name": "PietSmiet",
       "channelID": "UCqwGaUvq_l0RKszeHhZ5leA",
-      "ref": "https://www.youtube.com/user/PietSmittie",
+      "url": "https://www.youtube.com/user/PietSmittie",
       "bestAvatar": {
         "url": "https://yt3.ggpht.com/a-/AOh14GicrIG8Rdk5gPq9Y_YGX0Fj2vPJNe_-hhMKfA=s68-c-k-c0x00ffffff-no-rj-mo",
         "width": 68,
@@ -48,9 +48,7 @@
     "description": "Erreicht einer die Million? Unseren Merch mit Shirts, Hoodies und Caps findet ihr auf https://pietsmiet.de/shop Verpasst keine ...",
     "views": 112976,
     "duration": "33:32",
-    "uploaded_at": "1 day ago",
-    "live": false,
-    "thumbnail": "https://i.ytimg.com/vi/Ip-0pZSjHhg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCM5OdcghsIQmYwbgeABIIatLJ-6Q"
+    "uploadedAt": "1 day ago"
   },
   "raw": {
     "videoRenderer": {

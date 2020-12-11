@@ -6,7 +6,7 @@
     "type": "video",
     "title": "[OFFICIAL VIDEO] Thank You - Pentatonix",
     "id": "D1IeDyG-pgM",
-    "link": "https://www.youtube.com/watch?v=D1IeDyG-pgM",
+    "url": "https://www.youtube.com/watch?v=D1IeDyG-pgM",
     "bestThumbnail": {
       "url": "https://i.ytimg.com/vi/D1IeDyG-pgM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWJbyPqM2zloYyNYq6e3dcwwBB0w",
       "width": 720,
@@ -31,7 +31,7 @@
     "author": {
       "name": "PTXofficial",
       "channelID": "UCmv1CLT6ZcFdTJMHxaR9XeA",
-      "ref": "https://www.youtube.com/channel/UCmv1CLT6ZcFdTJMHxaR9XeA",
+      "url": "https://www.youtube.com/channel/UCmv1CLT6ZcFdTJMHxaR9XeA",
       "bestAvatar": {
         "url": "https://yt3.ggpht.com/a-/AOh14GgFSr-yxBgNlmnA9AlaSHI09K1M1Lenjk-j=s68-c-k-c0x00ffffff-no-rj-mo",
         "width": 68,
@@ -48,9 +48,7 @@
     "description": "NEW CHRISTMAS ALBUM “WE NEED A LITTLE CHRISTMAS”, AVAILABLE NOW. BUY/STREAM https://smarturl.it/PTXWNALXMAS \"THE LUCKY ONES\" THE NEW ORIGINAL ALBUM WITH ...",
     "views": null,
     "duration": "4:12",
-    "uploaded_at": null,
-    "live": false,
-    "thumbnail": "https://i.ytimg.com/vi/D1IeDyG-pgM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWJbyPqM2zloYyNYq6e3dcwwBB0w"
+    "uploadedAt": null
   },
   "raw":{
     "videoRenderer": {

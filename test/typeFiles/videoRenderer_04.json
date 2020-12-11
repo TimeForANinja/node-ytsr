@@ -6,7 +6,7 @@
     "type": "video",
     "title": "Live: NBC News NOW - November 25",
     "id": "taiU70ddmAE",
-    "link": "https://www.youtube.com/watch?v=taiU70ddmAE",
+    "url": "https://www.youtube.com/watch?v=taiU70ddmAE",
     "bestThumbnail": {
       "url": "https://i.ytimg.com/vi/taiU70ddmAE/hq720_live.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj7CqWDkP3QwA9VYX4nYVvkfBGvA",
       "width": 720,
@@ -31,7 +31,7 @@
     "author": {
       "name": "NBC News",
       "channelID": "UCeY0bbntWzzVIaj2z3QigXg",
-      "ref": "https://www.youtube.com/user/NBCNews",
+      "url": "https://www.youtube.com/user/NBCNews",
       "bestAvatar": {
         "url": "https://yt3.ggpht.com/a-/AOh14GhaQesdau8ocfNpeiROjDaZS8W46Xi_buLnLA=s68-c-k-c0x00ffffff-no-rj-mo",
         "width": 68,
@@ -48,9 +48,7 @@
     "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
     "views": 6699,
     "duration": null,
-    "uploaded_at": null,
-    "live": true,
-    "thumbnail": "https://i.ytimg.com/vi/taiU70ddmAE/hq720_live.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj7CqWDkP3QwA9VYX4nYVvkfBGvA"
+    "uploadedAt": null
   },
   "raw":{
     "videoRenderer": {

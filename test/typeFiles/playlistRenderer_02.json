@@ -6,26 +6,19 @@
     "type": "playlist",
     "title": "Git and GitHub for Poets",
     "playlistID": "PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
-    "link": "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
+    "url": "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
     "firstVideo": null,
     "owner": {
       "name": "The Coding Train",
       "channelID": "UCvjgXvBlbQiydffZU7m1_aw",
-      "link": "https://www.youtube.com/user/shiffman",
+      "url": "https://www.youtube.com/user/shiffman",
       "ownerBadges": [
         "Verified"
       ],
       "verified": true
     },
-    "published_at": null,
-    "length": "11",
-    "playlist_id": "PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
-    "thumbnail": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA5c3ggpjssxQUPoAkHtXnoGCKe5Q",
-    "author": {
-      "name": "The Coding Train",
-      "ref": "https://www.youtube.com/user/shiffman",
-      "verified": true
-    }
+    "publishedAt": null,
+    "length": 11
   },
   "raw":{
     "playlistRenderer": {

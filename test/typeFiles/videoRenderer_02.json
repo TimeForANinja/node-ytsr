@@ -6,7 +6,7 @@
     "type":"video",
     "title":"Together Forever",
     "id":"whBqghP5Oow",
-    "link":"https://www.youtube.com/watch?v=whBqghP5Oow",
+    "url":"https://www.youtube.com/watch?v=whBqghP5Oow",
     "bestThumbnail":{
       "url":"https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
       "width":480,
@@ -27,9 +27,7 @@
     "description":"Connie has a really clear vision for her future. Steven wants to make sure he'll be a part of it.",
     "views":null,
     "duration":"11:20",
-    "uploaded_at":"Mar 14, 2020",
-    "live":false,
-    "thumbnail":"https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg"
+    "uploadedAt":"Mar 14, 2020"
   },
   "raw":{
     "videoRenderer": {
