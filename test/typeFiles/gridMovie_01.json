@@ -1,0 +1,239 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "gridMovie",
+  "parsed": {
+    "type": "gridMovie",
+    "title": "Mulan",
+    "videoID": "NPwLeuh2GGQ",
+    "url": "https://www.youtube.com/watch?v=NPwLeuh2GGQ",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/NPwLeuh2GGQ/movieposter_en.jpg",
+      "width": 279,
+      "height": 402
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/NPwLeuh2GGQ/movieposter_en.jpg",
+        "width": 279,
+        "height": 402
+      }
+    ],
+    "duration": "1:55:11"
+  },
+  "raw": {
+    "gridMovieRenderer": {
+      "videoId": "NPwLeuh2GGQ",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/NPwLeuh2GGQ/movieposter_en.jpg",
+            "width": 279,
+            "height": 402
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "Mulan"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Mulan by YouTube Movies 1 hour, 55 minutes"
+          }
+        }
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 hour, 55 minutes, 11 seconds"
+          }
+        },
+        "simpleText": "1:55:11"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CMABEM1BGAAiEwiz25zU7MXtAhWNuFUKHawdC_YyBnNlYXJjaFIFTW92aWWaAQMQ9CQ=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=NPwLeuh2GGQ",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "NPwLeuh2GGQ"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_YPC",
+            "label": "Buy",
+            "trackingParams": "CMABEM1BGAAiEwiz25zU7MXtAhWNuFUKHawdC_Y="
+          }
+        },
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "CC",
+            "trackingParams": "CMABEM1BGAAiEwiz25zU7MXtAhWNuFUKHawdC_Y=",
+            "accessibilityData": {
+              "label": "Closed captions"
+            }
+          }
+        }
+      ],
+      "trackingParams": "CMABEM1BGAAiEwiz25zU7MXtAhWNuFUKHawdC_Y=",
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "1 hour, 55 minutes, 11 seconds"
+                }
+              },
+              "simpleText": "1:55:11"
+            },
+            "style": "DEFAULT"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CMIBEPnnAxgDIhMIs9uc1OzF7QIVjbhVCh2sHQv2",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "NPwLeuh2GGQ",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CMIBEPnnAxgDIhMIs9uc1OzF7QIVjbhVCh2sHQv2",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "NPwLeuh2GGQ"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CMIBEPnnAxgDIhMIs9uc1OzF7QIVjbhVCh2sHQv2"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CMEBEMfsBBgEIhMIs9uc1OzF7QIVjbhVCh2sHQv2",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CMEBEMfsBBgEIhMIs9uc1OzF7QIVjbhVCh2sHQv2",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "NPwLeuh2GGQ",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CMEBEMfsBBgEIhMIs9uc1OzF7QIVjbhVCh2sHQv2",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "NPwLeuh2GGQ"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "NPwLeuh2GGQ"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CMEBEMfsBBgEIhMIs9uc1OzF7QIVjbhVCh2sHQv2"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "specialities": "skips backgroundPromoRenderer",
+  "throws": null,
+  "type":"backgroundPromoRenderer",
+  "parsed": null,
+  "raw": {
+    "backgroundPromoRenderer": {
+      "title": {
+        "runs": [
+          {
+            "text": "No results found"
+          }
+        ]
+      },
+      "bodyText": {
+        "runs": [
+          {
+            "text": "Try different keywords or remove search filters"
+          }
+        ]
+      },
+      "icon": {
+        "iconType": "EMPTY_SEARCH"
+      },
+      "trackingParams": "CDoQ92QYACITCNSsrOL1xe0CFVKlfAodX4sNeQ==",
+      "style": {
+        "value": "BACKGROUND_PROMO_STYLE_TYPE_FULL_HEIGHT"
+      }
+    }
+  }
+}

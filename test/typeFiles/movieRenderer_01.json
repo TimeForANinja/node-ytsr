@@ -1,0 +1,421 @@
+{
+  "specialities": "no director / actor",
+  "throws": null,
+  "type":"movieRenderer",
+  "parsed": {
+    "type": "movie",
+    "title": "John Wick: Kapitel 3",
+    "videoID": "rx-gQVUeSR8",
+    "url": "https://www.youtube.com/watch?v=rx-gQVUeSR8",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/rx-gQVUeSR8/movieposter.jpg",
+      "width": 279,
+      "height": 402
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/rx-gQVUeSR8/movieposter.jpg",
+        "width": 279,
+        "height": 402
+      }
+    ],
+    "author": {
+      "name": "YouTube Movies",
+      "channelID": "UClgRkhTL3_hImCAmdLfDE4g",
+      "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g",
+      "ownerBadges": [
+        "Verified"
+      ],
+      "verified": true
+    },
+    "description": "John Wick, der Auftragskiller par excellence kehrt furios zurück. Nachdem er ein Mitglied der geheimnisvollen Assassinen-Gilde ...",
+    "meta": [
+      "Action & Adventure",
+      "2019",
+      "FSK 18",
+      "English audio (and 1 more)"
+    ],
+    "actors": null,
+    "director": null,
+    "duration": "2:11:40"
+  },
+  "raw": {
+    "movieRenderer": {
+      "videoId": "rx-gQVUeSR8",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/rx-gQVUeSR8/movieposter.jpg",
+            "width": 279,
+            "height": 402
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "John Wick: Kapitel 3"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "John Wick: Kapitel 3 by YouTube Movies 2 hours, 11 minutes"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "John Wick",
+            "bold": true
+          },
+          {
+            "text": ", der Auftragskiller par excellence kehrt furios zurück. Nachdem er ein Mitglied der geheimnisvollen Assassinen-Gilde ..."
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Movies",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CN4BEIszGAEiEwjMjovm7MXtAhWByVUKHSQsAmg=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UClgRkhTL3_hImCAmdLfDE4g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UClgRkhTL3_hImCAmdLfDE4g"
+              }
+            }
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Movies",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CN4BEIszGAEiEwjMjovm7MXtAhWByVUKHSQsAmg=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UClgRkhTL3_hImCAmdLfDE4g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UClgRkhTL3_hImCAmdLfDE4g"
+              }
+            }
+          }
+        ]
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 hours, 11 minutes, 40 seconds"
+          }
+        },
+        "simpleText": "2:11:40"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CN4BEIszGAEiEwjMjovm7MXtAhWByVUKHSQsAmgyBnNlYXJjaFIJSm9obiBXaWNrmgEDEPQk",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=rx-gQVUeSR8",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "rx-gQVUeSR8"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "CC",
+            "trackingParams": "CN4BEIszGAEiEwjMjovm7MXtAhWByVUKHSQsAmg=",
+            "accessibilityData": {
+              "label": "Closed captions"
+            }
+          }
+        }
+      ],
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED",
+            "tooltip": "Verified",
+            "trackingParams": "CN4BEIszGAEiEwjMjovm7MXtAhWByVUKHSQsAmg="
+          }
+        }
+      ],
+      "trackingParams": "CN4BEIszGAEiEwjMjovm7MXtAhWByVUKHSQsAmg=",
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "COIBEP6YBBgGIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "COIBEP6YBBgGIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "rx-gQVUeSR8",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "COIBEP6YBBgGIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "rx-gQVUeSR8"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "rx-gQVUeSR8"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "COIBEP6YBBgGIhMIzI6L5uzF7QIVgclVCh0kLAJo"
+              }
+            }
+          ],
+          "trackingParams": "CN4BEIszGAEiEwjMjovm7MXtAhWByVUKHSQsAmg=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "topMetadataItems": [
+        {
+          "simpleText": "Action & Adventure · 2019 · FSK 18 · English audio (and 1 more)"
+        }
+      ],
+      "useVerticalPoster": true,
+      "offerButton": {
+        "buttonRenderer": {
+          "style": "STYLE_PRIMARY",
+          "size": "SIZE_LARGE",
+          "text": {
+            "simpleText": "Buy or Rent"
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "COEBEPBbIhMIzI6L5uzF7QIVgclVCh0kLAJoMg95cGNfdHJhbnNhY3Rpb24=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fgl%253DUS%2526hl%253Den%2526search_query%253DJohn%252BWick%2526ypc_goe%253DAIhNbf4bvRWmUWiFAad0gh7O7c_KKTIq0oo7rOPBz9wzelkYWonNAhWRQ7nViKbolbifY139YecUWQqYzqMd0QhFsZbcDCwn5lydhk9bf5Ityc5VN7GLbNQ&hl=en",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "signInEndpoint": {
+              "nextEndpoint": {
+                "clickTrackingParams": "COEBEPBbIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://www.youtube.com/results?gl=US&hl=en&search_query=John+Wick&ypc_goe=AIhNbf4bvRWmUWiFAad0gh7O7c_KKTIq0oo7rOPBz9wzelkYWonNAhWRQ7nViKbolbifY139YecUWQqYzqMd0QhFsZbcDCwn5lydhk9bf5Ityc5VN7GLbNQ",
+                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https://www.youtube.com/results?gl=US&hl=en&search_query=John+Wick&ypc_goe=AIhNbf4bvRWmUWiFAad0gh7O7c_KKTIq0oo7rOPBz9wzelkYWonNAhWRQ7nViKbolbifY139YecUWQqYzqMd0QhFsZbcDCwn5lydhk9bf5Ityc5VN7GLbNQ"
+                }
+              }
+            }
+          },
+          "trackingParams": "COEBEPBbIhMIzI6L5uzF7QIVgclVCh0kLAJo"
+        }
+      },
+      "showActionMenu": false,
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "2 hours, 11 minutes, 40 seconds"
+                }
+              },
+              "simpleText": "2:11:40"
+            },
+            "style": "DEFAULT"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "COABEPnnAxgDIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "rx-gQVUeSR8",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "COABEPnnAxgDIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "rx-gQVUeSR8"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "COABEPnnAxgDIhMIzI6L5uzF7QIVgclVCh0kLAJo"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CN8BEMfsBBgEIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CN8BEMfsBBgEIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "rx-gQVUeSR8",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CN8BEMfsBBgEIhMIzI6L5uzF7QIVgclVCh0kLAJo",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "rx-gQVUeSR8"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "rx-gQVUeSR8"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CN8BEMfsBBgEIhMIzI6L5uzF7QIVgclVCh0kLAJo"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

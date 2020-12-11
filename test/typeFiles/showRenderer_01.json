@@ -1,0 +1,134 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "showRenderer",
+  "parsed": {
+    "type": "show",
+    "title": "The Age of A.I.",
+    "bestThumbnail": {
+      "url": "https://i9.ytimg.com/s_p/PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc/landscape_sddefault.jpg?sqp=CLiwzf4Fir7X7AMGCM2K4-8F&rs=AOn4CLBnm0LOgKhtuvI3p-nyZBfucuDd6w&v=1576584525",
+      "width": 800,
+      "height": 450
+    },
+    "thumbnails": [
+      {
+        "url": "https://i9.ytimg.com/s_p/PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc/landscape_sddefault.jpg?sqp=CLiwzf4Fir7X7AMGCM2K4-8F&rs=AOn4CLBnm0LOgKhtuvI3p-nyZBfucuDd6w&v=1576584525",
+        "width": 800,
+        "height": 450
+      },
+      {
+        "url": "https://i9.ytimg.com/s_p/PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc/landscape_mqdefault.jpg?sqp=CLiwzf4Fir7X7AMGCM2K4-8F&rs=AOn4CLBsQsWYgiJG2uUEGwCnTGiAlGy2Rg&v=1576584525",
+        "width": 320,
+        "height": 180
+      }
+    ],
+    "url": "https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
+    "videoID": "UwsrzCVZAb8",
+    "playlistID": "PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
+    "episodes": 9,
+    "owner": {
+      "name": "YouTube Originals",
+      "channelID": "UCqVDpXKLmKeBU_yyt_QkItQ",
+      "url": "https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ",
+      "ownerBadges": [],
+      "verified": false
+    }
+  },
+  "raw": {
+    "showRenderer": {
+      "title": {
+        "simpleText": "The Age of A.I."
+      },
+      "thumbnailRenderer": {
+        "showCustomThumbnailRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://i9.ytimg.com/s_p/PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc/landscape_mqdefault.jpg?sqp=CLiwzf4Fir7X7AMGCM2K4-8F&rs=AOn4CLBsQsWYgiJG2uUEGwCnTGiAlGy2Rg&v=1576584525",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "url": "https://i9.ytimg.com/s_p/PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc/landscape_sddefault.jpg?sqp=CLiwzf4Fir7X7AMGCM2K4-8F&rs=AOn4CLBnm0LOgKhtuvI3p-nyZBfucuDd6w&v=1576584525",
+                "width": 800,
+                "height": 450
+              }
+            ]
+          }
+        }
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CNUBEJWLARgBIhMIvsbv4urF7QIVV7neCh0_CQ56MgZzZWFyY2g=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "UwsrzCVZAb8",
+          "playlistId": "PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
+          "params": "OAI%3D"
+        }
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Originals",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNUBEJWLARgBIhMIvsbv4urF7QIVV7neCh0_CQ56MgZzZWFyY2g=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCqVDpXKLmKeBU_yyt_QkItQ",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCqVDpXKLmKeBU_yyt_QkItQ"
+              }
+            }
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Originals",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNUBEJWLARgBIhMIvsbv4urF7QIVV7neCh0_CQ56MgZzZWFyY2g=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCqVDpXKLmKeBU_yyt_QkItQ",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCqVDpXKLmKeBU_yyt_QkItQ"
+              }
+            }
+          }
+        ]
+      },
+      "trackingParams": "CNUBEJWLARgBIhMIvsbv4urF7QIVV7neCh0_CQ56",
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayBottomPanelRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "9"
+                },
+                {
+                  "text": " episodes"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
