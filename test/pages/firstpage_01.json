@@ -1,0 +1,17 @@
+{
+  "query": "testing",
+  "results": 322671961,
+  "activeFilters": [
+    {
+      "active": true,
+      "description": "Sort by relevance",
+      "isSet": true,
+      "label": "Relevance",
+      "name": "Relevance",
+      "query": null,
+      "ref": null
+    }
+  ],
+  "items": 16,
+  "continuation": null
+}

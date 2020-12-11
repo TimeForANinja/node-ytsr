@@ -6,7 +6,7 @@ const FS = require('fs');
 const NOCK = require('nock');
 
 describe('utils.parseFilters()', () => {
-  const data = JSON.parse(FS.readFileSync('test/pages/firstpage.json', 'utf8'));
+  const data = JSON.parse(FS.readFileSync('test/pages/firstpage_payload.json', 'utf8'));
 
   it('returns a map of arrays', () => {
     const resp = UTILS.parseFilters(data);
@@ -224,6 +224,13 @@ describe('utils.checkArgs()', () => {
     const opts = { safeSearch: true, hl: 'hl', gl: 'gl', limit: 123, requestOptions: { test: 'test' } };
     UTILS.checkArgs('searchString', opts);
     ASSERT.deepEqual(opts.requestOptions, { test: 'test' });
+  });
+
+  it('removes limit if pages are provided', () => {
+    const opts = { hl: 'hl', gl: 'gl', limit: 123, pages: 2, requestOptions: { test: 'test' } };
+    const r = UTILS.checkArgs('searchString', opts);
+    ASSERT.equal(r.limit, Infinity);
+    ASSERT.equal(r.pages, 2);
   });
 });
 
