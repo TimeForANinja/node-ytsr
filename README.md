@@ -18,18 +18,8 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 ```js
 const ytsr = require('ytsr');
 
-const main = async() => {
-  const filters1 = await ytsr.getFilters('github');
-  const filter1 = filters1.get('Type').find(o => o.name === 'Video');
-  const filters2 = await ytsr.getFilters(filter1.ref);
-  const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
-  const options = {
-    limit: 5,
-  }
-  const searchResults = await ytsr(filter2.ref, options);
-  dosth(searchResults);
-};
-main();
+const searchResults = await ytsr('github');
+dosth(searchResults);
 ```
 
 
@@ -54,6 +44,22 @@ Searches for the given string
 
 ### ytsr.getFilters(searchString, options)
 
+#### Usage
+
+```js
+const ytsr = require('ytsr');
+
+const filters1 = await ytsr.getFilters('github');
+const filter1 = filters1.get('Type').find(o => o.name === 'Video');
+const filters2 = await ytsr.getFilters(filter1.ref);
+const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
+const options = {
+  pages: 2,
+}
+const searchResults = await ytsr(filter2.ref, options);
+dosth(searchResults);
+```
+
 Pulls avaible filters for the given string/ref
 
 * `searchString`
@@ -64,6 +70,21 @@ Pulls avaible filters for the given string/ref
 * returns a Promise
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output.txt)
 
+### ytpl.continueReq(continuationData)
+Continues a previous request by pulling yet another page.  
+The previous request had to be done using `pages` limitation.
+
+#### Usage
+```js
+var ytsr = require('ytsr');
+
+const search = await ytsr('github', { pages: 1 });
+display(search.items);
+const r2 = ytsr.continueReq(playlist.continuation);
+display(r2.items);
+const r3 = ytsr.continueReq(r2.continuation);
+display(r3.items);
+```
 
 # Related / Works well with
 
@@ -74,7 +95,6 @@ Pulls avaible filters for the given string/ref
 # Install
 
     npm install --save ytsr
-
 
 # License
 MIT
