@@ -19,6 +19,21 @@ describe('YTSR()', () => {
     NOCK.enableNetConnect();
   });
 
+  it('propagate json#alerts', async() => {
+    const scope = NOCK(YT_HOST)
+      .get(SEARCH_PATH)
+      .query({ gl: 'US', hl: 'en', search_query: 'testing' })
+      .replyWithFile(200, 'test/pages/privatepage.html');
+
+    await ASSERT.rejects(
+      YTSR('testing', { pages: 1 }),
+      // Yes, this is just batched together from the ytpl-example
+      // Since i was unable to get one of these errors searching
+      /API-Error: This playlist is private\./,
+    );
+    scope.done();
+  });
+
   it('parses first page using limit', async() => {
     const scope = NOCK(YT_HOST)
       .get(SEARCH_PATH)
