@@ -256,6 +256,20 @@ describe('utils.checkArgs()', () => {
   });
 });
 
+describe('utils.sortImg()', () => {
+  it('sorts in descending order', () => {
+    const images = [{ width: 10 }, { width: 20 }, { width: 30 }];
+    const sorted = UTILS.sortImg(images);
+    ASSERT.deepEqual(sorted, [{ width: 30 }, { width: 20 }, { width: 10 }]);
+  });
+
+  it('does not crash for empty arrays', () => {
+    const images = [];
+    const sorted = UTILS.sortImg(images);
+    ASSERT.deepEqual(sorted, []);
+  });
+});
+
 describe('utils.jsonAfter()', () => {
   it('`left` positioned at the start', () => {
     ASSERT.deepEqual(UTILS._hidden.jsonAfter('{"a": 1, "b": 1}asdf', ''), { a: 1, b: 1 });
