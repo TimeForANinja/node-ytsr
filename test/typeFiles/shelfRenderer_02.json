@@ -5,16 +5,6 @@
   "parsed": {
     "type": "shelf",
     "title": "YouTube Movies",
-    "thumbnails": [{
-      "url": "https://www.gstatic.com/youtube/img/tvfilm/movies_profile.png",
-      "width": 100,
-      "height": 100
-    }],
-    "bestThumbnail": {
-      "url": "https://www.gstatic.com/youtube/img/tvfilm/movies_profile.png",
-      "width": 100,
-      "height": 100
-    },
     "items": [
       {
         "type": "gridMovie",
