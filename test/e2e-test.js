@@ -26,8 +26,8 @@ describe('e2e', function e2e() {
 
   it('search using filters', async() => {
     const filters = await YTSR.getFilters('NoCopyrightSounds');
-    const filter = filters.get('Type').find(a => a.label === 'Video');
-    const search = await YTSR(filter.query);
+    const filter = filters.get('Type').get('Video');
+    const search = await YTSR(filter.url);
     // Check that the filter worked
     ASSERT.ok(search.items.some(a => a.type !== 'Video'));
     // Check if the default limit worked

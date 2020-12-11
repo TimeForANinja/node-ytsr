@@ -34,13 +34,10 @@ describe('utils.parseFilters()', () => {
     ASSERT.equal(resp.get('Duration').active, null);
     ASSERT.equal(resp.get('Sort by').active, resp.get('Sort by').get('Relevance'));
     ASSERT.deepEqual(resp.get('Sort by').active, {
-      description: 'Sort by relevance',
-      label: 'Relevance',
-      query: null,
-      isSet: true,
-      active: true,
       name: 'Relevance',
-      ref: null,
+      description: 'Sort by relevance',
+      url: null,
+      active: true,
     });
   });
 });

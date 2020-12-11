@@ -3,13 +3,10 @@
   "results": 322671961,
   "activeFilters": [
     {
+      "name": "Relevance",
       "active": true,
       "description": "Sort by relevance",
-      "isSet": true,
-      "label": "Relevance",
-      "name": "Relevance",
-      "query": null,
-      "ref": null
+      "url": null
     }
   ],
   "items": 16,
