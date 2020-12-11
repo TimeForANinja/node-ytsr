@@ -17,7 +17,8 @@ describe('e2e', function e2e() {
 
   it('search for NoCopyrightSounds Uploads', async() => {
     const search = await YTSR('NoCopyrightSounds', { limit: 25 });
-    ASSERT.equal(search.query, 'NoCopyrightSounds');
+    ASSERT.equal(search.originalQuery, 'NoCopyrightSounds');
+    ASSERT.equal(search.correctedQuery, 'NoCopyrightSounds');
     // Check that we found the channel
     ASSERT.ok(search.items.some(a => a.type === 'channel'));
     // Check if limit worked
