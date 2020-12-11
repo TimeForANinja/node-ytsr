@@ -1,5 +1,6 @@
 {
   "specialities": "video without author",
+  "throws": null,
   "type":"videoRenderer",
   "parsed":{
     "type":"video",

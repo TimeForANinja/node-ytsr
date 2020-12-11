@@ -1,5 +1,6 @@
 {
   "specialities": "None",
+  "throws": null,
   "type":"shelfRenderer",
   "parsed":{
     "type":"shelf",

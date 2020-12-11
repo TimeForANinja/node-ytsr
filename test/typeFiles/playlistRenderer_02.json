@@ -1,5 +1,6 @@
 {
   "specialities": "no videos",
+  "throws": null,
   "type": "playlistRenderer",
   "parsed": {
     "type": "playlist",

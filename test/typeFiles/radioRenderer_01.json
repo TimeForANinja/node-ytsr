@@ -1,5 +1,6 @@
 {
   "specialities": "None",
+  "throws": null,
   "type":"radioRenderer",
   "parsed":{
     "type":"mix",

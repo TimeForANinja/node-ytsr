@@ -1,5 +1,6 @@
 {
   "specialities": "premiere / upcoming",
+  "throws": null,
   "type": "videoRenderer",
   "parsed": {
     "type": "video",

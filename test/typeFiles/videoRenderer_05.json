@@ -1,5 +1,6 @@
 {
   "specialities": "no description",
+  "throws": null,
   "type": "videoRenderer",
   "parsed": {
     "type": "video",

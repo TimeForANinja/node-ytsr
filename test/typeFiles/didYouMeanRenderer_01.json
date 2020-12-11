@@ -1,5 +1,6 @@
 {
   "specialities": "None",
+  "throws": null,
   "type":"didYouMeanRenderer",
   "parsed":{
     "type":"search-refinements",

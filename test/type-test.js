@@ -15,8 +15,15 @@ describe('parseItem.js', () => {
     const data = JSON.parse(FS.readFileSync(file, 'utf8'));
 
     it(`parses type ${data.type} - "${data.specialities}" speciality`, () => {
-      const parsed = PARSE_ITEM(data.raw);
-      ASSERT.deepEqual(data.parsed, parsed);
+      if (data.throws) {
+        ASSERT.throws(
+          () => PARSE_ITEM._hidden.parseItem(data.raw),
+          e => e.message === data.throws,
+        );
+      } else {
+        const parsed = PARSE_ITEM._hidden.parseItem(data.raw);
+        ASSERT.deepEqual(data.parsed, parsed);
+      }
     });
   }
 });
