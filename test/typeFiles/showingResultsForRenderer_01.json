@@ -1,61 +1,61 @@
 {
   "specialities": "None",
   "throws": null,
-  "type":"showingResultsForRenderer",
-  "parsed":null,
-  "raw":{
-    "showingResultsForRenderer":{
-      "runs":[
+  "type": "showingResultsForRenderer",
+  "parsed": null,
+  "raw": {
+    "showingResultsForRenderer": {
+      "runs": [
         {
-          "text":"Showing results for"
+          "text": "Showing results for"
         }
       ]
     },
-    "correctedQuery":{
-      "runs":[
+    "correctedQuery": {
+      "runs": [
         {
-          "text":"vorwerk",
-          "italics":true
+          "text": "vorwerk",
+          "italics": true
         }
       ]
     },
-    "correctedQueryEndpoint":{
-      "clickTrackingParams":"CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs=",
-      "commandMetadata":{
-        "webCommandMetadata":{
-          "url":"/results?search_query=vorwerk",
-          "webPageType":"WEB_PAGE_TYPE_SEARCH",
-          "rootVe":4724
+    "correctedQueryEndpoint": {
+      "clickTrackingParams": "CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs=",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "url": "/results?search_query=vorwerk",
+          "webPageType": "WEB_PAGE_TYPE_SEARCH",
+          "rootVe": 4724
         }
       },
-      "searchEndpoint":{
-        "query":"vorwerk"
+      "searchEndpoint": {
+        "query": "vorwerk"
       }
     },
-    "searchInsteadFor":{
-      "runs":[
+    "searchInsteadFor": {
+      "runs": [
         {
-          "text":"Search instead for"
+          "text": "Search instead for"
         }
       ]
     },
-    "originalQuery":{
-      "simpleText":"vorwerkt"
+    "originalQuery": {
+      "simpleText": "vorwerkt"
     },
-    "originalQueryEndpoint":{
-      "clickTrackingParams":"CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs=",
-      "commandMetadata":{
-        "webCommandMetadata":{
-          "url":"/results?search_query=vorwerkt&sp=QgIIAQ%253D%253D",
-          "webPageType":"WEB_PAGE_TYPE_SEARCH",
-          "rootVe":4724
+    "originalQueryEndpoint": {
+      "clickTrackingParams": "CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs=",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "url": "/results?search_query=vorwerkt&sp=QgIIAQ%253D%253D",
+          "webPageType": "WEB_PAGE_TYPE_SEARCH",
+          "rootVe": 4724
         }
       },
-      "searchEndpoint":{
-        "query":"vorwerkt",
-        "params":"QgIIAQ%3D%3D"
+      "searchEndpoint": {
+        "query": "vorwerkt",
+        "params": "QgIIAQ%3D%3D"
       }
     },
-    "trackingParams":"CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs="
+    "trackingParams": "CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs="
   }
 }

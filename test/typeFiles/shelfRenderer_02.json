@@ -1,7 +1,7 @@
 {
   "specialities": "subtype horizontalMovieListRenderer",
   "throws": null,
-  "type":"shelfRenderer",
+  "type": "shelfRenderer",
   "parsed": {
     "type": "shelf",
     "title": "YouTube Movies",

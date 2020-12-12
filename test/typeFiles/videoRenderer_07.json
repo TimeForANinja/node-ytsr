@@ -37,11 +37,13 @@
         "width": 68,
         "height": 68
       },
-      "avatars": [{
-        "url": "https://yt3.ggpht.com/a-/AOh14GjmrkkekpSJSJ1NAvtav2o0L-53-1W-bVI2zQ=s68-c-k-c0x00ffffff-no-rj-mo",
-        "width": 68,
-        "height": 68
-      }],
+      "avatars": [
+        {
+          "url": "https://yt3.ggpht.com/a-/AOh14GjmrkkekpSJSJ1NAvtav2o0L-53-1W-bVI2zQ=s68-c-k-c0x00ffffff-no-rj-mo",
+          "width": 68,
+          "height": 68
+        }
+      ],
       "ownerBadges": [],
       "verified": false
     },

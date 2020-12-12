@@ -3,43 +3,43 @@
   "throws": null,
   "type": "didYouMeanRenderer",
   "parsed": null,
-  "raw":{
-    "didYouMeanRenderer":{
-      "didYouMean":{
-        "runs":[
+  "raw": {
+    "didYouMeanRenderer": {
+      "didYouMean": {
+        "runs": [
           {
-            "text":"Did you mean:"
+            "text": "Did you mean:"
           }
         ]
       },
-      "correctedQuery":{
-        "runs":[
+      "correctedQuery": {
+        "runs": [
           {
-            "text":"Masa Mainds Dada-"
+            "text": "Masa Mainds Dada-"
           },
           {
-            "text":"Didi",
-            "italics":true
+            "text": "Didi",
+            "italics": true
           },
           {
-            "text":" audio"
+            "text": " audio"
           }
         ]
       },
-      "correctedQueryEndpoint":{
-        "clickTrackingParams":"CKwBEO4wGAAiEwimr6qTxdrsAhVKALIKHavFDy4=",
-        "commandMetadata":{
-          "webCommandMetadata":{
-            "url":"/results?search_query=Masa+Mainds+Dada-Didi+audio",
-            "webPageType":"WEB_PAGE_TYPE_SEARCH",
-            "rootVe":4724
+      "correctedQueryEndpoint": {
+        "clickTrackingParams": "CKwBEO4wGAAiEwimr6qTxdrsAhVKALIKHavFDy4=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/results?search_query=Masa+Mainds+Dada-Didi+audio",
+            "webPageType": "WEB_PAGE_TYPE_SEARCH",
+            "rootVe": 4724
           }
         },
-        "searchEndpoint":{
-          "query":"Masa Mainds Dada-Didi audio"
+        "searchEndpoint": {
+          "query": "Masa Mainds Dada-Didi audio"
         }
       },
-      "trackingParams":"CKwBEO4wGAAiEwimr6qTxdrsAhVKALIKHavFDy4="
+      "trackingParams": "CKwBEO4wGAAiEwimr6qTxdrsAhVKALIKHavFDy4="
     }
   }
 }

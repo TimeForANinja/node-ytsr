@@ -1,7 +1,7 @@
 {
   "specialities": "skips messageRenderer",
   "throws": null,
-  "type":"messageRenderer",
+  "type": "messageRenderer",
   "parsed": null,
   "raw": {
     "messageRenderer": {

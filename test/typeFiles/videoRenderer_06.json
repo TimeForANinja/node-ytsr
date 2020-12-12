@@ -27,7 +27,9 @@
     "isUpcoming": true,
     "upcoming": 1606323600000,
     "isLive": false,
-    "badges": ["New"],
+    "badges": [
+      "New"
+    ],
     "author": {
       "name": "PTXofficial",
       "channelID": "UCmv1CLT6ZcFdTJMHxaR9XeA",
@@ -37,12 +39,16 @@
         "width": 68,
         "height": 68
       },
-      "avatars": [{
-        "url": "https://yt3.ggpht.com/a-/AOh14GgFSr-yxBgNlmnA9AlaSHI09K1M1Lenjk-j=s68-c-k-c0x00ffffff-no-rj-mo",
-        "width": 68,
-        "height": 68
-      }],
-      "ownerBadges": ["Official Artist Channel"],
+      "avatars": [
+        {
+          "url": "https://yt3.ggpht.com/a-/AOh14GgFSr-yxBgNlmnA9AlaSHI09K1M1Lenjk-j=s68-c-k-c0x00ffffff-no-rj-mo",
+          "width": 68,
+          "height": 68
+        }
+      ],
+      "ownerBadges": [
+        "Official Artist Channel"
+      ],
       "verified": true
     },
     "description": "NEW CHRISTMAS ALBUM “WE NEED A LITTLE CHRISTMAS”, AVAILABLE NOW. BUY/STREAM https://smarturl.it/PTXWNALXMAS \"THE LUCKY ONES\" THE NEW ORIGINAL ALBUM WITH ...",
@@ -50,7 +56,7 @@
     "duration": "4:12",
     "uploadedAt": null
   },
-  "raw":{
+  "raw": {
     "videoRenderer": {
       "videoId": "D1IeDyG-pgM",
       "thumbnail": {

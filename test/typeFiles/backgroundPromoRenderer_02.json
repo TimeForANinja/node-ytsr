@@ -1,7 +1,7 @@
 {
   "specialities": "throws unknown backgroundPromoRenderer",
   "throws": "unknown message in backgroundPromoRenderer",
-  "type":"backgroundPromoRenderer",
+  "type": "backgroundPromoRenderer",
   "parsed": null,
   "raw": {
     "backgroundPromoRenderer": {

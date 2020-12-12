@@ -27,7 +27,9 @@
     "isUpcoming": false,
     "upcoming": null,
     "isLive": false,
-    "badges": ["New"],
+    "badges": [
+      "New"
+    ],
     "author": {
       "name": "PietSmiet",
       "channelID": "UCqwGaUvq_l0RKszeHhZ5leA",
@@ -37,12 +39,16 @@
         "width": 68,
         "height": 68
       },
-      "avatars": [{
-        "url": "https://yt3.ggpht.com/a-/AOh14GicrIG8Rdk5gPq9Y_YGX0Fj2vPJNe_-hhMKfA=s68-c-k-c0x00ffffff-no-rj-mo",
-        "width": 68,
-        "height": 68
-      }],
-      "ownerBadges": ["Verified"],
+      "avatars": [
+        {
+          "url": "https://yt3.ggpht.com/a-/AOh14GicrIG8Rdk5gPq9Y_YGX0Fj2vPJNe_-hhMKfA=s68-c-k-c0x00ffffff-no-rj-mo",
+          "width": 68,
+          "height": 68
+        }
+      ],
+      "ownerBadges": [
+        "Verified"
+      ],
       "verified": true
     },
     "description": "Erreicht einer die Million? Unseren Merch mit Shirts, Hoodies und Caps findet ihr auf https://pietsmiet.de/shop Verpasst keine ...",

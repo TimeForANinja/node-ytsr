@@ -12,15 +12,19 @@
       "width": 480,
       "height": 270
     },
-    "thumbnails": [{
-      "url": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg",
-      "width": 480,
-      "height": 270
-    }],
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/wzEpnM3hUI8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCx3KXEteWX81u0ARDne0nZ73lHrg",
+        "width": 480,
+        "height": 270
+      }
+    ],
     "isUpcoming": false,
     "upcoming": null,
     "isLive": false,
-    "badges": ["New"],
+    "badges": [
+      "New"
+    ],
     "author": {
       "name": "braverman26",
       "channelID": "UCAs875Iui44clBS8OdG85Mg",
@@ -30,11 +34,13 @@
         "width": 68,
         "height": 68
       },
-      "avatars": [{
-        "url": "https://yt3.ggpht.com/a-/AOh14Gikv-tGBjuoSnPAScTRYqGq3WZHnoLVZJM11Q=s68-c-k-c0x00ffffff-no-rj-mo",
-        "width": 68,
-        "height": 68
-      }],
+      "avatars": [
+        {
+          "url": "https://yt3.ggpht.com/a-/AOh14Gikv-tGBjuoSnPAScTRYqGq3WZHnoLVZJM11Q=s68-c-k-c0x00ffffff-no-rj-mo",
+          "width": 68,
+          "height": 68
+        }
+      ],
       "ownerBadges": [],
       "verified": false
     },

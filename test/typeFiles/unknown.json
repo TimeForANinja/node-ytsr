@@ -1,7 +1,7 @@
 {
   "specialities": "throws unknown error",
   "throws": "type someUnknownType is not known",
-  "type":"someUnknownType",
+  "type": "someUnknownType",
   "parsed": null,
   "raw": {
     "someUnknownType": {

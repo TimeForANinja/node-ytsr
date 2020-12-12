@@ -27,7 +27,10 @@
     "isUpcoming": false,
     "upcoming": null,
     "isLive": true,
-    "badges": ["LIVE NOW", "New"],
+    "badges": [
+      "LIVE NOW",
+      "New"
+    ],
     "author": {
       "name": "NBC News",
       "channelID": "UCeY0bbntWzzVIaj2z3QigXg",
@@ -37,12 +40,16 @@
         "width": 68,
         "height": 68
       },
-      "avatars": [{
-        "url": "https://yt3.ggpht.com/a-/AOh14GhaQesdau8ocfNpeiROjDaZS8W46Xi_buLnLA=s68-c-k-c0x00ffffff-no-rj-mo",
-        "width": 68,
-        "height": 68
-      }],
-      "ownerBadges": ["Verified"],
+      "avatars": [
+        {
+          "url": "https://yt3.ggpht.com/a-/AOh14GhaQesdau8ocfNpeiROjDaZS8W46Xi_buLnLA=s68-c-k-c0x00ffffff-no-rj-mo",
+          "width": 68,
+          "height": 68
+        }
+      ],
+      "ownerBadges": [
+        "Verified"
+      ],
       "verified": true
     },
     "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
@@ -50,7 +57,7 @@
     "duration": null,
     "uploadedAt": null
   },
-  "raw":{
+  "raw": {
     "videoRenderer": {
       "videoId": "taiU70ddmAE",
       "thumbnail": {

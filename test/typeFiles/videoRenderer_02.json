@@ -1,35 +1,38 @@
 {
   "specialities": "video without author",
   "throws": null,
-  "type":"videoRenderer",
-  "parsed":{
-    "type":"video",
-    "title":"Together Forever",
-    "id":"whBqghP5Oow",
-    "url":"https://www.youtube.com/watch?v=whBqghP5Oow",
-    "bestThumbnail":{
-      "url":"https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
-      "width":480,
-      "height":270
+  "type": "videoRenderer",
+  "parsed": {
+    "type": "video",
+    "title": "Together Forever",
+    "id": "whBqghP5Oow",
+    "url": "https://www.youtube.com/watch?v=whBqghP5Oow",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
+      "width": 480,
+      "height": 270
     },
-    "thumbnails":[
+    "thumbnails": [
       {
-        "url":"https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
-        "width":480,
-        "height":270
+        "url": "https://i.ytimg.com/vi/whBqghP5Oow/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxNmfCSD6mflShX_nbkgDeCowkTg",
+        "width": 480,
+        "height": 270
       }
     ],
-    "isUpcoming":false,
-    "upcoming":null,
-    "isLive":false,
-    "badges":["Buy", "CC"],
-    "author":null,
-    "description":"Connie has a really clear vision for her future. Steven wants to make sure he'll be a part of it.",
-    "views":null,
-    "duration":"11:20",
-    "uploadedAt":"Mar 14, 2020"
+    "isUpcoming": false,
+    "upcoming": null,
+    "isLive": false,
+    "badges": [
+      "Buy",
+      "CC"
+    ],
+    "author": null,
+    "description": "Connie has a really clear vision for her future. Steven wants to make sure he'll be a part of it.",
+    "views": null,
+    "duration": "11:20",
+    "uploadedAt": "Mar 14, 2020"
   },
-  "raw":{
+  "raw": {
     "videoRenderer": {
       "videoId": "whBqghP5Oow",
       "thumbnail": {

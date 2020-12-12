@@ -1,7 +1,7 @@
 {
   "specialities": "with director / actor",
   "throws": null,
-  "type":"movieRenderer",
+  "type": "movieRenderer",
   "parsed": {
     "type": "movie",
     "title": "Mulan",
