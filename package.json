@@ -1,6 +1,6 @@
 {
   "name": "ytsr",
-  "version": "2.0.0-alpha.4",
+  "version": "2.0.0",
   "description": "Do anonymous YouTube search requests.",
   "keywords": [
     "youtube",
