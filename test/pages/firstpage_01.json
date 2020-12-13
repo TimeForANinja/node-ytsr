@@ -1,0 +1,16 @@
+{
+  "originalQuery": "testing",
+  "correctedQuery": "testing",
+  "results": 322671961,
+  "activeFilters": [
+    {
+      "name": "Relevance",
+      "active": true,
+      "description": "Sort by relevance",
+      "url": null
+    }
+  ],
+  "refinements": 13,
+  "items": 15,
+  "continuation": null
+}

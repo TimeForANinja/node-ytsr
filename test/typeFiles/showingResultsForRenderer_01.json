@@ -1,0 +1,61 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "showingResultsForRenderer",
+  "parsed": null,
+  "raw": {
+    "showingResultsForRenderer": {
+      "runs": [
+        {
+          "text": "Showing results for"
+        }
+      ]
+    },
+    "correctedQuery": {
+      "runs": [
+        {
+          "text": "vorwerk",
+          "italics": true
+        }
+      ]
+    },
+    "correctedQueryEndpoint": {
+      "clickTrackingParams": "CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs=",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "url": "/results?search_query=vorwerk",
+          "webPageType": "WEB_PAGE_TYPE_SEARCH",
+          "rootVe": 4724
+        }
+      },
+      "searchEndpoint": {
+        "query": "vorwerk"
+      }
+    },
+    "searchInsteadFor": {
+      "runs": [
+        {
+          "text": "Search instead for"
+        }
+      ]
+    },
+    "originalQuery": {
+      "simpleText": "vorwerkt"
+    },
+    "originalQueryEndpoint": {
+      "clickTrackingParams": "CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs=",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "url": "/results?search_query=vorwerkt&sp=QgIIAQ%253D%253D",
+          "webPageType": "WEB_PAGE_TYPE_SEARCH",
+          "rootVe": 4724
+        }
+      },
+      "searchEndpoint": {
+        "query": "vorwerkt",
+        "params": "QgIIAQ%3D%3D"
+      }
+    },
+    "trackingParams": "CIgCEPAwGAAiEwjE1aKH3drsAhXLjHwKHYrABvs="
+  }
+}

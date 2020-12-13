@@ -1,0 +1,11 @@
+{
+  "specialities": "throws unknown error",
+  "throws": "type someUnknownType is not known",
+  "type": "someUnknownType",
+  "parsed": null,
+  "raw": {
+    "someUnknownType": {
+      "unknown": "information"
+    }
+  }
+}

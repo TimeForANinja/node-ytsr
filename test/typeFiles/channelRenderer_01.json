@@ -1,0 +1,168 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "channelRenderer",
+  "parsed": {
+    "type": "channel",
+    "name": "SAVE YHTYE",
+    "channelID": "UCMUnMdqXX73Z9kxC8TGdv1Q",
+    "url": "https://www.youtube.com/channel/UCMUnMdqXX73Z9kxC8TGdv1Q",
+    "bestAvatar": {
+      "url": "//yt3.ggpht.com/a/AATXAJycBw-9AgWs0K0lPLbRGsvxP0B19Yas62709tw-aw=s176-c-k-c0x00ffffff-no-rj-mo",
+      "width": 176,
+      "height": 176
+    },
+    "avatars": [
+      {
+        "url": "//yt3.ggpht.com/a/AATXAJycBw-9AgWs0K0lPLbRGsvxP0B19Yas62709tw-aw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "url": "//yt3.ggpht.com/a/AATXAJycBw-9AgWs0K0lPLbRGsvxP0B19Yas62709tw-aw=s88-c-k-c0x00ffffff-no-rj-mo",
+        "width": 88,
+        "height": 88
+      }
+    ],
+    "verified": false,
+    "subscribers": 545,
+    "descriptionShort": null,
+    "videos": 8
+  },
+  "raw": {
+    "channelRenderer": {
+      "channelId": "UCMUnMdqXX73Z9kxC8TGdv1Q",
+      "title": {
+        "simpleText": "SAVE YHTYE"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CIgBENowGAwiEwiv-6qtwtrsAhWlEYkKHTeCCYo=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/channel/UCMUnMdqXX73Z9kxC8TGdv1Q",
+            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+            "rootVe": 3611
+          }
+        },
+        "browseEndpoint": {
+          "browseId": "UCMUnMdqXX73Z9kxC8TGdv1Q",
+          "canonicalBaseUrl": "/channel/UCMUnMdqXX73Z9kxC8TGdv1Q"
+        }
+      },
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "//yt3.ggpht.com/a/AATXAJycBw-9AgWs0K0lPLbRGsvxP0B19Yas62709tw-aw=s88-c-k-c0x00ffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          {
+            "url": "//yt3.ggpht.com/a/AATXAJycBw-9AgWs0K0lPLbRGsvxP0B19Yas62709tw-aw=s176-c-k-c0x00ffffff-no-rj-mo",
+            "width": 176,
+            "height": 176
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "SAVE YHTYE",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIgBENowGAwiEwiv-6qtwtrsAhWlEYkKHTeCCYo=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCMUnMdqXX73Z9kxC8TGdv1Q",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCMUnMdqXX73Z9kxC8TGdv1Q",
+                "canonicalBaseUrl": "/channel/UCMUnMdqXX73Z9kxC8TGdv1Q"
+              }
+            }
+          }
+        ]
+      },
+      "videoCountText": {
+        "runs": [
+          {
+            "text": "8"
+          },
+          {
+            "text": " videos"
+          }
+        ]
+      },
+      "subscriptionButton": {
+        "subscribed": false
+      },
+      "subscriberCountText": {
+        "simpleText": "545 subscribers"
+      },
+      "subscribeButton": {
+        "buttonRenderer": {
+          "style": "STYLE_DESTRUCTIVE",
+          "size": "SIZE_DEFAULT",
+          "isDisabled": false,
+          "text": {
+            "runs": [
+              {
+                "text": "Subscribe"
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CIkBEPBbIhMIr_uqrcLa7AIVpRGJCh03ggmK",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DSAVE%252BSoihduksi%252BPime%2525C3%2525A4%2525C3%2525A4n%252Baudio%26continue_action%3DQUFFLUhqa3ZkVS1pWjFIaHJHX2RBTzRqaUJCakp1OUZ4Z3xBQ3Jtc0trSGVJRW12Y1NVdFkyQ25oZmJ5cnNGeV9UZ2wtcllxTzdkRkRSMmdVdW1LMmdPaFdSWWJTT09QYlRfMU1xUzRPSWZ6Z2NvaTlzY3hvcGdNbktLTFBfSWJDNWFlOHFGNHdXek5lZV9YQVBMT2dQNFg3QmtiNWVrRnhCRi1tN1lXeGctMjFHNDdqNkpVNnNfVkZ3b2dWUzZjQk9nWWJrWnVFSnRSS3Q4V3M0cEtrY0VBRUowVXdDLVFrRVg3NlVhdW1vTE5nSVU2TVo0NEZNa3JXQlF6eElLNEhNQThR&hl=en",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "signInEndpoint": {
+              "nextEndpoint": {
+                "clickTrackingParams": "CIkBEPBbIhMIr_uqrcLa7AIVpRGJCh03ggmK",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/results?search_query=SAVE+Soihduksi+Pime%C3%A4%C3%A4n+audio",
+                    "webPageType": "WEB_PAGE_TYPE_SEARCH",
+                    "rootVe": 4724
+                  }
+                },
+                "searchEndpoint": {
+                  "query": "SAVE Soihduksi Pimeään audio"
+                }
+              },
+              "continueAction": "QUFFLUhqa3ZkVS1pWjFIaHJHX2RBTzRqaUJCakp1OUZ4Z3xBQ3Jtc0trSGVJRW12Y1NVdFkyQ25oZmJ5cnNGeV9UZ2wtcllxTzdkRkRSMmdVdW1LMmdPaFdSWWJTT09QYlRfMU1xUzRPSWZ6Z2NvaTlzY3hvcGdNbktLTFBfSWJDNWFlOHFGNHdXek5lZV9YQVBMT2dQNFg3QmtiNWVrRnhCRi1tN1lXeGctMjFHNDdqNkpVNnNfVkZ3b2dWUzZjQk9nWWJrWnVFSnRSS3Q4V3M0cEtrY0VBRUowVXdDLVFrRVg3NlVhdW1vTE5nSVU2TVo0NEZNa3JXQlF6eElLNEhNQThR"
+            }
+          },
+          "trackingParams": "CIkBEPBbIhMIr_uqrcLa7AIVpRGJCh03ggmK"
+        }
+      },
+      "trackingParams": "CIgBENowGAwiEwiv-6qtwtrsAhWlEYkKHTeCCYo=",
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "SAVE YHTYE",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIgBENowGAwiEwiv-6qtwtrsAhWlEYkKHTeCCYo=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCMUnMdqXX73Z9kxC8TGdv1Q",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCMUnMdqXX73Z9kxC8TGdv1Q",
+                "canonicalBaseUrl": "/channel/UCMUnMdqXX73Z9kxC8TGdv1Q"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -5,8 +5,6 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/timeforaninja/node-ytsr/badge.svg)](https://snyk.io/test/github/timeforaninja/node-ytsr)
 [![Discord](https://img.shields.io/discord/484464227067887645.svg)](https://discord.gg/V3vSCs7)
 
-[![NPM info](https://nodei.co/npm/ytsr.png?downloads=true&stars=true)](https://nodei.co/npm/ytsr/)
-
 Simple js only module to search YouTube
 Doesn't need any login or GoogleAPI key
 
@@ -18,19 +16,8 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 ```js
 const ytsr = require('ytsr');
 
-ytsr.getFilters('github').then(async (filters1) => {
-  const filter1 = filters1.get('Type').find(o => o.name === 'Video');
-  const filters2 = await ytsr.getFilters(filter1.ref);
-  const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
-  const options = {
-    limit: 5,
-    nextpageRef: filter2.ref,
-  }
-  const searchResults = await ytsr(null, options);
-  dosth(searchResults);
-}).catch(err => {
-  console.error(err);
-});
+const searchResults = await ytsr('github');
+dosth(searchResults);
 ```
 
 
@@ -40,30 +27,66 @@ ytsr.getFilters('github').then(async (filters1) => {
 Searches for the given string
 
 * `searchString`
-    * string to search for
+    * search string or link (from getFilters) to search from
 * `options`
     * object with options
     * possible settings:
+    * gl[String] -> 2-Digit Code of a Country, defaults to `US` - Allows for localisation of the request
+    * hl[String] -> 2-Digit Code for a Language, defaults to `en` - Allows for localisation of the request
     * safeSearch[Boolean] -> pull items in youtube restriction mode.
     * limit[integer] -> limits the pulled items, defaults to 100, set to Infinity to get the whole playlist - numbers <1 result in the default being used
-    * nextpageRef[String] -> if u wanna continue a previous search or use filters
-    * All additional parameters will get passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
+    * pages[Number] -> limits the pulled pages, pages contain 100 items, set to Infinity to get the whole playlist - numbers <1 result in the default limit being used - overwrites limit
+    * requestOptions[Object] -> Additional parameters to passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
+
 * returns a Promise
-* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output)
+* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_search_output.txt)
 
 
 ### ytsr.getFilters(searchString, options)
 
-Pulls avaible filters for the given string/ref
+Pulls avaible filters for the given string or link
+
+#### Usage
+
+```js
+const ytsr = require('ytsr');
+
+const filters1 = await ytsr.getFilters('github');
+const filter1 = filters1.get('Type').get('Video');
+const filters2 = await ytsr.getFilters(filter1.url);
+const filter2 = filters2.get('Duration').get('Short');
+const options = {
+  pages: 2,
+}
+const searchResults = await ytsr(filter2.url, options);
+dosth(searchResults);
+```
 
 * `searchString`
     * string to search for
     * or previously optained filter ref
 * `options`
-    * request options passed to miniget
+    * gl[String] -> 2-Digit Code of a Country, defaults to `US` - Allows for localisation of the request
+    * hl[String] -> 2-Digit Code for a Language, defaults to `en` - Allows for localisation of the request
+    * requestOptions[Object] -> Additional parameters to passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
 * returns a Promise
-* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output)
+* [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output.txt)
 
+### ytpl.continueReq(continuationData)
+Continues a previous request by pulling yet another page.  
+The previous request had to be done using `pages` limitation.
+
+#### Usage
+```js
+var ytsr = require('ytsr');
+
+const search = await ytsr('github', { pages: 1 });
+display(search.items);
+const r2 = ytsr.continueReq(playlist.continuation);
+display(r2.items);
+const r3 = ytsr.continueReq(r2.continuation);
+display(r3.items);
+```
 
 # Related / Works well with
 
@@ -74,7 +97,6 @@ Pulls avaible filters for the given string/ref
 # Install
 
     npm install --save ytsr
-
 
 # License
 MIT

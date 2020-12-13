@@ -1,0 +1,303 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "searchPyvRenderer",
+  "parsed": null,
+  "raw": {
+    "searchPyvRenderer": {
+      "ads": [
+        {
+          "promotedVideoRenderer": {
+            "videoId": "WEyCqF21pyg",
+            "thumbnail": {
+              "thumbnails": [
+                {
+                  "url": "//i1.ytimg.com/vi/WEyCqF21pyg/0.jpg",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            "title": {
+              "simpleText": "Miksi denssi on suosittua Suomessa?"
+            },
+            "description": {
+              "simpleText": "Käytiin kyselemässä Ruotsissa paljonko siellä käytetään denssiä."
+            },
+            "longBylineText": {
+              "runs": [
+                {
+                  "text": "BuenoTalk",
+                  "navigationEndpoint": {
+                    "clickTrackingParams": "CLEBELM3GAAiEwi-weuTxdrsAhXFNZsKHcJWBNk=",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "/channel/UCtihlDqaBtTsHLLw2WZUm5w",
+                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                        "rootVe": 3611
+                      }
+                    },
+                    "browseEndpoint": {
+                      "browseId": "UCtihlDqaBtTsHLLw2WZUm5w"
+                    }
+                  }
+                }
+              ]
+            },
+            "shortBylineText": {
+              "runs": [
+                {
+                  "text": "BuenoTalk",
+                  "navigationEndpoint": {
+                    "clickTrackingParams": "CLEBELM3GAAiEwi-weuTxdrsAhXFNZsKHcJWBNk=",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "/channel/UCtihlDqaBtTsHLLw2WZUm5w",
+                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                        "rootVe": 3611
+                      }
+                    },
+                    "browseEndpoint": {
+                      "browseId": "UCtihlDqaBtTsHLLw2WZUm5w"
+                    }
+                  }
+                }
+              ]
+            },
+            "lengthText": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "4 minutes, 51 seconds"
+                }
+              },
+              "simpleText": "4:51"
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CLEBELM3GAAiEwi-weuTxdrsAhXFNZsKHcJWBNk=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpnrQfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBJECT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV31gLQNWP2nWCg7AfjRMmQaXLtdv7eL2FkgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gH1c4bqAeBxhuoB5jOG6gHq8UbqAfezhuoB7_VG6gHwtobkggLV0V5Q3FGMjFweWfSCAcIgMGAEBABsQk-O1jb5TcgDMgJF5gLAboLGwgDEAMYBiAGKAEwBUABSABYC2AAaABwAYgBANALE7gT____________AbAUA8AVgYCAQNgVAQ&num=1&cid=CAASFeRoSeRL_G12_BTn8QCdA2al4gJGsg&sig=AOD64_2mTPA9q6xDfTqcX1qjOaJD8FY0ng&adurl=http://www.youtube.com/watch%3Fv%3DWEyCqF21pyg&ctype=21&video_id=WEyCqF21pyg&client=ca-pub-6219811747049371",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "urlEndpoint": {
+                "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpnrQfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBJECT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV31gLQNWP2nWCg7AfjRMmQaXLtdv7eL2FkgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gH1c4bqAeBxhuoB5jOG6gHq8UbqAfezhuoB7_VG6gHwtobkggLV0V5Q3FGMjFweWfSCAcIgMGAEBABsQk-O1jb5TcgDMgJF5gLAboLGwgDEAMYBiAGKAEwBUABSABYC2AAaABwAYgBANALE7gT____________AbAUA8AVgYCAQNgVAQ&num=1&cid=CAASFeRoSeRL_G12_BTn8QCdA2al4gJGsg&sig=AOD64_2mTPA9q6xDfTqcX1qjOaJD8FY0ng&adurl=http://www.youtube.com/watch%3Fv%3DWEyCqF21pyg&ctype=21&video_id=WEyCqF21pyg&client=ca-pub-6219811747049371"
+              }
+            },
+            "impressionUrls": [
+              "https://www.youtube.com/pagead/adview?ai=CQCisfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBI4CT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV3wAK5I-X5qWfEQSsY1iLr7RkIJFekgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gHgcYbqAeYzhuoB6vFG6gH49kb0ggHCIDBgBAQAcgJF7oLGwgDEAMYBiAGKAEwBUABSABYC2AAaABwAYgBALgT____________AbAUA8AVgYCAQA&sigh=MAlLK3kC33Q&cid=CAASFeRoSeRL_G12_BTn8QCdA2al4gJGsg"
+            ],
+            "trackingParams": "CLEBELM3GAAiEwi-weuTxdrsAhXFNZsKHcJWBNk=",
+            "menu": {
+              "menuRenderer": {
+                "items": [
+                  {
+                    "menuNavigationItemRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Why this ad?"
+                          }
+                        ]
+                      },
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CLEBELM3GAAiEwi-weuTxdrsAhXFNZsKHcJWBNk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "ignoreNavigation": true
+                          }
+                        },
+                        "adInfoDialogEndpoint": {
+                          "dialog": {
+                            "adInfoDialogRenderer": {
+                              "dialogMessage": {
+                                "runs": [
+                                  {
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "text": "Report this ad",
+                                    "navigationEndpoint": {
+                                      "clickTrackingParams": "CLMBEPWrAiITCL7B65PF2uwCFcU1mwodwlYE2Q==",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "url": "https://support.google.com/google-ads/troubleshooter/4578507?ai=CQCisfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBI4CT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV3wAK5I-X5qWfEQSsY1iLr7RkIJFekgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gHgcYbqAeYzhuoB6vFG6gH49kb0ggHCIDBgBAQAcgJF7oLGwgDEAMYBiAGKAEwBUABSABYC2AAaABwAYgBALgT____________AbAUA8AVgYCAQA",
+                                          "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                          "rootVe": 83769
+                                        }
+                                      },
+                                      "urlEndpoint": {
+                                        "url": "https://support.google.com/google-ads/troubleshooter/4578507?ai=CQCisfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBI4CT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV3wAK5I-X5qWfEQSsY1iLr7RkIJFekgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gHgcYbqAeYzhuoB6vFG6gH49kb0ggHCIDBgBAQAcgJF7oLGwgDEAMYBiAGKAEwBUABSABYC2AAaABwAYgBALgT____________AbAUA8AVgYCAQA",
+                                        "target": "TARGET_NEW_WINDOW"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "text": "\n\n"
+                                  },
+                                  {
+                                    "text": "Visit Google's "
+                                  },
+                                  {
+                                    "text": "Ad Settings",
+                                    "navigationEndpoint": {
+                                      "clickTrackingParams": "CLMBEPWrAiITCL7B65PF2uwCFcU1mwodwlYE2Q==",
+                                      "loggingUrls": [
+                                        {
+                                          "baseUrl": "https://www.youtube.com/pagead/conversion/?ai=CebBsfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBI4CT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV3wAK5I-X5qWfEQSsY1iLr7RkIJFekgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gHgcYbqAeYzhuoB-PZG9IIBwiAwYAQEAHICRe6CxsIAxADGAYgBigBMAVAAUgAWAtgAGgAcAGIAQC4E____________wGwFAPAFYGAgEA&sigh=WAvy5sonoCk&cid=CAASEeRoSRqBG9wasm3dz0eDFkGD&label=whythisad_adsettings_click"
+                                        }
+                                      ],
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "url": "https://adssettings.google.com/",
+                                          "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                          "rootVe": 83769
+                                        }
+                                      },
+                                      "urlEndpoint": {
+                                        "url": "https://adssettings.google.com",
+                                        "target": "TARGET_NEW_WINDOW"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "text": " to learn more about how ads are targeted or to opt out of personalized ads."
+                                  }
+                                ]
+                              },
+                              "confirmLabel": {
+                                "simpleText": "CLOSE"
+                              },
+                              "confirmServiceEndpoint": {
+                                "clickTrackingParams": "CLMBEPWrAiITCL7B65PF2uwCFcU1mwodwlYE2Q==",
+                                "loggingUrls": [
+                                  {
+                                    "baseUrl": "https://www.youtube.com/pagead/conversion/?ai=CebBsfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBI4CT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV3wAK5I-X5qWfEQSsY1iLr7RkIJFekgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gHgcYbqAeYzhuoB-PZG9IIBwiAwYAQEAHICRe6CxsIAxADGAYgBigBMAVAAUgAWAtgAGgAcAGIAQC4E____________wGwFAPAFYGAgEA&sigh=WAvy5sonoCk&cid=CAASEeRoSRqBG9wasm3dz0eDFkGD&label=whythisad_closed"
+                                  }
+                                ],
+                                "pingingEndpoint": {
+                                  "hack": true
+                                }
+                              },
+                              "trackingParams": "CLMBEPWrAiITCL7B65PF2uwCFcU1mwodwlYE2Q==",
+                              "title": {
+                                "simpleText": "This ad is based on:"
+                              },
+                              "adReasons": [
+                                {
+                                  "simpleText": "The time of day, the website you were viewing or your general location (for example country or city)."
+                                }
+                              ],
+                              "impressionEndpoints": [
+                                {
+                                  "clickTrackingParams": "CLMBEPWrAiITCL7B65PF2uwCFcU1mwodwlYE2Q==",
+                                  "loggingUrls": [
+                                    {
+                                      "baseUrl": "https://www.youtube.com/pagead/conversion/?ai=CebBsfhibX4DOCYHPygW9souwBYHT9dhfoZ_EktkMZBABIABg9wGCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MakCfNmulT-Psz6oAwSqBI4CT9BIo-68dAv5EORclz0vjBy2fJSXQhXTZYKwA_j84pdl_R9XW8Xy7mM-pdYC5YYMrL87g0oZYgdJJe_gqWVzONFSKaPbAK9ICoaWiPFInDlW1Bvnw1gncDBD6fS7fPXeSrPt6dd4dgXGVsaMiq3aBoShEEHd3SQT4RlxLoxMXYSRi9crn-Ier4lGBptFWfZOHK1X3QEXHWoWnB0bT-K4-y9lONM1B8-a3Jg1ZDcvnnlJnwkiG_Dr8P6RCgCldpD90r_4I6Y5tbgPDMVPK5sNYKGQdaK5JbCjOuTESUSPKtVrSeZhB9FqV1p9Rz1RXFEePNIe2H0fNBaV3wAK5I-X5qWfEQSsY1iLr7RkIJFekgUMCBIwqM7W7YXVoKZYkgUHCBN4nObla6AGVYAHtM7Ga5AHBKgHqNIbqAe2B6gH4M8bqAfp1BuoB7bXG6gHjM0bqAex3BuoB_DZG6gHgcYbqAeYzhuoB-PZG9IIBwiAwYAQEAHICRe6CxsIAxADGAYgBigBMAVAAUgAWAtgAGgAcAGIAQC4E____________wGwFAPAFYGAgEA&sigh=WAvy5sonoCk&cid=CAASEeRoSRqBG9wasm3dz0eDFkGD&label=closebutton_whythisad_click"
+                                    }
+                                  ],
+                                  "pingingEndpoint": {
+                                    "hack": true
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "trackingParams": "CLEBELM3GAAiEwi-weuTxdrsAhXFNZsKHcJWBNk="
+                    }
+                  }
+                ],
+                "trackingParams": "CLEBELM3GAAiEwi-weuTxdrsAhXFNZsKHcJWBNk="
+              }
+            },
+            "viewCountText": {
+              "simpleText": "18K views"
+            },
+            "thumbnailOverlays": [
+              {
+                "thumbnailOverlayTimeStatusRenderer": {
+                  "text": {
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "4 minutes, 51 seconds"
+                      }
+                    },
+                    "simpleText": "4:51"
+                  },
+                  "style": "DEFAULT"
+                }
+              },
+              {
+                "thumbnailOverlayToggleButtonRenderer": {
+                  "isToggled": false,
+                  "untoggledIcon": {
+                    "iconType": "WATCH_LATER"
+                  },
+                  "toggledIcon": {
+                    "iconType": "CHECK"
+                  },
+                  "untoggledTooltip": "Watch later",
+                  "toggledTooltip": "Added",
+                  "untoggledServiceEndpoint": {
+                    "clickTrackingParams": "CLIBEPnnAxgBIhMIvsHrk8Xa7AIVxTWbCh3CVgTZ",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "/service_ajax",
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                      }
+                    },
+                    "playlistEditEndpoint": {
+                      "playlistId": "WL",
+                      "actions": [
+                        {
+                          "addedVideoId": "WEyCqF21pyg",
+                          "action": "ACTION_ADD_VIDEO"
+                        }
+                      ]
+                    }
+                  },
+                  "toggledServiceEndpoint": {
+                    "clickTrackingParams": "CLIBEPnnAxgBIhMIvsHrk8Xa7AIVxTWbCh3CVgTZ",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "/service_ajax",
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                      }
+                    },
+                    "playlistEditEndpoint": {
+                      "playlistId": "WL",
+                      "actions": [
+                        {
+                          "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                          "removedVideoId": "WEyCqF21pyg"
+                        }
+                      ]
+                    }
+                  },
+                  "untoggledAccessibility": {
+                    "accessibilityData": {
+                      "label": "Watch later"
+                    }
+                  },
+                  "toggledAccessibility": {
+                    "accessibilityData": {
+                      "label": "Added"
+                    }
+                  },
+                  "trackingParams": "CLIBEPnnAxgBIhMIvsHrk8Xa7AIVxTWbCh3CVgTZ"
+                }
+              }
+            ],
+            "adPlaybackContextParams": "CA8QBkIWZmhpYlg0RE9DWUhQeWdXOXNvdXdCUQ%3D%3D"
+          }
+        }
+      ],
+      "trackingParams": "CLABEJMmGAAiEwi-weuTxdrsAhXFNZsKHcJWBNk="
+    }
+  }
+}

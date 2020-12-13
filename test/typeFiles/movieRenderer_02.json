@@ -1,0 +1,438 @@
+{
+  "specialities": "with director / actor",
+  "throws": null,
+  "type": "movieRenderer",
+  "parsed": {
+    "type": "movie",
+    "title": "Mulan",
+    "videoID": "NPwLeuh2GGQ",
+    "url": "https://www.youtube.com/watch?v=NPwLeuh2GGQ",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/NPwLeuh2GGQ/movieposter_en.jpg",
+      "width": 279,
+      "height": 402
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/NPwLeuh2GGQ/movieposter_en.jpg",
+        "width": 279,
+        "height": 402
+      }
+    ],
+    "author": {
+      "name": "YouTube Movies",
+      "channelID": "UClgRkhTL3_hImCAmdLfDE4g",
+      "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g",
+      "ownerBadges": [
+        "Verified"
+      ],
+      "verified": true
+    },
+    "description": "Acclaimed filmmaker Niki Caro brings the epic tale of China's legendary warrior to life in Disney's MULAN, in which a fearless ...",
+    "meta": [
+      "Action & Adventure",
+      "2020",
+      "FSK 12",
+      "English audio (and 9 more)"
+    ],
+    "actors": [
+      "Yifei Liu",
+      "Donnie Yen",
+      "Gong Li"
+    ],
+    "directors": [
+      "Niki Caro"
+    ],
+    "duration": "1:55:11"
+  },
+  "raw": {
+    "movieRenderer": {
+      "videoId": "NPwLeuh2GGQ",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/NPwLeuh2GGQ/movieposter_en.jpg",
+            "width": 279,
+            "height": 402
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "Mulan"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Mulan by YouTube Movies 1 hour, 55 minutes"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "Acclaimed filmmaker Niki Caro brings the epic tale of China's legendary warrior to life in Disney's "
+          },
+          {
+            "text": "MULAN",
+            "bold": true
+          },
+          {
+            "text": ", in which a fearless ..."
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Movies",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNkBEIszGAUiEwjgxpb3-cXtAhUVjnwKHV7_CeU=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UClgRkhTL3_hImCAmdLfDE4g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UClgRkhTL3_hImCAmdLfDE4g"
+              }
+            }
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Movies",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNkBEIszGAUiEwjgxpb3-cXtAhUVjnwKHV7_CeU=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UClgRkhTL3_hImCAmdLfDE4g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UClgRkhTL3_hImCAmdLfDE4g"
+              }
+            }
+          }
+        ]
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 hour, 55 minutes, 11 seconds"
+          }
+        },
+        "simpleText": "1:55:11"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CNkBEIszGAUiEwjgxpb3-cXtAhUVjnwKHV7_CeUyBnNlYXJjaFIFTXVsYW6aAQMQ9CQ=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=NPwLeuh2GGQ",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "NPwLeuh2GGQ"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "CC",
+            "trackingParams": "CNkBEIszGAUiEwjgxpb3-cXtAhUVjnwKHV7_CeU=",
+            "accessibilityData": {
+              "label": "Closed captions"
+            }
+          }
+        }
+      ],
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED",
+            "tooltip": "Verified",
+            "trackingParams": "CNkBEIszGAUiEwjgxpb3-cXtAhUVjnwKHV7_CeU="
+          }
+        }
+      ],
+      "trackingParams": "CNkBEIszGAUiEwjgxpb3-cXtAhUVjnwKHV7_CeU=",
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CN0BEP6YBBgGIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CN0BEP6YBBgGIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "NPwLeuh2GGQ",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CN0BEP6YBBgGIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "NPwLeuh2GGQ"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "NPwLeuh2GGQ"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CN0BEP6YBBgGIhMI4MaW9_nF7QIVFY58Ch1e_wnl"
+              }
+            }
+          ],
+          "trackingParams": "CNkBEIszGAUiEwjgxpb3-cXtAhUVjnwKHV7_CeU=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "topMetadataItems": [
+        {
+          "simpleText": "Action & Adventure · 2020 · FSK 12 · English audio (and 9 more)"
+        }
+      ],
+      "bottomMetadataItems": [
+        {
+          "simpleText": "Actors: Yifei Liu, Donnie Yen, Gong Li"
+        },
+        {
+          "simpleText": "Director: Niki Caro"
+        }
+      ],
+      "useVerticalPoster": true,
+      "offerButton": {
+        "buttonRenderer": {
+          "style": "STYLE_PRIMARY",
+          "size": "SIZE_LARGE",
+          "text": {
+            "simpleText": "Buy"
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CNwBEPBbIhMI4MaW9_nF7QIVFY58Ch1e_wnlMg95cGNfdHJhbnNhY3Rpb24=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fgl%253DUS%2526hl%253Den%2526search_query%253DMulan%2526ypc_goe%253DAIhNbf5hnECaV1p9cuWsRu5CjgdwCzh9DXJyy699-AWj1naEiiuf1mNAXiqZsP_xGm7lLJLBkZTM7Rq46E4-VHQqpXX0NYY6PIUrVs1Er5e5tuX1G5ZJvVk&hl=en",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "signInEndpoint": {
+              "nextEndpoint": {
+                "clickTrackingParams": "CNwBEPBbIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://www.youtube.com/results?gl=US&hl=en&search_query=Mulan&ypc_goe=AIhNbf5hnECaV1p9cuWsRu5CjgdwCzh9DXJyy699-AWj1naEiiuf1mNAXiqZsP_xGm7lLJLBkZTM7Rq46E4-VHQqpXX0NYY6PIUrVs1Er5e5tuX1G5ZJvVk",
+                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https://www.youtube.com/results?gl=US&hl=en&search_query=Mulan&ypc_goe=AIhNbf5hnECaV1p9cuWsRu5CjgdwCzh9DXJyy699-AWj1naEiiuf1mNAXiqZsP_xGm7lLJLBkZTM7Rq46E4-VHQqpXX0NYY6PIUrVs1Er5e5tuX1G5ZJvVk"
+                }
+              }
+            }
+          },
+          "trackingParams": "CNwBEPBbIhMI4MaW9_nF7QIVFY58Ch1e_wnl"
+        }
+      },
+      "showActionMenu": false,
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "1 hour, 55 minutes, 11 seconds"
+                }
+              },
+              "simpleText": "1:55:11"
+            },
+            "style": "DEFAULT"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CNsBEPnnAxgDIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "NPwLeuh2GGQ",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CNsBEPnnAxgDIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "NPwLeuh2GGQ"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CNsBEPnnAxgDIhMI4MaW9_nF7QIVFY58Ch1e_wnl"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CNoBEMfsBBgEIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CNoBEMfsBBgEIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "NPwLeuh2GGQ",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CNoBEMfsBBgEIhMI4MaW9_nF7QIVFY58Ch1e_wnl",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "NPwLeuh2GGQ"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "NPwLeuh2GGQ"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CNoBEMfsBBgEIhMI4MaW9_nF7QIVFY58Ch1e_wnl"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

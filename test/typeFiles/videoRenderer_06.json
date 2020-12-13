@@ -1,0 +1,474 @@
+{
+  "specialities": "premiere / upcoming",
+  "throws": null,
+  "type": "videoRenderer",
+  "parsed": {
+    "type": "video",
+    "title": "[OFFICIAL VIDEO] Thank You - Pentatonix",
+    "id": "D1IeDyG-pgM",
+    "url": "https://www.youtube.com/watch?v=D1IeDyG-pgM",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/D1IeDyG-pgM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWJbyPqM2zloYyNYq6e3dcwwBB0w",
+      "width": 720,
+      "height": 404
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/D1IeDyG-pgM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWJbyPqM2zloYyNYq6e3dcwwBB0w",
+        "width": 720,
+        "height": 404
+      },
+      {
+        "url": "https://i.ytimg.com/vi/D1IeDyG-pgM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtaSfquUzucxFrS3hhlNukL-kmsA",
+        "width": 360,
+        "height": 202
+      }
+    ],
+    "isUpcoming": true,
+    "upcoming": 1606323600000,
+    "isLive": false,
+    "badges": [
+      "New"
+    ],
+    "author": {
+      "name": "PTXofficial",
+      "channelID": "UCmv1CLT6ZcFdTJMHxaR9XeA",
+      "url": "https://www.youtube.com/channel/UCmv1CLT6ZcFdTJMHxaR9XeA",
+      "bestAvatar": {
+        "url": "https://yt3.ggpht.com/a-/AOh14GgFSr-yxBgNlmnA9AlaSHI09K1M1Lenjk-j=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      },
+      "avatars": [
+        {
+          "url": "https://yt3.ggpht.com/a-/AOh14GgFSr-yxBgNlmnA9AlaSHI09K1M1Lenjk-j=s68-c-k-c0x00ffffff-no-rj-mo",
+          "width": 68,
+          "height": 68
+        }
+      ],
+      "ownerBadges": [
+        "Official Artist Channel"
+      ],
+      "verified": true
+    },
+    "description": "NEW CHRISTMAS ALBUM “WE NEED A LITTLE CHRISTMAS”, AVAILABLE NOW. BUY/STREAM https://smarturl.it/PTXWNALXMAS \"THE LUCKY ONES\" THE NEW ORIGINAL ALBUM WITH ...",
+    "views": null,
+    "duration": "4:12",
+    "uploadedAt": null
+  },
+  "raw": {
+    "videoRenderer": {
+      "videoId": "D1IeDyG-pgM",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/D1IeDyG-pgM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtaSfquUzucxFrS3hhlNukL-kmsA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/D1IeDyG-pgM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWJbyPqM2zloYyNYq6e3dcwwBB0w",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "[OFFICIAL VIDEO] Thank You - Pentatonix"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "[OFFICIAL VIDEO] Thank You - Pentatonix by PTXofficial 4 minutes, 12 seconds 821 views"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "NEW CHRISTMAS ALBUM “WE NEED A LITTLE CHRISTMAS”, AVAILABLE NOW. BUY/STREAM https://smarturl.it/PTXWNALXMAS \"THE LUCKY ONES\" THE NEW ORIGINAL ALBUM WITH ..."
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "PTXofficial",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEU=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCmv1CLT6ZcFdTJMHxaR9XeA",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCmv1CLT6ZcFdTJMHxaR9XeA",
+                "canonicalBaseUrl": "/channel/UCmv1CLT6ZcFdTJMHxaR9XeA"
+              }
+            }
+          }
+        ]
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "4 minutes, 12 seconds"
+          }
+        },
+        "simpleText": "4:12"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEUyBnNlYXJjaFIWVGhhbmsgeW91IC0gUGVudGF0b25peJoBAxD0JA==",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=D1IeDyG-pgM",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "D1IeDyG-pgM",
+          "params": "qgMWVGhhbmsgeW91IC0gUGVudGF0b25peLoDCwiC9cSqsNvmkP8BugMLCLzDvqTC1LjBswG6AwsI8uXzg-e6m62rAboDCgigt8DqqN7ZukK6AwoI4f-J3emPiIxzugMKCNLXqPr7xuebTroDCgjX9uWIwd6f3Tm6AwoIiIC97vfa5_Q8ugMKCJCV-f31vpzzcroDCwioyfCSxPuY-d8BugMLCNu0oOrUkLr3kgG6AwsI_aPA2deU9bPwAboDCgjJseC1ufGQ4zm6AwoIoL_e5sTv9rJ6ugMPEg1SRF95R2Eyd1ZST29JugMKCNuH_7-p2qLGKboDCgiR2LXT9s--2Am6AwoItKTq9uTZ0p5xugMKCKy545XPp8eHXA%3D%3D"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "New",
+            "trackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEU="
+          }
+        }
+      ],
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "OFFICIAL_ARTIST_BADGE"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED_ARTIST",
+            "tooltip": "Official Artist Channel",
+            "trackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEU="
+          }
+        }
+      ],
+      "ownerText": {
+        "runs": [
+          {
+            "text": "PTXofficial",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEU=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCmv1CLT6ZcFdTJMHxaR9XeA",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCmv1CLT6ZcFdTJMHxaR9XeA",
+                "canonicalBaseUrl": "/channel/UCmv1CLT6ZcFdTJMHxaR9XeA"
+              }
+            }
+          }
+        ]
+      },
+      "upcomingEventData": {
+        "startTime": "1606323600",
+        "isReminderSet": false,
+        "upcomingEventText": {
+          "runs": [
+            {
+              "text": "Premieres "
+            },
+            {
+              "text": "DATE_PLACEHOLDER"
+            }
+          ]
+        }
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "PTXofficial",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEU=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCmv1CLT6ZcFdTJMHxaR9XeA",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCmv1CLT6ZcFdTJMHxaR9XeA",
+                "canonicalBaseUrl": "/channel/UCmv1CLT6ZcFdTJMHxaR9XeA"
+              }
+            }
+          }
+        ]
+      },
+      "trackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEVAg8z6jfLBh6kP",
+      "showActionMenu": false,
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CL4BEP6YBBgGIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/service_ajax",
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CL4BEP6YBBgGIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "D1IeDyG-pgM",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CL4BEP6YBBgGIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/service_ajax",
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "D1IeDyG-pgM"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "D1IeDyG-pgM"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CL4BEP6YBBgGIhMI5oHdtr2d7QIVRKV8Ch0YEQRF"
+              }
+            }
+          ],
+          "trackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEU=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "channelThumbnailSupportedRenderers": {
+        "channelThumbnailWithLinkRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/a-/AOh14GgFSr-yxBgNlmnA9AlaSHI09K1M1Lenjk-j=s68-c-k-c0x00ffffff-no-rj-mo",
+                "width": 68,
+                "height": 68
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CLsBENwwGAEiEwjmgd22vZ3tAhVEpXwKHRgRBEU=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCmv1CLT6ZcFdTJMHxaR9XeA",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCmv1CLT6ZcFdTJMHxaR9XeA"
+            }
+          },
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Go to channel"
+            }
+          }
+        }
+      },
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "PREMIERE"
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "PREMIERE"
+                }
+              }
+            },
+            "style": "UPCOMING"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CL0BEPnnAxgDIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "D1IeDyG-pgM",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CL0BEPnnAxgDIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "D1IeDyG-pgM"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CL0BEPnnAxgDIhMI5oHdtr2d7QIVRKV8Ch0YEQRF"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CLwBEMfsBBgEIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CLwBEMfsBBgEIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "D1IeDyG-pgM",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CLwBEMfsBBgEIhMI5oHdtr2d7QIVRKV8Ch0YEQRF",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/service_ajax",
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "D1IeDyG-pgM"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "D1IeDyG-pgM"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CLwBEMfsBBgEIhMI5oHdtr2d7QIVRKV8Ch0YEQRF"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

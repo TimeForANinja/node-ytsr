@@ -1,6 +1,8 @@
 {
   "extends": ["dtslint/dtslint.json"],
   "rules": {
+    "allow-pascal-case": false,
+    "no-empty-interface": false,
     "prefer-readonly": false,
     "await-promise": false,
     "no-for-in-array": false,

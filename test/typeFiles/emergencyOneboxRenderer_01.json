@@ -1,0 +1,74 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "emergencyOneboxRenderer",
+  "parsed": null,
+  "raw": {
+    "emergencyOneboxRenderer": {
+      "title": {
+        "simpleText": "Need help? In the United States"
+      },
+      "firstOption": {
+        "singleActionEmergencySupportRenderer": {
+          "actionText": {
+            "simpleText": "Call 1-800-273-8255"
+          },
+          "navigationText": {
+            "simpleText": "National Suicide Prevention Lifeline"
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CIkBEK5qIhMI6qCaxeLu7AIVxs4WCR3JhwMp",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "//www.youtube.com/redirect?event=&q=http%3A%2F%2Fwww.suicidepreventionlifeline.org%2F&usg=uo4JShNAAQJqdWnfYwxanQ",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "urlEndpoint": {
+              "url": "//www.youtube.com/redirect?event=&q=http%3A%2F%2Fwww.suicidepreventionlifeline.org%2F&usg=uo4JShNAAQJqdWnfYwxanQ"
+            }
+          },
+          "detailsText": {
+            "simpleText": "Free · 24/7 · Confidential · In English, Spanish"
+          },
+          "icon": {
+            "iconType": "PHONE"
+          },
+          "trackingParams": "CIkBEK5qIhMI6qCaxeLu7AIVxs4WCR3JhwMp"
+        }
+      },
+      "secondOption": {
+        "singleActionEmergencySupportRenderer": {
+          "actionText": {
+            "simpleText": "Text \"SAFE\" to 741-741"
+          },
+          "navigationText": {
+            "simpleText": "Crisis Text Line"
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CIgBEK5qIhMI6qCaxeLu7AIVxs4WCR3JhwMp",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "//www.youtube.com/redirect?event=&q=http%3A%2F%2Fwww.crisistextline.org%2F&usg=GWWeuwrnAjTCSNf94JeGwQ",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "urlEndpoint": {
+              "url": "//www.youtube.com/redirect?event=&q=http%3A%2F%2Fwww.crisistextline.org%2F&usg=GWWeuwrnAjTCSNf94JeGwQ"
+            }
+          },
+          "detailsText": {
+            "simpleText": "Free · 24/7 · Confidential"
+          },
+          "icon": {
+            "iconType": "SMS"
+          },
+          "trackingParams": "CIgBEK5qIhMI6qCaxeLu7AIVxs4WCR3JhwMp"
+        }
+      },
+      "trackingParams": "CIcBEK1qGAAiEwjqoJrF4u7sAhXGzhYJHcmHAyk="
+    }
+  }
+}

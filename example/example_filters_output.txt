@@ -1,0 +1,184 @@
+Map(5) {
+  'Upload date' => Map(5) {
+    'Last hour' => {
+      name: 'Last hour',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAQ%253D%253D',
+      description: 'Search for Last hour'
+    },
+    'Today' => {
+      name: 'Today',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAg%253D%253D',
+      description: 'Search for Today'
+    },
+    'This week' => {
+      name: 'This week',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIAw%253D%253D',
+      description: 'Search for This week'
+    },
+    'This month' => {
+      name: 'This month',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBA%253D%253D',
+      description: 'Search for This month'
+    },
+    'This year' => {
+      name: 'This year',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIIBQ%253D%253D',
+      description: 'Search for This year'
+    },
+    active: null
+  },
+  'Type' => Map(5) {
+    'Video' => {
+      name: 'Video',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAQ%253D%253D',
+      description: 'Search for Video'
+    },
+    'Channel' => {
+      name: 'Channel',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAg%253D%253D',
+      description: 'Search for Channel'
+    },
+    'Playlist' => {
+      name: 'Playlist',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQAw%253D%253D',
+      description: 'Search for Playlist'
+    },
+    'Movie' => {
+      name: 'Movie',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBA%253D%253D',
+      description: 'Search for Movie'
+    },
+    'Show' => {
+      name: 'Show',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIQBQ%253D%253D',
+      description: 'Search for Show'
+    },
+    active: null
+  },
+  'Duration' => Map(2) {
+    'Short (< 4 minutes)' => {
+      name: 'Short (< 4 minutes)',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAQ%253D%253D',
+      description: 'Search for Short (< 4 minutes)'
+    },
+    'Long (> 20 minutes)' => {
+      name: 'Long (> 20 minutes)',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIYAg%253D%253D',
+      description: 'Search for Long (> 20 minutes)'
+    },
+    active: null
+  },
+  'Features' => Map(11) {
+    'Live' => {
+      name: 'Live',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJAAQ%253D%253D',
+      description: 'Search for Live'
+    },
+    '4K' => {
+      name: '4K',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJwAQ%253D%253D',
+      description: 'Search for 4K'
+    },
+    'HD' => {
+      name: 'HD',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIgAQ%253D%253D',
+      description: 'Search for HD'
+    },
+    'Subtitles/CC' => {
+      name: 'Subtitles/CC',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIoAQ%253D%253D',
+      description: 'Search for Subtitles/CC'
+    },
+    'Creative Commons' => {
+      name: 'Creative Commons',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgIwAQ%253D%253D',
+      description: 'Search for Creative Commons'
+    },
+    '360°' => {
+      name: '360°',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJ4AQ%253D%253D',
+      description: 'Search for 360°'
+    },
+    'VR180' => {
+      name: 'VR180',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgPQAQE%253D',
+      description: 'Search for VR180'
+    },
+    '3D' => {
+      name: '3D',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgI4AQ%253D%253D',
+      description: 'Search for 3D'
+    },
+    'HDR' => {
+      name: 'HDR',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgPIAQE%253D',
+      description: 'Search for HDR'
+    },
+    'Location' => {
+      name: 'Location',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgO4AQE%253D',
+      description: 'Search for Location'
+    },
+    'Purchased' => {
+      name: 'Purchased',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=EgJIAQ%253D%253D',
+      description: 'Search for Purchased'
+    },
+    active: null
+  },
+  'Sort by' => Map(4) {
+    'Relevance' => {
+      name: 'Relevance',
+      active: true,
+      url: null,
+      description: 'Sort by relevance'
+    },
+    'Upload date' => {
+      name: 'Upload date',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAI%253D',
+      description: 'Sort by upload date'
+    },
+    'View count' => {
+      name: 'View count',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAM%253D',
+      description: 'Sort by view count'
+    },
+    'Rating' => {
+      name: 'Rating',
+      active: false,
+      url: 'https://www.youtube.com/results?search_query=NoCopyrightSounds&sp=CAE%253D',
+      description: 'Sort by rating'
+    },
+    active: {
+      name: 'Relevance',
+      active: true,
+      url: null,
+      description: 'Sort by relevance'
+    }
+  }
+}

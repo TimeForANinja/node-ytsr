@@ -1,0 +1,238 @@
+{
+  "specialities": "no videos",
+  "throws": null,
+  "type": "playlistRenderer",
+  "parsed": {
+    "type": "playlist",
+    "title": "Git and GitHub for Poets",
+    "playlistID": "PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
+    "url": "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
+    "firstVideo": null,
+    "owner": {
+      "name": "The Coding Train",
+      "channelID": "UCvjgXvBlbQiydffZU7m1_aw",
+      "url": "https://www.youtube.com/user/shiffman",
+      "ownerBadges": [
+        "Verified"
+      ],
+      "verified": true
+    },
+    "publishedAt": null,
+    "length": 11
+  },
+  "raw": {
+    "playlistRenderer": {
+      "playlistId": "PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
+      "title": {
+        "simpleText": "Git and GitHub for Poets"
+      },
+      "thumbnails": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDO7LvxB12FUAaGJnwD17jMbqlo6Q",
+              "width": 168,
+              "height": 94
+            },
+            {
+              "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAfkLTwmetXaWDqUXaW19nrq4vF3A",
+              "width": 196,
+              "height": 110
+            },
+            {
+              "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5mLIQgx-4Vc9nwgZJKPFf4eVuyQ",
+              "width": 246,
+              "height": 138
+            },
+            {
+              "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA5c3ggpjssxQUPoAkHtXnoGCKe5Q",
+              "width": 336,
+              "height": 188
+            }
+          ]
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/oPpnCh7InLY/default.jpg",
+              "width": 43,
+              "height": 20
+            }
+          ]
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/_NrSWLQsDL4/default.jpg",
+              "width": 43,
+              "height": 20
+            }
+          ]
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/WMykv2ZMyEQ/default.jpg",
+              "width": 43,
+              "height": 20
+            }
+          ]
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/oK8EvVeVltE/default.jpg",
+              "width": 43,
+              "height": 20
+            }
+          ]
+        }
+      ],
+      "videoCount": "11",
+      "navigationEndpoint": {
+        "clickTrackingParams": "CDcQ2zAYBSITCMmphqy5ne0CFc9g4AodoCwLVjIGc2VhcmNo",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "BCQHnlnPusY",
+          "playlistId": "PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV",
+          "params": "OAI%3D"
+        }
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "The Coding Train",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CDcQ2zAYBSITCMmphqy5ne0CFc9g4AodoCwLVjIGc2VhcmNo",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/shiffman",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCvjgXvBlbQiydffZU7m1_aw",
+                "canonicalBaseUrl": "/user/shiffman"
+              }
+            }
+          }
+        ]
+      },
+      "videoCountText": {
+        "runs": [
+          {
+            "text": "11"
+          },
+          {
+            "text": " videos"
+          }
+        ]
+      },
+      "trackingParams": "CDcQ2zAYBSITCMmphqy5ne0CFc9g4AodoCwLVg==",
+      "thumbnailText": {
+        "runs": [
+          {
+            "text": "11",
+            "bold": true
+          },
+          {
+            "text": " videos"
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "The Coding Train",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CDcQ2zAYBSITCMmphqy5ne0CFc9g4AodoCwLVjIGc2VhcmNo",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/shiffman",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCvjgXvBlbQiydffZU7m1_aw",
+                "canonicalBaseUrl": "/user/shiffman"
+              }
+            }
+          }
+        ]
+      },
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED",
+            "tooltip": "Verified",
+            "trackingParams": "CDcQ2zAYBSITCMmphqy5ne0CFc9g4AodoCwLVg=="
+          }
+        }
+      ],
+      "thumbnailRenderer": {
+        "playlistVideoThumbnailRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDO7LvxB12FUAaGJnwD17jMbqlo6Q",
+                "width": 168,
+                "height": 94
+              },
+              {
+                "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAfkLTwmetXaWDqUXaW19nrq4vF3A",
+                "width": 196,
+                "height": 110
+              },
+              {
+                "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5mLIQgx-4Vc9nwgZJKPFf4eVuyQ",
+                "width": 246,
+                "height": 138
+              },
+              {
+                "url": "https://i.ytimg.com/vi/BCQHnlnPusY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA5c3ggpjssxQUPoAkHtXnoGCKe5Q",
+                "width": 336,
+                "height": 188
+              }
+            ]
+          }
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "COURSE"
+            },
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "Learning playlist",
+            "tooltip": "Learning playlist",
+            "trackingParams": "CDgQ1fAFGAEiEwjJqYasuZ3tAhXPYOAKHaAsC1Y="
+          }
+        }
+      ],
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayBottomPanelRenderer": {
+            "text": {
+              "simpleText": "11 videos"
+            }
+          }
+        }
+      ],
+      "description": {
+        "simpleText": "This course is designed to teach you the basics of working with git version control and the GitHub website. \n\nLearning Objectives:\n* Understand the concept of version control.\n* Understand the difference between git software and GitHub the website.\n* Understand terminology: branch, fork, merge, pull, push, remote\n* Make your first pull request to a git repository on GitHub."
+      }
+    }
+  }
+}

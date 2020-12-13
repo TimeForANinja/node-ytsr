@@ -1,0 +1,471 @@
+{
+  "specialities": "live",
+  "throws": null,
+  "type": "videoRenderer",
+  "parsed": {
+    "type": "video",
+    "title": "Live: NBC News NOW - November 25",
+    "id": "taiU70ddmAE",
+    "url": "https://www.youtube.com/watch?v=taiU70ddmAE",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/taiU70ddmAE/hq720_live.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj7CqWDkP3QwA9VYX4nYVvkfBGvA",
+      "width": 720,
+      "height": 404
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/taiU70ddmAE/hq720_live.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj7CqWDkP3QwA9VYX4nYVvkfBGvA",
+        "width": 720,
+        "height": 404
+      },
+      {
+        "url": "https://i.ytimg.com/vi/taiU70ddmAE/hq720_live.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6L4xEyM0NpxumWY_zHc2ffIpI3Q",
+        "width": 360,
+        "height": 202
+      }
+    ],
+    "isUpcoming": false,
+    "upcoming": null,
+    "isLive": true,
+    "badges": [
+      "LIVE NOW",
+      "New"
+    ],
+    "author": {
+      "name": "NBC News",
+      "channelID": "UCeY0bbntWzzVIaj2z3QigXg",
+      "url": "https://www.youtube.com/user/NBCNews",
+      "bestAvatar": {
+        "url": "https://yt3.ggpht.com/a-/AOh14GhaQesdau8ocfNpeiROjDaZS8W46Xi_buLnLA=s68-c-k-c0x00ffffff-no-rj-mo",
+        "width": 68,
+        "height": 68
+      },
+      "avatars": [
+        {
+          "url": "https://yt3.ggpht.com/a-/AOh14GhaQesdau8ocfNpeiROjDaZS8W46Xi_buLnLA=s68-c-k-c0x00ffffff-no-rj-mo",
+          "width": 68,
+          "height": 68
+        }
+      ],
+      "ownerBadges": [
+        "Verified"
+      ],
+      "verified": true
+    },
+    "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
+    "views": 6699,
+    "duration": null,
+    "uploadedAt": null
+  },
+  "raw": {
+    "videoRenderer": {
+      "videoId": "taiU70ddmAE",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/taiU70ddmAE/hq720_live.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6L4xEyM0NpxumWY_zHc2ffIpI3Q",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/taiU70ddmAE/hq720_live.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj7CqWDkP3QwA9VYX4nYVvkfBGvA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "Live: NBC News NOW - November 25"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Live: NBC News NOW - November 25 by NBC News 870,805 views"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "NBC News NOW is "
+          },
+          {
+            "text": "live",
+            "bold": true
+          },
+          {
+            "text": ", reporting breaking news and developing stories in real time. We are on the scene, covering the most ..."
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "NBC News",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/NBCNews",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCeY0bbntWzzVIaj2z3QigXg",
+                "canonicalBaseUrl": "/user/NBCNews"
+              }
+            }
+          }
+        ]
+      },
+      "viewCountText": {
+        "runs": [
+          {
+            "text": "6,699"
+          },
+          {
+            "text": " watching"
+          }
+        ]
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4YyBnNlYXJjaFIEbGl2ZZoBAxD0JA==",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=taiU70ddmAE",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "taiU70ddmAE",
+          "params": "qgMEbGl2ZboDCwiL3eK3_cGpwLIBugMLCJS2qqbf8ej6kQG6AwoIvK7TqY2ht6pLugMLCKj5yZnegKm9gwG6AwsIo7KuoKjexvnDAboDCgjPlszykLK2z3i6AwsI1JmaoPbL3an2AboDCwiR15i2w9TXlZcBugMLCMur5LXvnPKS_gG6AwsI-qDI4MfjlLDJAboDCwjYzvfIzbnN4uYBugMLCIypta6bsPm7-gG6AwsI74r7p9DP0P2OAboDCgjSyb-bh-mP9H-6AwoImMfXgrTj_u0GugMKCM_6j9DC25m0fLoDCgj1nOq464G96TG6AwsIlsLLhLPe_aCyAQ%3D%3D"
+        }
+      },
+      "badges": [
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_LIVE_NOW",
+            "label": "LIVE NOW",
+            "trackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y="
+          }
+        },
+        {
+          "metadataBadgeRenderer": {
+            "style": "BADGE_STYLE_TYPE_SIMPLE",
+            "label": "New",
+            "trackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y="
+          }
+        }
+      ],
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED",
+            "tooltip": "Verified",
+            "trackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y="
+          }
+        }
+      ],
+      "ownerText": {
+        "runs": [
+          {
+            "text": "NBC News",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/NBCNews",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCeY0bbntWzzVIaj2z3QigXg",
+                "canonicalBaseUrl": "/user/NBCNews"
+              }
+            }
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "NBC News",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/NBCNews",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCeY0bbntWzzVIaj2z3QigXg",
+                "canonicalBaseUrl": "/user/NBCNews"
+              }
+            }
+          }
+        ]
+      },
+      "trackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4ZAgbD2uvSdpdS1AQ==",
+      "showActionMenu": false,
+      "shortViewCountText": {
+        "runs": [
+          {
+            "text": "6.6K"
+          },
+          {
+            "text": " watching"
+          }
+        ]
+      },
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CIgBEP6YBBgGIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/service_ajax",
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CIgBEP6YBBgGIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "taiU70ddmAE",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CIgBEP6YBBgGIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/service_ajax",
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "taiU70ddmAE"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "taiU70ddmAE"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CIgBEP6YBBgGIhMI3e2tl7md7QIVQkrgCh3yEQ-G"
+              }
+            }
+          ],
+          "trackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "channelThumbnailSupportedRenderers": {
+        "channelThumbnailWithLinkRenderer": {
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/a-/AOh14GhaQesdau8ocfNpeiROjDaZS8W46Xi_buLnLA=s68-c-k-c0x00ffffff-no-rj-mo",
+                "width": 68,
+                "height": 68
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CIUBENwwGAAiEwjd7a2XuZ3tAhVCSuAKHfIRD4Y=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/user/NBCNews",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCeY0bbntWzzVIaj2z3QigXg",
+              "canonicalBaseUrl": "/user/NBCNews"
+            }
+          },
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Go to channel"
+            }
+          }
+        }
+      },
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CIcBEPnnAxgDIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "taiU70ddmAE",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CIcBEPnnAxgDIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "taiU70ddmAE"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CIcBEPnnAxgDIhMI3e2tl7md7QIVQkrgCh3yEQ-G"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CIYBEMfsBBgEIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CIYBEMfsBBgEIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "taiU70ddmAE",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CIYBEMfsBBgEIhMI3e2tl7md7QIVQkrgCh3yEQ-G",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/service_ajax",
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "taiU70ddmAE"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "taiU70ddmAE"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CIYBEMfsBBgEIhMI3e2tl7md7QIVQkrgCh3yEQ-G"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
