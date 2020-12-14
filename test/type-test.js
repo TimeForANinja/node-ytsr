@@ -131,12 +131,12 @@ describe('parseItem.js#parseHorizontalCardListRenderer', () => {
       q: 'jlv feel again remix',
       url: 'https://www.youtube.com/results?search_query=jlv+feel+again+remix&sp=eAE%253D',
       bestThumbnail: {
-        url: '//i.ytimg.com/vi/UjgRAj-Ns20/mqdefault.jpg',
+        url: 'https://i.ytimg.com/vi/UjgRAj-Ns20/mqdefault.jpg',
         width: 320,
         height: 180,
       },
       thumbnails: [{
-        url: '//i.ytimg.com/vi/UjgRAj-Ns20/mqdefault.jpg',
+        url: 'https://i.ytimg.com/vi/UjgRAj-Ns20/mqdefault.jpg',
         width: 320,
         height: 180,
       }],

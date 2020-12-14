@@ -54,7 +54,7 @@ declare module 'ytsr' {
     }
 
     interface Image {
-      url: string;
+      url: string | null;
       width: number;
       height: number;
     }
