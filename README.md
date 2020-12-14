@@ -34,8 +34,8 @@ Searches for the given string
     * gl[String] -> 2-Digit Code of a Country, defaults to `US` - Allows for localisation of the request
     * hl[String] -> 2-Digit Code for a Language, defaults to `en` - Allows for localisation of the request
     * safeSearch[Boolean] -> pull items in youtube restriction mode.
-    * limit[integer] -> limits the pulled items, defaults to 100, set to Infinity to get the whole playlist - numbers <1 result in the default being used
-    * pages[Number] -> limits the pulled pages, pages contain 100 items, set to Infinity to get the whole playlist - numbers <1 result in the default limit being used - overwrites limit
+    * limit[integer] -> limits the pulled items, defaults to 100, set to Infinity to get the whole list of search results - numbers <1 result in the default being used
+    * pages[Number] -> limits the pulled pages, pages contain 20-30 items, set to Infinity to get the whole list of search results - numbers <1 result in the default limit being used - overwrites limit
     * requestOptions[Object] -> Additional parameters to passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
 
 * returns a Promise
