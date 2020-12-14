@@ -27,7 +27,7 @@ dosth(searchResults);
 Searches for the given string
 
 * `searchString`
-    * search string or link (from getFilters) to search from
+    * search string or url (from getFilters) to search from
 * `options`
     * object with options
     * possible settings:
@@ -69,7 +69,7 @@ dosth(searchResults);
     * gl[String] -> 2-Digit Code of a Country, defaults to `US` - Allows for localisation of the request
     * hl[String] -> 2-Digit Code for a Language, defaults to `en` - Allows for localisation of the request
     * requestOptions[Object] -> Additional parameters to passed to [miniget](https://github.com/fent/node-miniget), which is used to do the https requests
-* returns a Promise
+* returns a Promise resulting in a `Map<String, Map<String, Filter>>`
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output.txt)
 
 ### ytpl.continueReq(continuationData)
@@ -87,6 +87,8 @@ display(r2.items);
 const r3 = ytsr.continueReq(r2.continuation);
 display(r3.items);
 ```
+
+* returns a Promise resolving into `{ continuation, items }`
 
 # Related / Works well with
 
