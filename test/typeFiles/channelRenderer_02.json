@@ -1,0 +1,191 @@
+{
+  "specialities": "short subscriber count",
+  "throws": null,
+  "type": "channelRenderer",
+  "parsed": {
+    "type": "channel",
+    "name": "NoCopyrightSounds",
+    "channelID": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+    "url": "https://www.youtube.com/user/NoCopyrightSounds",
+    "bestAvatar": {
+      "url": "https://yt3.ggpht.com/ytc/AAUvwngbenDpBxHNZlecDGyccHeVyQB22dPZnPuhbW8LHw=s176-c-k-c0x00ffffff-no-rj-mo",
+      "width": 176,
+      "height": 176
+    },
+    "avatars": [
+      {
+        "url": "https://yt3.ggpht.com/ytc/AAUvwngbenDpBxHNZlecDGyccHeVyQB22dPZnPuhbW8LHw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AAUvwngbenDpBxHNZlecDGyccHeVyQB22dPZnPuhbW8LHw=s88-c-k-c0x00ffffff-no-rj-mo",
+        "width": 88,
+        "height": 88
+      }
+    ],
+    "verified": true,
+    "subscribers": "28.7M subscribers",
+    "descriptionShort": "NoCopyrightSounds is a copyright free / stream safe record label, providing free to use music to the content creator community.",
+    "videos": 850
+  },
+  "raw": {
+    "channelRenderer": {
+      "channelId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+      "title": {
+        "simpleText": "NoCopyrightSounds"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CIkCENowGAAiEwiLnKnVksztAhWW61UKHTGEBuI=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/user/NoCopyrightSounds",
+            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+            "rootVe": 3611
+          }
+        },
+        "browseEndpoint": {
+          "browseId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+          "canonicalBaseUrl": "/user/NoCopyrightSounds"
+        }
+      },
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "//yt3.ggpht.com/ytc/AAUvwngbenDpBxHNZlecDGyccHeVyQB22dPZnPuhbW8LHw=s88-c-k-c0x00ffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          {
+            "url": "//yt3.ggpht.com/ytc/AAUvwngbenDpBxHNZlecDGyccHeVyQB22dPZnPuhbW8LHw=s176-c-k-c0x00ffffff-no-rj-mo",
+            "width": 176,
+            "height": 176
+          }
+        ]
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "NoCopyrightSounds",
+            "bold": true
+          },
+          {
+            "text": " is a copyright free / stream safe record label, providing free to use music to the content creator community."
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "NoCopyrightSounds",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIkCENowGAAiEwiLnKnVksztAhWW61UKHTGEBuI=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/NoCopyrightSounds",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+                "canonicalBaseUrl": "/user/NoCopyrightSounds"
+              }
+            }
+          }
+        ]
+      },
+      "videoCountText": {
+        "runs": [
+          {
+            "text": "850"
+          },
+          {
+            "text": " videos"
+          }
+        ]
+      },
+      "subscriptionButton": {
+        "subscribed": false
+      },
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED",
+            "tooltip": "Verified",
+            "trackingParams": "CIkCENowGAAiEwiLnKnVksztAhWW61UKHTGEBuI="
+          }
+        }
+      ],
+      "subscriberCountText": {
+        "simpleText": "28.7M subscribers"
+      },
+      "subscribeButton": {
+        "buttonRenderer": {
+          "style": "STYLE_DESTRUCTIVE",
+          "size": "SIZE_DEFAULT",
+          "isDisabled": false,
+          "text": {
+            "runs": [
+              {
+                "text": "Subscribe"
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CIoCEPBbIhMIi5yp1ZLM7QIVlutVCh0xhAbi",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DNoCopyrightSounds%26continue_action%3DQUFFLUhqbVlLcGxMT0RtTVlEMi1XcnBfTkhMTzQ4MXZBd3xBQ3Jtc0ttNmdtM0JOLXNuR3U3d3BMU1JSNkVOWTJiOHY4ZHFMQjE4SXpUMGxyU0RKbTY3alBxa0pacjk2eV9PUEhDengtc3paRmVVSy0yQWxnOEpjX19iYURJcHNBVm54cGx4STdxc1JGYm9zUGtnNGJXb3A2bXpLdmVIcDljcVFtVGxicUU1WFVRMlgzNmc4YVNZaXFwWXZ4aUhiR0FyUEdxQXU4SUxZYWliX3d6WkNzdEhHN0s4RVZudDA2aXBVRkV0QWRZX1Z0SVNIeGlBRU5RV2s5MnpuZUZMNWRkYlln&hl=en",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "signInEndpoint": {
+              "nextEndpoint": {
+                "clickTrackingParams": "CIoCEPBbIhMIi5yp1ZLM7QIVlutVCh0xhAbi",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/results?search_query=NoCopyrightSounds",
+                    "webPageType": "WEB_PAGE_TYPE_SEARCH",
+                    "rootVe": 4724
+                  }
+                },
+                "searchEndpoint": {
+                  "query": "NoCopyrightSounds"
+                }
+              },
+              "continueAction": "QUFFLUhqbVlLcGxMT0RtTVlEMi1XcnBfTkhMTzQ4MXZBd3xBQ3Jtc0ttNmdtM0JOLXNuR3U3d3BMU1JSNkVOWTJiOHY4ZHFMQjE4SXpUMGxyU0RKbTY3alBxa0pacjk2eV9PUEhDengtc3paRmVVSy0yQWxnOEpjX19iYURJcHNBVm54cGx4STdxc1JGYm9zUGtnNGJXb3A2bXpLdmVIcDljcVFtVGxicUU1WFVRMlgzNmc4YVNZaXFwWXZ4aUhiR0FyUEdxQXU4SUxZYWliX3d6WkNzdEhHN0s4RVZudDA2aXBVRkV0QWRZX1Z0SVNIeGlBRU5RV2s5MnpuZUZMNWRkYlln"
+            }
+          },
+          "trackingParams": "CIoCEPBbIhMIi5yp1ZLM7QIVlutVCh0xhAbi"
+        }
+      },
+      "trackingParams": "CIkCENowGAAiEwiLnKnVksztAhWW61UKHTGEBuI=",
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "NoCopyrightSounds",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIkCENowGAAiEwiLnKnVksztAhWW61UKHTGEBuI=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/user/NoCopyrightSounds",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+                "canonicalBaseUrl": "/user/NoCopyrightSounds"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -103,7 +103,7 @@ declare module 'ytsr' {
       bestAvatar: Image;
       avatars: Image[];
       verified: boolean;
-      subscribers: number | null;
+      subscribers: string | null;
       descriptionShort: string | null;
       videos: number | null;
     }
