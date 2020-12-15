@@ -201,6 +201,8 @@ declare module 'ytsr' {
      * @description fetches one additional page & parses its items - only supported when using pages
      */
     function continueReq(continuationData: Continuation): Promise<ContinueResult>;
+
+    const version: string;
   }
 
   /**
