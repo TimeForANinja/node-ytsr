@@ -120,7 +120,7 @@ declare module 'ytsr' {
         url: string;
         ownerBadges: string[];
         verified: boolean;
-      };
+      } | null;
       publishedAt: string | null;
       length: number;
     }
@@ -177,7 +177,6 @@ declare module 'ytsr' {
         name: string;
         channelID: string;
         url: string;
-        verified: boolean;
       };
     }
 
