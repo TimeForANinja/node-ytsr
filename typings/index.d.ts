@@ -193,11 +193,11 @@ declare module 'ytsr' {
       sources: {
         text: string;
         url: string;
-      }[]
+      }[];
     }
 
     interface HorizontalChannelList {
-      type: 'horizontalChannelList',
+      type: 'horizontalChannelList';
       title: string;
       // ATM only subtype channel supported
       channels: {
