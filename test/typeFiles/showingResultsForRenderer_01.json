@@ -1,5 +1,5 @@
 {
-  "specialities": "None",
+  "specialities": "string outside showingResultsForRenderer",
   "throws": null,
   "type": "showingResultsForRenderer",
   "parsed": null,

@@ -144,8 +144,9 @@ describe('parseItem.js#parseHorizontalCardListRenderer', () => {
   });
 });
 
-describe('parseItem.js#parseShowingResultsFor', () => {
+describe('parseItem.js#parseShowingResultsForRenderer', () => {
   const data = JSON.parse(FS.readFileSync('test/typeFiles/showingResultsForRenderer_01.json', 'utf8'));
+  const data_v2 = JSON.parse(FS.readFileSync('test/typeFiles/showingResultsForRenderer_02.json', 'utf8'));
 
   it('does not error when no resp is provided', () => {
     ASSERT.doesNotThrow(() => PARSE_ITEM._hidden.parseItem(data.raw));
@@ -155,9 +156,15 @@ describe('parseItem.js#parseShowingResultsFor', () => {
     ASSERT.equal(PARSE_ITEM._hidden.parseItem(data.raw, {}), null);
   });
 
-  it('overwrites resp#resultsFor', () => {
+  it('overwrites resp#resultsFor (v1)', () => {
     const resp = { correctedQuery: 'testing' };
     PARSE_ITEM._hidden.parseItem(data.raw, resp);
     ASSERT.equal(resp.correctedQuery, 'vorwerk');
+  });
+
+  it('overwrites resp#resultsFor (v2)', () => {
+    const resp = { correctedQuery: 'Pietsmiet' };
+    PARSE_ITEM._hidden.parseItem(data_v2.raw, resp);
+    ASSERT.equal(resp.correctedQuery, 'Pietsmiet');
   });
 });

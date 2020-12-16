@@ -1,0 +1,63 @@
+{
+  "specialities": "string inside showingResultsForRenderer",
+  "throws": null,
+  "type": "showingResultsForRenderer",
+  "parsed": null,
+  "raw": {
+    "showingResultsForRenderer": {
+      "showingResultsFor": {
+        "runs": [
+          {
+            "text": "Showing results for"
+          }
+        ]
+      },
+      "correctedQuery": {
+        "runs": [
+          {
+            "text": "Pietsmiet",
+            "italics": true
+          }
+        ]
+      },
+      "correctedQueryEndpoint": {
+        "clickTrackingParams": "CMABEPAwGAAiEwj6g4v93NHtAhXIaeAKHU6KDtU=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/results?search_query=Pietsmiet",
+            "webPageType": "WEB_PAGE_TYPE_SEARCH",
+            "rootVe": 4724
+          }
+        },
+        "searchEndpoint": {
+          "query": "Pietsmiet"
+        }
+      },
+      "searchInsteadFor": {
+        "runs": [
+          {
+            "text": "Search instead for"
+          }
+        ]
+      },
+      "originalQuery": {
+        "simpleText": "Pitsmiet"
+      },
+      "originalQueryEndpoint": {
+        "clickTrackingParams": "CMABEPAwGAAiEwj6g4v93NHtAhXIaeAKHU6KDtU=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/results?search_query=Pitsmiet&sp=QgIIAQ%253D%253D",
+            "webPageType": "WEB_PAGE_TYPE_SEARCH",
+            "rootVe": 4724
+          }
+        },
+        "searchEndpoint": {
+          "query": "Pitsmiet",
+          "params": "QgIIAQ%3D%3D"
+        }
+      },
+      "trackingParams": "CMABEPAwGAAiEwj6g4v93NHtAhXIaeAKHU6KDtU="
+    }
+  }
+}
