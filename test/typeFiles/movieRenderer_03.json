@@ -1,0 +1,419 @@
+{
+  "specialities": "only with director",
+  "throws": null,
+  "type": "movieRenderer",
+  "parsed": {
+    "type": "movie",
+    "title": "Die Helden der Titanic",
+    "videoID": "HzmxPV6f2Zc",
+    "url": "https://www.youtube.com/watch?v=HzmxPV6f2Zc",
+    "bestThumbnail": {
+      "url": "https://i.ytimg.com/vi/HzmxPV6f2Zc/movieposter.jpg",
+      "width": 279,
+      "height": 402
+    },
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/HzmxPV6f2Zc/movieposter.jpg",
+        "width": 279,
+        "height": 402
+      }
+    ],
+    "author": {
+      "name": "YouTube Movies",
+      "channelID": "UClgRkhTL3_hImCAmdLfDE4g",
+      "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g",
+      "ownerBadges": [
+        "Verified"
+      ],
+      "verified": true
+    },
+    "description": "Zum 100. Jahrestag des Untergangs der Titanic im Jahre 2012 erzählt dieser Film die außergewöhnliche Geschichte von sechs ...",
+    "meta": [
+      "Documentary",
+      "2016",
+      "FSK 6",
+      "German audio"
+    ],
+    "actors": [],
+    "directors": [
+      "Reinhardt Beetz"
+    ],
+    "duration": "1:30:31"
+  },
+  "raw": {
+    "movieRenderer": {
+      "videoId": "HzmxPV6f2Zc",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/HzmxPV6f2Zc/movieposter.jpg",
+            "width": 279,
+            "height": 402
+          }
+        ]
+      },
+      "title": {
+        "runs": [
+          {
+            "text": "Die Helden der Titanic"
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Die Helden der Titanic by YouTube Movies 1 hour, 30 minutes"
+          }
+        }
+      },
+      "descriptionSnippet": {
+        "runs": [
+          {
+            "text": "Zum 100. Jahrestag des Untergangs der "
+          },
+          {
+            "text": "Titanic",
+            "bold": true
+          },
+          {
+            "text": " im Jahre 2012 erzählt dieser Film die außergewöhnliche Geschichte von sechs ..."
+          }
+        ]
+      },
+      "longBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Movies",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CK0CEIszGAUiEwjqqefv3dHtAhWYlHsKHU-pAVQ=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UClgRkhTL3_hImCAmdLfDE4g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UClgRkhTL3_hImCAmdLfDE4g"
+              }
+            }
+          }
+        ]
+      },
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "YouTube Movies",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CK0CEIszGAUiEwjqqefv3dHtAhWYlHsKHU-pAVQ=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UClgRkhTL3_hImCAmdLfDE4g",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UClgRkhTL3_hImCAmdLfDE4g"
+              }
+            }
+          }
+        ]
+      },
+      "lengthText": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 hour, 30 minutes, 31 seconds"
+          }
+        },
+        "simpleText": "1:30:31"
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CK0CEIszGAUiEwjqqefv3dHtAhWYlHsKHU-pAVQyBnNlYXJjaFIHVGl0YW5pY5oBAxD0JA==",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/watch?v=HzmxPV6f2Zc",
+            "webPageType": "WEB_PAGE_TYPE_WATCH",
+            "rootVe": 3832
+          }
+        },
+        "watchEndpoint": {
+          "videoId": "HzmxPV6f2Zc"
+        }
+      },
+      "ownerBadges": [
+        {
+          "metadataBadgeRenderer": {
+            "icon": {
+              "iconType": "CHECK_CIRCLE_THICK"
+            },
+            "style": "BADGE_STYLE_TYPE_VERIFIED",
+            "tooltip": "Verified",
+            "trackingParams": "CK0CEIszGAUiEwjqqefv3dHtAhWYlHsKHU-pAVQ="
+          }
+        }
+      ],
+      "trackingParams": "CK0CEIszGAUiEwjqqefv3dHtAhWYlHsKHU-pAVQ=",
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Add to queue"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "ADD_TO_QUEUE_TAIL"
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CLECEP6YBBgFIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CLECEP6YBBgFIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+                        "addToPlaylistCommand": {
+                          "openMiniplayer": true,
+                          "videoId": "HzmxPV6f2Zc",
+                          "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                          "onCreateListCommand": {
+                            "clickTrackingParams": "CLECEP6YBBgFIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/playlist/create"
+                              }
+                            },
+                            "createPlaylistServiceEndpoint": {
+                              "videoIds": [
+                                "HzmxPV6f2Zc"
+                              ],
+                              "params": "CAQ%3D"
+                            }
+                          },
+                          "videoIds": [
+                            "HzmxPV6f2Zc"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CLECEP6YBBgFIhMI6qnn793R7QIVmJR7Ch1PqQFU"
+              }
+            }
+          ],
+          "trackingParams": "CK0CEIszGAUiEwjqqefv3dHtAhWYlHsKHU-pAVQ=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "topMetadataItems": [
+        {
+          "simpleText": "Documentary · 2016 · FSK 6 · German audio"
+        }
+      ],
+      "bottomMetadataItems": [
+        {
+          "simpleText": "Director: Reinhardt Beetz"
+        }
+      ],
+      "useVerticalPoster": true,
+      "offerButton": {
+        "buttonRenderer": {
+          "style": "STYLE_PRIMARY",
+          "size": "SIZE_LARGE",
+          "text": {
+            "simpleText": "Buy or Rent"
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CLACEPBbIhMI6qnn793R7QIVmJR7Ch1PqQFUMg95cGNfdHJhbnNhY3Rpb24=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fgl%253DUS%2526hl%253Den%2526search_query%253DTitanic%2526ypc_goe%253DAIhNbf5qzm9_d5QiPss5TUMel40ZUcB9PIbAf1K54NUBqU5MybO-7QvhA47Om4LGipakKaHNEiVAgGa6Xm6od0b1ZeEWiVdCfjBgMwkPE7vGA-Sit6Gf9CE&hl=en",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "signInEndpoint": {
+              "nextEndpoint": {
+                "clickTrackingParams": "CLACEPBbIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://www.youtube.com/results?gl=US&hl=en&search_query=Titanic&ypc_goe=AIhNbf5qzm9_d5QiPss5TUMel40ZUcB9PIbAf1K54NUBqU5MybO-7QvhA47Om4LGipakKaHNEiVAgGa6Xm6od0b1ZeEWiVdCfjBgMwkPE7vGA-Sit6Gf9CE",
+                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https://www.youtube.com/results?gl=US&hl=en&search_query=Titanic&ypc_goe=AIhNbf5qzm9_d5QiPss5TUMel40ZUcB9PIbAf1K54NUBqU5MybO-7QvhA47Om4LGipakKaHNEiVAgGa6Xm6od0b1ZeEWiVdCfjBgMwkPE7vGA-Sit6Gf9CE"
+                }
+              }
+            }
+          },
+          "trackingParams": "CLACEPBbIhMI6qnn793R7QIVmJR7Ch1PqQFU"
+        }
+      },
+      "showActionMenu": false,
+      "thumbnailOverlays": [
+        {
+          "thumbnailOverlayTimeStatusRenderer": {
+            "text": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "1 hour, 30 minutes, 31 seconds"
+                }
+              },
+              "simpleText": "1:30:31"
+            },
+            "style": "DEFAULT"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "isToggled": false,
+            "untoggledIcon": {
+              "iconType": "WATCH_LATER"
+            },
+            "toggledIcon": {
+              "iconType": "CHECK"
+            },
+            "untoggledTooltip": "Watch later",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CK8CEPnnAxgCIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "addedVideoId": "HzmxPV6f2Zc",
+                    "action": "ACTION_ADD_VIDEO"
+                  }
+                ]
+              }
+            },
+            "toggledServiceEndpoint": {
+              "clickTrackingParams": "CK8CEPnnAxgCIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                }
+              },
+              "playlistEditEndpoint": {
+                "playlistId": "WL",
+                "actions": [
+                  {
+                    "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                    "removedVideoId": "HzmxPV6f2Zc"
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Watch later"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CK8CEPnnAxgCIhMI6qnn793R7QIVmJR7Ch1PqQFU"
+          }
+        },
+        {
+          "thumbnailOverlayToggleButtonRenderer": {
+            "untoggledIcon": {
+              "iconType": "ADD_TO_QUEUE_TAIL"
+            },
+            "toggledIcon": {
+              "iconType": "PLAYLIST_ADD_CHECK"
+            },
+            "untoggledTooltip": "Add to queue",
+            "toggledTooltip": "Added",
+            "untoggledServiceEndpoint": {
+              "clickTrackingParams": "CK4CEMfsBBgDIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true
+                }
+              },
+              "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CK4CEMfsBBgDIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+                    "addToPlaylistCommand": {
+                      "openMiniplayer": true,
+                      "videoId": "HzmxPV6f2Zc",
+                      "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                      "onCreateListCommand": {
+                        "clickTrackingParams": "CK4CEMfsBBgDIhMI6qnn793R7QIVmJR7Ch1PqQFU",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/playlist/create"
+                          }
+                        },
+                        "createPlaylistServiceEndpoint": {
+                          "videoIds": [
+                            "HzmxPV6f2Zc"
+                          ],
+                          "params": "CAQ%3D"
+                        }
+                      },
+                      "videoIds": [
+                        "HzmxPV6f2Zc"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "untoggledAccessibility": {
+              "accessibilityData": {
+                "label": "Add to queue"
+              }
+            },
+            "toggledAccessibility": {
+              "accessibilityData": {
+                "label": "Added"
+              }
+            },
+            "trackingParams": "CK4CEMfsBBgDIhMI6qnn793R7QIVmJR7Ch1PqQFU"
+          }
+        },
+        {
+          "thumbnailOverlayNowPlayingRenderer": {
+            "text": {
+              "runs": [
+                {
+                  "text": "Now playing"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
