@@ -3,7 +3,7 @@
   "throws": null,
   "type": "debug#previewCardRenderer",
   "parsed": {
-    "type": "previewCard",
+    "type": "channelPreview",
     "name": "Larry Life",
     "subscribers": "76K subscribers",
     "channelID": "UCG-g2nm3P4Fcb9gtinf00bQ",

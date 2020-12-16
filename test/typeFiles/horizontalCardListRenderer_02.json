@@ -7,7 +7,7 @@
     "title": "Channels you may like",
     "channels": [
       {
-        "type": "previewCard",
+        "type": "channelPreview",
         "name": "Larry Life",
         "channelID": "UCG-g2nm3P4Fcb9gtinf00bQ",
         "url": "https://www.youtube.com/channel/UCG-g2nm3P4Fcb9gtinf00bQ",
@@ -97,7 +97,7 @@
         ]
       },
       {
-        "type": "previewCard",
+        "type": "channelPreview",
         "name": "Spammals",
         "channelID": "UCzUizabVH_AbuzWH0Wz-U_g",
         "url": "https://www.youtube.com/channel/UCzUizabVH_AbuzWH0Wz-U_g",
@@ -187,7 +187,7 @@
         ]
       },
       {
-        "type": "previewCard",
+        "type": "channelPreview",
         "name": "Jesse Gillett",
         "channelID": "UC0jAz6y_SnzeOhMOQUIykJA",
         "url": "https://www.youtube.com/channel/UC0jAz6y_SnzeOhMOQUIykJA",
@@ -272,7 +272,7 @@
         ]
       },
       {
-        "type": "previewCard",
+        "type": "channelPreview",
         "name": "Titanic Animations",
         "channelID": "UCBZaWaOLa_YHqP8TfFXeN-Q",
         "url": "https://www.youtube.com/channel/UCBZaWaOLa_YHqP8TfFXeN-Q",
