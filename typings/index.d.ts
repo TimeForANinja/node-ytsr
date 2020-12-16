@@ -196,7 +196,23 @@ declare module 'ytsr' {
       }[]
     }
 
-    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf | Clarification;
+    interface HorizontalChannelList {
+      type: 'horizontalChannelList',
+      title: string;
+      // ATM only subtype channel supported
+      channels: {
+        type: 'channelPreview';
+        name: string;
+        channelID: string;
+        url: string;
+        bestAvatar: Image;
+        avatars: Image[];
+        subscribers: string;
+        videos: Video[];
+      }[];
+    }
+
+    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf | Clarification | HorizontalChannelList;
 
     /**
      * @param searchString search query or link from a previous getFilters request

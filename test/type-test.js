@@ -168,3 +168,32 @@ describe('parseItem.js#parseShowingResultsForRenderer', () => {
     ASSERT.equal(resp.correctedQuery, 'Pietsmiet');
   });
 });
+
+describe('parseItem.js#parseHorizontalCardListRenderer', () => {
+  it('passes unknown subType error', () => {
+    ASSERT.throws(
+      () => PARSE_ITEM._hidden.parseItem({
+        horizontalCardListRenderer: {
+          cards: [
+            { test: null },
+          ],
+        },
+      }),
+      /subType test of type horizontalCardListRenderer not known/,
+    );
+  });
+
+  it('passes unknown style error', () => {
+    ASSERT.throws(
+      () => PARSE_ITEM._hidden.parseItem({
+        horizontalCardListRenderer: {
+          cards: [
+            { previewCardRenderer: null },
+          ],
+          style: null,
+        },
+      }),
+      /unknown style in horizontalCardListRenderer/,
+    );
+  });
+});
