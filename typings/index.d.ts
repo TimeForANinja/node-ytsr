@@ -186,7 +186,17 @@ declare module 'ytsr' {
       items: Item[];
     }
 
-    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf;
+    interface Clarification {
+      type: 'clarification';
+      title: string;
+      text: string;
+      sources: {
+        text: string;
+        url: string;
+      }[]
+    }
+
+    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf | Clarification;
 
     /**
      * @param searchString search query or link from a previous getFilters request

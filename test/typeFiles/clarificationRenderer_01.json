@@ -1,0 +1,197 @@
+{
+  "specialities": "short subscriber count",
+  "throws": null,
+  "type": "channelRenderer",
+  "parsed": {
+    "type": "clarification",
+    "title": "COVID-19",
+    "text": "Get the latest information from the WHO about coronavirus.",
+    "sources": [
+      {
+        "text": "Learn about vaccine progress from the WHO",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+      },
+      {
+        "text": "Learn about vaccine progress from the WHO",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines"
+      }
+    ]
+  },
+  "raw": {
+    "clarificationRenderer": {
+      "text": {
+        "runs": [
+          {
+            "text": "Get the latest information from the WHO about coronavirus."
+          }
+        ]
+      },
+      "endpoint": {
+        "clickTrackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+            "rootVe": 83769
+          }
+        },
+        "urlEndpoint": {
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+          "target": "TARGET_NEW_WINDOW"
+        }
+      },
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuNavigationItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Why am I seeing this?"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "INFO"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "//support.google.com/youtube/answer/9004474?hl=en",
+                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "//support.google.com/youtube/answer/9004474?hl=en",
+                    "target": "TARGET_NEW_WINDOW"
+                  }
+                },
+                "trackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+                "accessibility": {
+                  "accessibilityData": {
+                    "label": "Why am I seeing this?"
+                  }
+                }
+              }
+            },
+            {
+              "menuNavigationItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Send feedback"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "FEEDBACK"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "ignoreNavigation": true
+                    }
+                  },
+                  "userFeedbackEndpoint": {
+                    "additionalDatas": [
+                      {
+                        "userFeedbackEndpointProductSpecificValueData": {
+                          "key": "clarify_id",
+                          "value": "/g/11j2cc_qll"
+                        }
+                      }
+                    ],
+                    "bucketIdentifier": "clarify_box"
+                  }
+                },
+                "trackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+                "accessibility": {
+                  "accessibilityData": {
+                    "label": "Send feedback",
+                    "identifier": {
+                      "accessibilityIdType": "MENU_FEEDBACK"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "trackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "source": {
+        "simpleText": "Learn about vaccine progress from the WHO"
+      },
+      "trackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+      "style": "CLARIFICATION_RENDERER_STYLE_MEDIUM",
+      "contentTitle": {
+        "runs": [
+          {
+            "text": "COVID-19"
+          }
+        ]
+      },
+      "secondaryEndpoint": {
+        "clickTrackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines",
+            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+            "rootVe": 83769
+          }
+        },
+        "urlEndpoint": {
+          "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines",
+          "target": "TARGET_NEW_WINDOW"
+        }
+      },
+      "actionButton": {
+        "buttonRenderer": {
+          "style": "STYLE_SUGGESTIVE",
+          "size": "SIZE_DEFAULT",
+          "isDisabled": false,
+          "text": {
+            "simpleText": "LEARN MORE"
+          },
+          "trackingParams": "CIwBEPBbIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+          "command": {
+            "clickTrackingParams": "CIwBEPBbIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "urlEndpoint": {
+              "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+              "target": "TARGET_NEW_WINDOW"
+            }
+          }
+        }
+      },
+      "background": "CLARIFICATION_RENDERER_BACKGROUND_INFO",
+      "secondarySource": {
+        "simpleText": "Learn about vaccine progress from the WHO"
+      },
+      "loggingDirectives": {
+        "trackingParams": "CIsBEMChAhgAIhMIs-7bre_R7QIVBSvgCh2XsQ3M",
+        "visibility": {
+          "types": "12"
+        },
+        "gestures": {
+          "types": "4"
+        }
+      }
+    }
+  }
+}
