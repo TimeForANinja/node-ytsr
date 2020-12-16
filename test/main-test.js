@@ -270,6 +270,25 @@ describe('YTSR.continue()', () => {
     scope1.done();
     scope2.done();
   });
+
+  it('handles "no more results" response', async() => {
+    const opts = [
+      'apiKey',
+      'token',
+      { context: 'context' },
+      { requestOptions: { headers: { test: 'test' } } },
+    ];
+    const body = { context: opts[2], continuation: opts[1] };
+    const scope = NOCK(YT_HOST, { reqheaders: opts[3].headers })
+      .post(API_PATH, JSON.stringify(body))
+      .query({ key: opts[0] })
+      .replyWithFile(200, 'test/pages/secondpage_failing.html');
+
+    const { items, continuation } = await YTSR.continueReq(opts);
+    ASSERT.deepEqual(items, []);
+    ASSERT.equal(continuation, null);
+    scope.done();
+  });
 });
 
 describe('YTSR.getFilters()', () => {
