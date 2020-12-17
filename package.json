@@ -4,8 +4,18 @@
   "description": "Do anonymous YouTube search requests.",
   "keywords": [
     "youtube",
-    "search"
+    "yt",
+    "ytsearcher",
+    "api",
+    "search",
+    "playlist",
+    "channel",
+    "video",
+    "scrape",
+    "pagination",
+    "promise"
   ],
+  "homepage": "https://github.com/TimeForANinja/node-ytsr#readme",
   "bugs": {
     "url": "https://github.com/TimeForANinja/node-ytsr/issues"
   },
@@ -27,10 +37,10 @@
     "lint:typings": "tslint typings/index.d.ts",
     "lint:typings:fix": "tslint --fix typings/index.d.ts",
     "mocha": "mocha -- -t 16000 test/*-test.js",
-    "nyc": "nyc --reporter=lcov npm run-script mocha",
-    "test": "npm run-script nyc",
     "mocha:coverage": "mocha -- -t 16000 test/*-test.js --exclude test/e2e-test.js",
+    "nyc": "nyc --reporter=lcov npm run-script mocha",
     "nyc:coverage": "nyc --reporter=lcov npm run-script mocha:coverage",
+    "test": "npm run-script nyc",
     "test:coverage": "npm run-script nyc:coverage && codecov"
   },
   "dependencies": {
