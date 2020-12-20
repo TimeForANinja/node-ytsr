@@ -165,10 +165,19 @@ describe('utils.checkArgs()', () => {
     }, /search string must be of type string/);
   });
 
-  it('errors for non-search youtube lists', () => {
+  it('errors for filter-links without search_query', () => {
     ASSERT.throws(() => {
-      UTILS.checkArgs('https://www.youtube.com/watch?v=00000000000');
-    }, /link has to include a "search_string" query/);
+      UTILS.checkArgs('https://www.youtube.com/results?sp=00000000000');
+    }, /filter links have to include a "search_string" query/);
+  });
+
+  it('accepts literal youtube links', () => {
+    const opts = UTILS.checkArgs('https://www.youtube.com/watch?v=00000000000');
+    ASSERT.deepEqual(opts.query, {
+      search_query: 'https://www.youtube.com/watch?v=00000000000',
+      gl: 'US',
+      hl: 'en',
+    });
   });
 
   it('returns default options', () => {
