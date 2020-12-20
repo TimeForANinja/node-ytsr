@@ -171,6 +171,12 @@ describe('utils.checkArgs()', () => {
     }, /filter links have to include a "search_string" query/);
   });
 
+  it('does not error for non-results link sp & without search_query', () => {
+    ASSERT.doesNotThrow(() => {
+      UTILS.checkArgs('https://www.youtube.com/watch?sp=00000000000');
+    }, /filter links have to include a "search_string" query/);
+  });
+
   it('accepts literal youtube links', () => {
     const opts = UTILS.checkArgs('https://www.youtube.com/watch?v=00000000000');
     ASSERT.deepEqual(opts.query, {
