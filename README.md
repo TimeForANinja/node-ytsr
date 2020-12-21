@@ -72,7 +72,7 @@ dosth(searchResults);
 * returns a Promise resulting in a `Map<String, Map<String, Filter>>`
 * [Example response](https://github.com/timeforaninja/node-ytsr/blob/master/example/example_filters_output.txt)
 
-### ytpl.continueReq(continuationData)
+### ytsr.continueReq(continuationData)
 Continues a previous request by pulling yet another page.  
 The previous request had to be done using `pages` limitation.
 
