@@ -263,6 +263,26 @@ describe('utils.checkArgs()', () => {
     ASSERT.deepEqual(opts.requestOptions, { test: 'test' });
   });
 
+  it('unlinks requestOptions#headers', () => {
+    const options = { requestOptions: { headers: { Cookie: ['cookie1'] } }, safeSearch: true };
+    UTILS.checkArgs('searchString', options);
+    ASSERT.deepEqual(options.requestOptions.headers.Cookie, ['cookie1']);
+  });
+
+  it('keeps agent object', () => {
+    // Check that not everything is unlinked
+    class test {}
+    const opts = {
+      safeSearch: true,
+      hl: 'hl',
+      gl: 'gl',
+      limit: 123,
+      requestOptions: { agent: new test(), test: 'test' },
+    };
+    UTILS.checkArgs('searchString', opts);
+    ASSERT.ok(opts.requestOptions.agent instanceof test);
+  });
+
   it('removes limit if pages are provided', () => {
     const opts = { hl: 'hl', gl: 'gl', limit: 123, pages: 2, requestOptions: { test: 'test' } };
     const r = UTILS.checkArgs('searchString', opts);
