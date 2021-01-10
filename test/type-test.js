@@ -163,7 +163,7 @@ describe('parseItem.js#parseShowingResultsForRenderer', () => {
   });
 
   it('overwrites resp#resultsFor (v2)', () => {
-    const resp = { correctedQuery: 'Pietsmiet' };
+    const resp = { correctedQuery: 'asdf' };
     PARSE_ITEM._hidden.parseItem(data_v2.raw, resp);
     ASSERT.equal(resp.correctedQuery, 'Pietsmiet');
   });
