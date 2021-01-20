@@ -399,6 +399,12 @@ describe('utils.cutAfterJSON()', () => {
       '{"a": "\\\\фыва", "b": 1, "c": {"test": 1}}',
     );
   });
+  it('Works with \\\\ towards the end of a string', () => {
+    ASSERT.strictEqual(
+      UTILS.cutAfterJSON('{"text": "\\\\"};'),
+      '{"text": "\\\\"}',
+    );
+  });
   it('Works with [ as start', () => {
     ASSERT.deepEqual(
       UTILS._hidden.cutAfterJSON('[{"a": 1}, {"b": 2}]abcd'),
