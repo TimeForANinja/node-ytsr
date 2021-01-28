@@ -47,14 +47,14 @@
     "miniget": "^4.1.0"
   },
   "devDependencies": {
-    "assert-diff": "^3.0.1",
+    "assert-diff": "^3.0.2",
     "codecov": "^3.8.1",
     "dtslint": "^4.0.6",
-    "eslint": "^7.14.0",
+    "eslint": "^7.18.0",
     "mocha": "^8.2.1",
-    "nock": "^13.0.5",
+    "nock": "^13.0.6",
     "nyc": "^15.1.0",
-    "typescript": "^4.1.2"
+    "typescript": "^4.1.3"
   },
   "engines": {
     "node": ">=8"
