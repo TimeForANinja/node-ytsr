@@ -54,7 +54,7 @@ const ytsr = require('ytsr');
 const filters1 = await ytsr.getFilters('github');
 const filter1 = filters1.get('Type').get('Video');
 const filters2 = await ytsr.getFilters(filter1.url);
-const filter2 = filters2.get('Duration').get('Short');
+const filter2 = filters2.get('Features').get('Live');
 const options = {
   pages: 2,
 }
