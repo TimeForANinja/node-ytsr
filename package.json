@@ -1,13 +1,13 @@
 {
   "name": "ytsr",
   "version": "3.2.3",
-  "description": "Do anonymous YouTube search requests.",
+  "description": "Simple package to search YouTube - no strings attached.",
   "keywords": [
     "youtube",
+    "search",
     "yt",
     "ytsearcher",
     "api",
-    "search",
     "playlist",
     "channel",
     "video",
