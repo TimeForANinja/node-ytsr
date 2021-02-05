@@ -5,7 +5,7 @@ const main = async() => {
 };
 
 main().then(results => {
-  console.log(results)
+  console.log(results.artistDetails)
 }).catch(err => {
   console.log(err)
 });

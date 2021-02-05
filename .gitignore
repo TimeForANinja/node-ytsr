@@ -4,3 +4,5 @@ coverage
 dumps
 .idea
 .github
+package-lock.json
+package.json
