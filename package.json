@@ -1,0 +1,62 @@
+{
+  "name": "ytsr",
+  "version": "3.2.4",
+  "description": "Simple package to search YouTube - no strings attached.",
+  "keywords": [
+    "youtube",
+    "search",
+    "yt",
+    "ytsearcher",
+    "api",
+    "playlist",
+    "channel",
+    "video",
+    "scrape",
+    "pagination",
+    "promise"
+  ],
+  "homepage": "https://github.com/TimeForANinja/node-ytsr#readme",
+  "bugs": {
+    "url": "https://github.com/TimeForANinja/node-ytsr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TimeForANinja/node-ytsr.git"
+  },
+  "license": "MIT",
+  "author": "Tobias Kutscha (https://github.com/TimeForANinja)",
+  "main": "./lib/main.js",
+  "types": "./typings/index.d.ts",
+  "files": [
+    "lib",
+    "typings"
+  ],
+  "scripts": {
+    "lint": "eslint ./",
+    "lint:fix": "eslint --fix ./",
+    "lint:typings": "tslint typings/index.d.ts",
+    "lint:typings:fix": "tslint --fix typings/index.d.ts",
+    "mocha": "mocha -- -t 16000 test/*-test.js",
+    "mocha:coverage": "mocha -- -t 16000 test/*-test.js --exclude test/e2e-test.js",
+    "nyc": "nyc --reporter=lcov npm run-script mocha",
+    "nyc:coverage": "nyc --reporter=lcov npm run-script mocha:coverage",
+    "test": "npm run-script nyc",
+    "test:coverage": "npm run-script nyc:coverage && codecov"
+  },
+  "dependencies": {
+    "miniget": "^4.1.0"
+  },
+  "devDependencies": {
+    "assert-diff": "^3.0.1",
+    "codecov": "^3.8.1",
+    "dtslint": "^4.0.6",
+    "eslint": "^7.19.0",
+    "mocha": "^8.2.1",
+    "nock": "^13.0.7",
+    "nyc": "^15.1.0",
+    "typescript": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
