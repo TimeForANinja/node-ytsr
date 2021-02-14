@@ -136,7 +136,7 @@ describe('YTSR()', () => {
       .replyWithFile(200, 'test/pages/secondpage_02.html');
 
     const resp = await YTSR('testing', { pages: 2 });
-    ASSERT.equal(resp.items.length, 40);
+    ASSERT.equal(resp.items.length, 41);
     ASSERT.equal(resp.continuation[0], '<apikey>');
     ASSERT.equal(resp.continuation[1], '<secondContinuationToken>');
     ASSERT.equal(resp.continuation[2].client.clientVersion, '<client_version>');

@@ -1,0 +1,4477 @@
+{
+  "specialities": "rich instead of regular shelf",
+  "throws": null,
+  "type": "richShelfRenderer",
+  "parsed": {
+    "type": "shelf",
+    "title": "People also watched",
+    "items": [
+      {
+        "type": "video",
+        "title": "Oldies playing in the car and it's raining | Dreamscape (road trip w/ cars passing) 3 HOURS ASMR",
+        "id": "Lkc5Woyy47I",
+        "url": "https://www.youtube.com/watch?v=Lkc5Woyy47I",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/Lkc5Woyy47I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAd3eJ-V8FsqURxjzWHAEmNO6kWiA",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/Lkc5Woyy47I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAd3eJ-V8FsqURxjzWHAEmNO6kWiA",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/Lkc5Woyy47I/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCptzr54f74FyCAE4aZsFaSVF-MAA",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Nemo's Dreamscapes",
+          "channelID": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+          "url": "https://www.youtube.com/user/ggruie",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "Oldies playing in the car and it's raining | Dreamscape (road trip w/ cars passing by) 3 HOURS ASMR - Best if you listen with your ...",
+        "views": 538588,
+        "duration": "3:11:10",
+        "uploadedAt": "3 weeks ago"
+      },
+      {
+        "type": "video",
+        "title": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.19",
+        "id": "UxjPuxBVZ_Y",
+        "url": "https://www.youtube.com/watch?v=UxjPuxBVZ_Y",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/UxjPuxBVZ_Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwirSTrl6YxLk_iX1qIBJmIinEqg",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/UxjPuxBVZ_Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwirSTrl6YxLk_iX1qIBJmIinEqg",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/UxjPuxBVZ_Y/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQlYguO2hHgjT8mfWkWIhv0GobPQ",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Nemo's Dreamscapes",
+          "channelID": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+          "url": "https://www.youtube.com/user/ggruie",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.19 - Best if you listen with your ...",
+        "views": 2413997,
+        "duration": "1:14:28",
+        "uploadedAt": "1 month ago"
+      },
+      {
+        "type": "video",
+        "title": "It's raining. I'll sleep in the car! - Car Camping",
+        "id": "qJwPrKtHCv0",
+        "url": "https://www.youtube.com/watch?v=qJwPrKtHCv0",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/qJwPrKtHCv0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYgPeRRLOJNAxoyhZiUxGu2gmv2w",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/qJwPrKtHCv0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYgPeRRLOJNAxoyhZiUxGu2gmv2w",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/qJwPrKtHCv0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHxMk7yvjd2KAC8-XaRJ3Yb-DbnA",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "dreamy sound",
+          "channelID": "UCVlp63hzHZx0dXSz0wT5LAQ",
+          "url": "https://www.youtube.com/channel/UCVlp63hzHZx0dXSz0wT5LAQ",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnjbL0iesI1P-eSswvdy7_yX-gkSA5RoAvxfk46Q=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjbL0iesI1P-eSswvdy7_yX-gkSA5RoAvxfk46Q=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "It's raining. Drive and park in a quiet, unobstructed place without people. Set up subtle lighting. Read cartoons or read books.",
+        "views": 6481154,
+        "duration": "8:01:13",
+        "uploadedAt": "3 months ago"
+      },
+      {
+        "type": "video",
+        "title": "its raining and i miss you extended version",
+        "id": "iMXWe-7MDvc",
+        "url": "https://www.youtube.com/watch?v=iMXWe-7MDvc",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/iMXWe-7MDvc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUeRbV3gfFBZoVUkseTFfNBJXmVA",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/iMXWe-7MDvc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUeRbV3gfFBZoVUkseTFfNBJXmVA",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/iMXWe-7MDvc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3zFUjoZ5bHu-5yTtgys_basYUcA",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Netizens",
+          "channelID": "UCqFi0L6-1a2WIqvFOKj5Pdw",
+          "url": "https://www.youtube.com/channel/UCqFi0L6-1a2WIqvFOKj5Pdw",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwni0vINOPFyRa1yFTPWWxJmmsb7ZtCBw8sS6O7xL=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwni0vINOPFyRa1yFTPWWxJmmsb7ZtCBw8sS6O7xL=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "listening to lofi while a storm rages outside Sad & Calm Mix Lofi/Chill Beats More sad & chill mixes - http://bit.do/sad-mixes ...",
+        "views": 1315276,
+        "duration": "3:38:05",
+        "uploadedAt": "10 months ago"
+      },
+      {
+        "type": "video",
+        "title": "Oldies music playing in another room and it's raining (no thunders , fireplace) 2 HOURS ASMR v.18",
+        "id": "1fgk7Yfc53A",
+        "url": "https://www.youtube.com/watch?v=1fgk7Yfc53A",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/1fgk7Yfc53A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC6rKG5EwvmijpKzOWj0QY64Hs4aQ",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/1fgk7Yfc53A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC6rKG5EwvmijpKzOWj0QY64Hs4aQ",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/1fgk7Yfc53A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAd4kOU0dcvfBHtDJbC_5wmB9Pig",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Nemo's Dreamscapes",
+          "channelID": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+          "url": "https://www.youtube.com/user/ggruie",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "Oldies music playing in another room and it's raining (no thunders , fireplace) 2 HOURS ASMR v.18 - Best if you listen with your ...",
+        "views": 676408,
+        "duration": "2:10:20",
+        "uploadedAt": "2 months ago"
+      },
+      {
+        "type": "video",
+        "title": "Cozy Cabin at Night with Rain Sounds and Crackling Fireplace for Sleep, Study and Relax",
+        "id": "-mirqViyITY",
+        "url": "https://www.youtube.com/watch?v=-mirqViyITY",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/-mirqViyITY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAul2Lhuyo1skWlX97cTjXUu8JURQ",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/-mirqViyITY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAul2Lhuyo1skWlX97cTjXUu8JURQ",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/-mirqViyITY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAKeKU8FfN4q2ToOFkkVrdYBkAqvg",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "New Bliss",
+          "channelID": "UC-gjtyoUTzGEwWM5Y1J4J7Q",
+          "url": "https://www.youtube.com/channel/UC-gjtyoUTzGEwWM5Y1J4J7Q",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwngKtvWeXEX3JNi59ZMnGTHT6jRuaxBf2rtyPqsWvg=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwngKtvWeXEX3JNi59ZMnGTHT6jRuaxBf2rtyPqsWvg=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "Listen this cozy cabin ambience at night with gentle rain sounds and crackling fireplace. This is the perfect atmosphere for sleep, ...",
+        "views": 2642770,
+        "duration": "3:07:01",
+        "uploadedAt": "4 months ago"
+      },
+      {
+        "type": "video",
+        "title": "Beating Minecraft, But It Rains Lava...",
+        "id": "MH3DGqsvaTg",
+        "url": "https://www.youtube.com/watch?v=MH3DGqsvaTg",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/MH3DGqsvaTg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCYvb4vlBAacmkexWik_ybLp7t-aw",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/MH3DGqsvaTg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCYvb4vlBAacmkexWik_ybLp7t-aw",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/MH3DGqsvaTg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsebQrO2bSo6t1J_jlgtU020Z2Hw",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Dream",
+          "channelID": "UCTkXRDQl0luXxVQrRQvWS6w",
+          "url": "https://www.youtube.com/user/DreamTraps",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnjQDBDnhfQwkv2gmGAr-sEIpUF_JrKdF-inbBvCRA=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjQDBDnhfQwkv2gmGAr-sEIpUF_JrKdF-inbBvCRA=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [
+            "Verified"
+          ],
+          "verified": true
+        },
+        "description": "Beating Minecraft, But It Rains Lava... This was INSANE! George: https://www.youtube.com/GeorgeNotFound Follow my socials: ...",
+        "views": 8685980,
+        "duration": "24:47",
+        "uploadedAt": "1 year ago"
+      },
+      {
+        "type": "video",
+        "title": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.21",
+        "id": "GN1-0Txh5_0",
+        "url": "https://www.youtube.com/watch?v=GN1-0Txh5_0",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/GN1-0Txh5_0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4mU-g1sgIqT4EoDXRJNIigMnX7w",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/GN1-0Txh5_0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4mU-g1sgIqT4EoDXRJNIigMnX7w",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/GN1-0Txh5_0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkZgsVnW99ue4izyUcnHiVtwLCKA",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Nemo's Dreamscapes",
+          "channelID": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+          "url": "https://www.youtube.com/user/ggruie",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.21 - Best if you listen with your ...",
+        "views": 413302,
+        "duration": "1:37:38",
+        "uploadedAt": "1 month ago"
+      },
+      {
+        "type": "video",
+        "title": "Oldies playing in another room and it's raining with thunders - 3 HOURS ASMR Vol.3",
+        "id": "8WhUkxMKhrI",
+        "url": "https://www.youtube.com/watch?v=8WhUkxMKhrI",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/8WhUkxMKhrI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJvc3688tczWfK5oDtwWxsaSxSWw",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/8WhUkxMKhrI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJvc3688tczWfK5oDtwWxsaSxSWw",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/8WhUkxMKhrI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA97eQyEeHGW4p7UKrvL3dIatgOUQ",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Nemo's Dreamscapes",
+          "channelID": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+          "url": "https://www.youtube.com/user/ggruie",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "Oldies playing in another room and it's raining with thunders - 3 HOURS ASMR Vol.3 Best if you use If you like the content and ...",
+        "views": 427509,
+        "duration": "3:00:42",
+        "uploadedAt": "4 months ago"
+      },
+      {
+        "type": "video",
+        "title": "Oldies playing in another room but you are in a dream (night summer rain w/ crickets) 3 HOURS ASMR",
+        "id": "nbhYmOVixRg",
+        "url": "https://www.youtube.com/watch?v=nbhYmOVixRg",
+        "bestThumbnail": {
+          "url": "https://i.ytimg.com/vi/nbhYmOVixRg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlLTOJXU4mQRx0sBAYaESLCzoKkg",
+          "width": 720,
+          "height": 404
+        },
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/nbhYmOVixRg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlLTOJXU4mQRx0sBAYaESLCzoKkg",
+            "width": 720,
+            "height": 404
+          },
+          {
+            "url": "https://i.ytimg.com/vi/nbhYmOVixRg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBX0Z9mGEbQfERjMhAprBQ_MEmgZw",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "isUpcoming": false,
+        "upcoming": null,
+        "isLive": false,
+        "badges": [],
+        "author": {
+          "name": "Nemo's Dreamscapes",
+          "channelID": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+          "url": "https://www.youtube.com/user/ggruie",
+          "bestAvatar": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+            "width": 68,
+            "height": 68
+          },
+          "avatars": [
+            {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68,
+              "height": 68
+            }
+          ],
+          "ownerBadges": [],
+          "verified": false
+        },
+        "description": "Oldies playing in another room but you are in a dream (night summer rain w/ crickets) 3 HOURS ASMR - Best if you listen with ...",
+        "views": 221962,
+        "duration": "3:09:05",
+        "uploadedAt": "3 weeks ago"
+      }
+    ]
+  },
+  "raw": {
+    "richShelfRenderer": {
+      "title": {
+        "simpleText": "People also watched"
+      },
+      "contents": [
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "Lkc5Woyy47I",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/Lkc5Woyy47I/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCptzr54f74FyCAE4aZsFaSVF-MAA",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/Lkc5Woyy47I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAd3eJ-V8FsqURxjzWHAEmNO6kWiA",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Oldies playing in the car and it's raining | Dreamscape (road trip w/ cars passing) 3 HOURS ASMR"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Oldies playing in the car and it's raining | Dreamscape (road trip w/ cars passing) 3 HOURS ASMR by Nemo's Dreamscapes 3 weeks ago 3 hours, 11 minutes 538,588 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Oldies playing in the car and "
+                    },
+                    {
+                      "text": "it's raining",
+                      "bold": true
+                    },
+                    {
+                      "text": " | Dreamscape (road trip w/ cars passing by) 3 HOURS ASMR - Best if you listen with your ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CKIBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "3 weeks ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "3 hours, 11 minutes, 10 seconds"
+                    }
+                  },
+                  "simpleText": "3:11:10"
+                },
+                "viewCountText": {
+                  "simpleText": "538,588 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CKIBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJMgZzZWFyY2hSHUl0J3MgUmFpbmluZyBBZnRlciBBbGwgLSBUVVlVmgEDEPQk",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=Lkc5Woyy47I",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "Lkc5Woyy47I"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CKIBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CKIBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CKIBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJQLLHy-Woq86jLg==",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "538K views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CKUBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CKUBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "Lkc5Woyy47I",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CKUBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "Lkc5Woyy47I"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "Lkc5Woyy47I"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CKUBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CKIBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CKIBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/user/ggruie",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                        "canonicalBaseUrl": "/user/ggruie"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "3 hours, 11 minutes, 10 seconds"
+                          }
+                        },
+                        "simpleText": "3:11:10"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CKQBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "Lkc5Woyy47I",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CKQBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "Lkc5Woyy47I"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CKQBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CKMBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CKMBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "Lkc5Woyy47I",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CKMBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "Lkc5Woyy47I"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "Lkc5Woyy47I"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CKMBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CKEBEJmNBRgAIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "UxjPuxBVZ_Y",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/UxjPuxBVZ_Y/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQlYguO2hHgjT8mfWkWIhv0GobPQ",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/UxjPuxBVZ_Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwirSTrl6YxLk_iX1qIBJmIinEqg",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.19"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.19 by Nemo's Dreamscapes 1 month ago 1 hour, 14 minutes 2,413,997 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Oldies music playing in another room and "
+                    },
+                    {
+                      "text": "it's raining",
+                      "bold": true
+                    },
+                    {
+                      "text": " (no thunders , fireplace) 1 HOUR ASMR v.19 - Best if you listen with your ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJ0BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "1 month ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "1 hour, 14 minutes, 28 seconds"
+                    }
+                  },
+                  "simpleText": "1:14:28"
+                },
+                "viewCountText": {
+                  "simpleText": "2,413,997 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CJ0BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJMgZzZWFyY2hSHUl0J3MgUmFpbmluZyBBZnRlciBBbGwgLSBUVVlVmgEDEPQk",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=UxjPuxBVZ_Y",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "UxjPuxBVZ_Y"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJ0BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJ0BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CJ0BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJQPbP1YKx97OMUw==",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "2.4M views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CKABEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CKABEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "UxjPuxBVZ_Y",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CKABEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "UxjPuxBVZ_Y"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "UxjPuxBVZ_Y"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CKABEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CJ0BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CJ0BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/user/ggruie",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                        "canonicalBaseUrl": "/user/ggruie"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "1 hour, 14 minutes, 28 seconds"
+                          }
+                        },
+                        "simpleText": "1:14:28"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CJ8BEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "UxjPuxBVZ_Y",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CJ8BEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "UxjPuxBVZ_Y"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CJ8BEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CJ4BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CJ4BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "UxjPuxBVZ_Y",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CJ4BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "UxjPuxBVZ_Y"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "UxjPuxBVZ_Y"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CJ4BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CJwBEJmNBRgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "qJwPrKtHCv0",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/qJwPrKtHCv0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHxMk7yvjd2KAC8-XaRJ3Yb-DbnA",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/qJwPrKtHCv0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYgPeRRLOJNAxoyhZiUxGu2gmv2w",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "It's raining. I'll sleep in the car! - Car Camping"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "It's raining. I'll sleep in the car! - Car Camping by dreamy sound 3 months ago 8 hours, 1 minute 6,481,154 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "It's raining",
+                      "bold": true
+                    },
+                    {
+                      "text": ". Drive and park in a quiet, unobstructed place without people. Set up subtle lighting. Read cartoons or read books."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "dreamy sound",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJgBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UCVlp63hzHZx0dXSz0wT5LAQ",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCVlp63hzHZx0dXSz0wT5LAQ"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "3 months ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "8 hours, 1 minute, 13 seconds"
+                    }
+                  },
+                  "simpleText": "8:01:13"
+                },
+                "viewCountText": {
+                  "simpleText": "6,481,154 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CJgBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJMgZzZWFyY2hSHUl0J3MgUmFpbmluZyBBZnRlciBBbGwgLSBUVVlVmgEDEPQk",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=qJwPrKtHCv0",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "qJwPrKtHCv0"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "dreamy sound",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJgBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UCVlp63hzHZx0dXSz0wT5LAQ",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCVlp63hzHZx0dXSz0wT5LAQ"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "dreamy sound",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJgBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UCVlp63hzHZx0dXSz0wT5LAQ",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCVlp63hzHZx0dXSz0wT5LAQ"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CJgBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJQP2VnNrK9YPOqAE=",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "6.4M views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CJsBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CJsBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "qJwPrKtHCv0",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CJsBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "qJwPrKtHCv0"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "qJwPrKtHCv0"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CJsBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CJgBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwnjbL0iesI1P-eSswvdy7_yX-gkSA5RoAvxfk46Q=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CJgBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/channel/UCVlp63hzHZx0dXSz0wT5LAQ",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCVlp63hzHZx0dXSz0wT5LAQ"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "8 hours, 1 minute, 13 seconds"
+                          }
+                        },
+                        "simpleText": "8:01:13"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CJoBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "qJwPrKtHCv0",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CJoBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "qJwPrKtHCv0"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CJoBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CJkBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CJkBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "qJwPrKtHCv0",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CJkBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "qJwPrKtHCv0"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "qJwPrKtHCv0"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CJkBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CJcBEJmNBRgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "iMXWe-7MDvc",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/iMXWe-7MDvc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3zFUjoZ5bHu-5yTtgys_basYUcA",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/iMXWe-7MDvc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUeRbV3gfFBZoVUkseTFfNBJXmVA",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "its raining and i miss you extended version"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "its raining and i miss you extended version by Netizens 10 months ago 3 hours, 38 minutes 1,315,276 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "listening to lofi while a storm rages outside Sad & Calm Mix Lofi/Chill Beats More sad & chill mixes - http://bit.do/sad-mixes ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Netizens",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJMBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UCqFi0L6-1a2WIqvFOKj5Pdw",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCqFi0L6-1a2WIqvFOKj5Pdw"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "10 months ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "3 hours, 38 minutes, 5 seconds"
+                    }
+                  },
+                  "simpleText": "3:38:05"
+                },
+                "viewCountText": {
+                  "simpleText": "1,315,276 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CJMBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJMgZzZWFyY2hSHUl0J3MgUmFpbmluZyBBZnRlciBBbGwgLSBUVVlVmgEDEPQk",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=iMXWe-7MDvc",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "iMXWe-7MDvc"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Netizens",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJMBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UCqFi0L6-1a2WIqvFOKj5Pdw",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCqFi0L6-1a2WIqvFOKj5Pdw"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Netizens",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CJMBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UCqFi0L6-1a2WIqvFOKj5Pdw",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCqFi0L6-1a2WIqvFOKj5Pdw"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CJMBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJQPedsPa-z_XiiAE=",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "1.3M views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CJYBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CJYBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "iMXWe-7MDvc",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CJYBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "iMXWe-7MDvc"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "iMXWe-7MDvc"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CJYBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CJMBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwni0vINOPFyRa1yFTPWWxJmmsb7ZtCBw8sS6O7xL=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CJMBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/channel/UCqFi0L6-1a2WIqvFOKj5Pdw",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCqFi0L6-1a2WIqvFOKj5Pdw"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "3 hours, 38 minutes, 5 seconds"
+                          }
+                        },
+                        "simpleText": "3:38:05"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CJUBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "iMXWe-7MDvc",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CJUBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "iMXWe-7MDvc"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CJUBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CJQBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CJQBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "iMXWe-7MDvc",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CJQBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "iMXWe-7MDvc"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "iMXWe-7MDvc"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CJQBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CJIBEJmNBRgDIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "1fgk7Yfc53A",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/1fgk7Yfc53A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAd4kOU0dcvfBHtDJbC_5wmB9Pig",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/1fgk7Yfc53A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC6rKG5EwvmijpKzOWj0QY64Hs4aQ",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Oldies music playing in another room and it's raining (no thunders , fireplace) 2 HOURS ASMR v.18"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Oldies music playing in another room and it's raining (no thunders , fireplace) 2 HOURS ASMR v.18 by Nemo's Dreamscapes 2 months ago 2 hours, 10 minutes 676,408 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Oldies music playing in another room and "
+                    },
+                    {
+                      "text": "it's raining",
+                      "bold": true
+                    },
+                    {
+                      "text": " (no thunders , fireplace) 2 HOURS ASMR v.18 - Best if you listen with your ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CI4BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "2 months ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "2 hours, 10 minutes, 20 seconds"
+                    }
+                  },
+                  "simpleText": "2:10:20"
+                },
+                "viewCountText": {
+                  "simpleText": "676,408 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CI4BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJMgZzZWFyY2hSHUl0J3MgUmFpbmluZyBBZnRlciBBbGwgLSBUVVlVmgEDEPQk",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=1fgk7Yfc53A",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "1fgk7Yfc53A"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CI4BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CI4BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CI4BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJQPDO877YnYn81QE=",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "676K views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CJEBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CJEBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "1fgk7Yfc53A",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CJEBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "1fgk7Yfc53A"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "1fgk7Yfc53A"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CJEBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CI4BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CI4BENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/user/ggruie",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                        "canonicalBaseUrl": "/user/ggruie"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "2 hours, 10 minutes, 20 seconds"
+                          }
+                        },
+                        "simpleText": "2:10:20"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CJABEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "1fgk7Yfc53A",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CJABEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "1fgk7Yfc53A"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CJABEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CI8BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CI8BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "1fgk7Yfc53A",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CI8BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "1fgk7Yfc53A"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "1fgk7Yfc53A"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CI8BEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CI0BEJmNBRgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "-mirqViyITY",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/-mirqViyITY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAKeKU8FfN4q2ToOFkkVrdYBkAqvg",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/-mirqViyITY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAul2Lhuyo1skWlX97cTjXUu8JURQ",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Cozy Cabin at Night with Rain Sounds and Crackling Fireplace for Sleep, Study and Relax"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Cozy Cabin at Night with Rain Sounds and Crackling Fireplace for Sleep, Study and Relax by New Bliss 4 months ago 3 hours, 7 minutes 2,642,770 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Listen this cozy cabin ambience at night with gentle "
+                    },
+                    {
+                      "text": "rain",
+                      "bold": true
+                    },
+                    {
+                      "text": " sounds and crackling fireplace. This is the perfect atmosphere for sleep, ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "New Bliss",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CIkBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UC-gjtyoUTzGEwWM5Y1J4J7Q",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UC-gjtyoUTzGEwWM5Y1J4J7Q"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "4 months ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "3 hours, 7 minutes, 1 second"
+                    }
+                  },
+                  "simpleText": "3:07:01"
+                },
+                "viewCountText": {
+                  "simpleText": "2,642,770 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CIkBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJMgZzZWFyY2hSHUl0J3MgUmFpbmluZyBBZnRlciBBbGwgLSBUVVlVmgEDEPQk",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=-mirqViyITY",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "-mirqViyITY"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "New Bliss",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CIkBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UC-gjtyoUTzGEwWM5Y1J4J7Q",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UC-gjtyoUTzGEwWM5Y1J4J7Q"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "New Bliss",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CIkBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/channel/UC-gjtyoUTzGEwWM5Y1J4J7Q",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UC-gjtyoUTzGEwWM5Y1J4J7Q"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CIkBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJQLbCyMWV9aq0-gE=",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "2.6M views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CIwBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CIwBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "-mirqViyITY",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CIwBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "-mirqViyITY"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "-mirqViyITY"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CIwBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CIkBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwngKtvWeXEX3JNi59ZMnGTHT6jRuaxBf2rtyPqsWvg=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CIkBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/channel/UC-gjtyoUTzGEwWM5Y1J4J7Q",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UC-gjtyoUTzGEwWM5Y1J4J7Q"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "3 hours, 7 minutes, 1 second"
+                          }
+                        },
+                        "simpleText": "3:07:01"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CIsBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "-mirqViyITY",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CIsBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "-mirqViyITY"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CIsBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CIoBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CIoBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "-mirqViyITY",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CIoBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "-mirqViyITY"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "-mirqViyITY"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CIoBEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CIgBEJmNBRgFIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "MH3DGqsvaTg",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/MH3DGqsvaTg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsebQrO2bSo6t1J_jlgtU020Z2Hw",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/MH3DGqsvaTg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCYvb4vlBAacmkexWik_ybLp7t-aw",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Beating Minecraft, But It Rains Lava..."
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Beating Minecraft, But It Rains Lava... by Dream 1 year ago 24 minutes 8,685,980 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Beating Minecraft, But It "
+                    },
+                    {
+                      "text": "Rains",
+                      "bold": true
+                    },
+                    {
+                      "text": " Lava... This was INSANE! George: https://www.youtube.com/GeorgeNotFound Follow my socials: ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Dream",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/DreamTraps",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCTkXRDQl0luXxVQrRQvWS6w",
+                          "canonicalBaseUrl": "/user/DreamTraps"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "1 year ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "24 minutes, 47 seconds"
+                    }
+                  },
+                  "simpleText": "24:47"
+                },
+                "viewCountText": {
+                  "simpleText": "8,685,980 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJMgZzZWFyY2hSHUl0J3MgUmFpbmluZyBBZnRlciBBbGwgLSBUVVlVmgEDEPQk",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=MH3DGqsvaTg",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "MH3DGqsvaTg"
+                  }
+                },
+                "ownerBadges": [
+                  {
+                    "metadataBadgeRenderer": {
+                      "icon": {
+                        "iconType": "CHECK_CIRCLE_THICK"
+                      },
+                      "style": "BADGE_STYLE_TYPE_VERIFIED",
+                      "tooltip": "Verified",
+                      "trackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  }
+                ],
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Dream",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/DreamTraps",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCTkXRDQl0luXxVQrRQvWS6w",
+                          "canonicalBaseUrl": "/user/DreamTraps"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Dream",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/DreamTraps",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCTkXRDQl0luXxVQrRQvWS6w",
+                          "canonicalBaseUrl": "/user/DreamTraps"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJQLjSvdmq4_C-MA==",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "8.6M views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CIcBEP6YBBgFIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CIcBEP6YBBgFIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "MH3DGqsvaTg",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CIcBEP6YBBgFIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "MH3DGqsvaTg"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "MH3DGqsvaTg"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CIcBEP6YBBgFIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwnjQDBDnhfQwkv2gmGAr-sEIpUF_JrKdF-inbBvCRA=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CIQBENwwIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/user/DreamTraps",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCTkXRDQl0luXxVQrRQvWS6w",
+                        "canonicalBaseUrl": "/user/DreamTraps"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "24 minutes, 47 seconds"
+                          }
+                        },
+                        "simpleText": "24:47"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CIYBEPnnAxgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "MH3DGqsvaTg",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CIYBEPnnAxgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "MH3DGqsvaTg"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CIYBEPnnAxgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CIUBEMfsBBgDIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CIUBEMfsBBgDIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "MH3DGqsvaTg",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CIUBEMfsBBgDIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "MH3DGqsvaTg"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "MH3DGqsvaTg"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CIUBEMfsBBgDIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CIMBEJmNBRgGIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "GN1-0Txh5_0",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/GN1-0Txh5_0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkZgsVnW99ue4izyUcnHiVtwLCKA",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/GN1-0Txh5_0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4mU-g1sgIqT4EoDXRJNIigMnX7w",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.21"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Oldies music playing in another room and it's raining (no thunders , fireplace) 1 HOUR ASMR v.21 by Nemo's Dreamscapes 1 month ago 1 hour, 37 minutes 413,302 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Oldies music playing in another room and "
+                    },
+                    {
+                      "text": "it's raining",
+                      "bold": true
+                    },
+                    {
+                      "text": " (no thunders , fireplace) 1 HOUR ASMR v.21 - Best if you listen with your ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CH8Q3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "1 month ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "1 hour, 37 minutes, 38 seconds"
+                    }
+                  },
+                  "simpleText": "1:37:38"
+                },
+                "viewCountText": {
+                  "simpleText": "413,302 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CH8Q3DAiEwilvPmJh9XuAhVNKbcAHeFVBkkyBnNlYXJjaFIdSXQncyBSYWluaW5nIEFmdGVyIEFsbCAtIFRVWVWaAQMQ9CQ=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=GN1-0Txh5_0",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "GN1-0Txh5_0"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CH8Q3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CH8Q3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CH8Q3DAiEwilvPmJh9XuAhVNKbcAHeFVBklA_c-H45Pa3-4Y",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "413K views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CIIBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CIIBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "GN1-0Txh5_0",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CIIBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "GN1-0Txh5_0"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "GN1-0Txh5_0"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CIIBEP6YBBgEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                        }
+                      }
+                    ],
+                    "trackingParams": "CH8Q3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CH8Q3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/user/ggruie",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                        "canonicalBaseUrl": "/user/ggruie"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "1 hour, 37 minutes, 38 seconds"
+                          }
+                        },
+                        "simpleText": "1:37:38"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CIEBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "GN1-0Txh5_0",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CIEBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "GN1-0Txh5_0"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CIEBEPnnAxgBIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CIABEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CIABEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "GN1-0Txh5_0",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CIABEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "GN1-0Txh5_0"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "GN1-0Txh5_0"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CIABEMfsBBgCIhMIpbz5iYfV7gIVTSm3AB3hVQZJ"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CH4QmY0FGAciEwilvPmJh9XuAhVNKbcAHeFVBkk="
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "8WhUkxMKhrI",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/8WhUkxMKhrI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA97eQyEeHGW4p7UKrvL3dIatgOUQ",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/8WhUkxMKhrI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJvc3688tczWfK5oDtwWxsaSxSWw",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Oldies playing in another room and it's raining with thunders - 3 HOURS ASMR Vol.3"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Oldies playing in another room and it's raining with thunders - 3 HOURS ASMR Vol.3 by Nemo's Dreamscapes 4 months ago 3 hours 427,509 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Oldies playing in another room and "
+                    },
+                    {
+                      "text": "it's raining",
+                      "bold": true
+                    },
+                    {
+                      "text": " with thunders - 3 HOURS ASMR Vol.3 Best if you use If you like the content and ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CHoQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "4 months ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "3 hours, 42 seconds"
+                    }
+                  },
+                  "simpleText": "3:00:42"
+                },
+                "viewCountText": {
+                  "simpleText": "427,509 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CHoQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkkyBnNlYXJjaFIdSXQncyBSYWluaW5nIEFmdGVyIEFsbCAtIFRVWVWaAQMQ9CQ=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=8WhUkxMKhrI",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "8WhUkxMKhrI"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CHoQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CHoQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CHoQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBklAso2qmLGSlbTxAQ==",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "427K views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CH0Q_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CH0Q_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "8WhUkxMKhrI",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CH0Q_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "8WhUkxMKhrI"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "8WhUkxMKhrI"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CH0Q_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+                        }
+                      }
+                    ],
+                    "trackingParams": "CHoQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CHoQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/user/ggruie",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                        "canonicalBaseUrl": "/user/ggruie"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "3 hours, 42 seconds"
+                          }
+                        },
+                        "simpleText": "3:00:42"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CHwQ-ecDGAEiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "8WhUkxMKhrI",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CHwQ-ecDGAEiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "8WhUkxMKhrI"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CHwQ-ecDGAEiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CHsQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CHsQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "8WhUkxMKhrI",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CHsQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "8WhUkxMKhrI"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "8WhUkxMKhrI"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CHsQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CHkQmY0FGAgiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+          }
+        },
+        {
+          "richItemRenderer": {
+            "content": {
+              "videoRenderer": {
+                "videoId": "nbhYmOVixRg",
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/nbhYmOVixRg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBX0Z9mGEbQfERjMhAprBQ_MEmgZw",
+                      "width": 360,
+                      "height": 202
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/nbhYmOVixRg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlLTOJXU4mQRx0sBAYaESLCzoKkg",
+                      "width": 720,
+                      "height": 404
+                    }
+                  ]
+                },
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Oldies playing in another room but you are in a dream (night summer rain w/ crickets) 3 HOURS ASMR"
+                    }
+                  ],
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Oldies playing in another room but you are in a dream (night summer rain w/ crickets) 3 HOURS ASMR by Nemo's Dreamscapes 3 weeks ago 3 hours, 9 minutes 221,962 views"
+                    }
+                  }
+                },
+                "descriptionSnippet": {
+                  "runs": [
+                    {
+                      "text": "Oldies playing in another room but you are in a dream (night summer "
+                    },
+                    {
+                      "text": "rain",
+                      "bold": true
+                    },
+                    {
+                      "text": " w/ crickets) 3 HOURS ASMR - Best if you listen with ..."
+                    }
+                  ]
+                },
+                "longBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CHUQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "publishedTimeText": {
+                  "simpleText": "3 weeks ago"
+                },
+                "lengthText": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "3 hours, 9 minutes, 5 seconds"
+                    }
+                  },
+                  "simpleText": "3:09:05"
+                },
+                "viewCountText": {
+                  "simpleText": "221,962 views"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CHUQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkkyBnNlYXJjaFIdSXQncyBSYWluaW5nIEFmdGVyIEFsbCAtIFRVWVWaAQMQ9CQ=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=nbhYmOVixRg",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "nbhYmOVixRg"
+                  }
+                },
+                "ownerText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CHUQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "shortBylineText": {
+                  "runs": [
+                    {
+                      "text": "Nemo's Dreamscapes",
+                      "navigationEndpoint": {
+                        "clickTrackingParams": "CHUQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "/user/ggruie",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                          }
+                        },
+                        "browseEndpoint": {
+                          "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                          "canonicalBaseUrl": "/user/ggruie"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "trackingParams": "CHUQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBklAmIqLq46TltydAQ==",
+                "showActionMenu": false,
+                "shortViewCountText": {
+                  "simpleText": "221K views"
+                },
+                "menu": {
+                  "menuRenderer": {
+                    "items": [
+                      {
+                        "menuServiceItemRenderer": {
+                          "text": {
+                            "runs": [
+                              {
+                                "text": "Add to queue"
+                              }
+                            ]
+                          },
+                          "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                          },
+                          "serviceEndpoint": {
+                            "clickTrackingParams": "CHgQ_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "sendPost": true
+                              }
+                            },
+                            "signalServiceEndpoint": {
+                              "signal": "CLIENT_SIGNAL",
+                              "actions": [
+                                {
+                                  "clickTrackingParams": "CHgQ_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                                  "addToPlaylistCommand": {
+                                    "openMiniplayer": true,
+                                    "videoId": "nbhYmOVixRg",
+                                    "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                    "onCreateListCommand": {
+                                      "clickTrackingParams": "CHgQ_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/playlist/create"
+                                        }
+                                      },
+                                      "createPlaylistServiceEndpoint": {
+                                        "videoIds": [
+                                          "nbhYmOVixRg"
+                                        ],
+                                        "params": "CAQ%3D"
+                                      }
+                                    },
+                                    "videoIds": [
+                                      "nbhYmOVixRg"
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "trackingParams": "CHgQ_pgEGAQiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+                        }
+                      }
+                    ],
+                    "trackingParams": "CHUQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Action menu"
+                      }
+                    }
+                  }
+                },
+                "channelThumbnailSupportedRenderers": {
+                  "channelThumbnailWithLinkRenderer": {
+                    "thumbnail": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/ytc/AAUvwniXpvOXFoWvzVnlxQoxMeQf1iAZUTIpo33iVWYV=s68-c-k-c0x00ffffff-no-rj",
+                          "width": 68,
+                          "height": 68
+                        }
+                      ]
+                    },
+                    "navigationEndpoint": {
+                      "clickTrackingParams": "CHUQ3DAiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/user/ggruie",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCOVcAiUMS7RZ6RVUcrwAYXA",
+                        "canonicalBaseUrl": "/user/ggruie"
+                      }
+                    },
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "Go to channel"
+                      }
+                    }
+                  }
+                },
+                "thumbnailOverlays": [
+                  {
+                    "thumbnailOverlayTimeStatusRenderer": {
+                      "text": {
+                        "accessibility": {
+                          "accessibilityData": {
+                            "label": "3 hours, 9 minutes, 5 seconds"
+                          }
+                        },
+                        "simpleText": "3:09:05"
+                      },
+                      "style": "DEFAULT"
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "isToggled": false,
+                      "untoggledIcon": {
+                        "iconType": "WATCH_LATER"
+                      },
+                      "toggledIcon": {
+                        "iconType": "CHECK"
+                      },
+                      "untoggledTooltip": "Watch later",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CHcQ-ecDGAEiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "addedVideoId": "nbhYmOVixRg",
+                              "action": "ACTION_ADD_VIDEO"
+                            }
+                          ]
+                        }
+                      },
+                      "toggledServiceEndpoint": {
+                        "clickTrackingParams": "CHcQ-ecDGAEiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                          }
+                        },
+                        "playlistEditEndpoint": {
+                          "playlistId": "WL",
+                          "actions": [
+                            {
+                              "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                              "removedVideoId": "nbhYmOVixRg"
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Watch later"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CHcQ-ecDGAEiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+                    }
+                  },
+                  {
+                    "thumbnailOverlayToggleButtonRenderer": {
+                      "untoggledIcon": {
+                        "iconType": "ADD_TO_QUEUE_TAIL"
+                      },
+                      "toggledIcon": {
+                        "iconType": "PLAYLIST_ADD_CHECK"
+                      },
+                      "untoggledTooltip": "Add to queue",
+                      "toggledTooltip": "Added",
+                      "untoggledServiceEndpoint": {
+                        "clickTrackingParams": "CHYQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true
+                          }
+                        },
+                        "signalServiceEndpoint": {
+                          "signal": "CLIENT_SIGNAL",
+                          "actions": [
+                            {
+                              "clickTrackingParams": "CHYQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                              "addToPlaylistCommand": {
+                                "openMiniplayer": true,
+                                "videoId": "nbhYmOVixRg",
+                                "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                "onCreateListCommand": {
+                                  "clickTrackingParams": "CHYQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk=",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "sendPost": true,
+                                      "apiUrl": "/youtubei/v1/playlist/create"
+                                    }
+                                  },
+                                  "createPlaylistServiceEndpoint": {
+                                    "videoIds": [
+                                      "nbhYmOVixRg"
+                                    ],
+                                    "params": "CAQ%3D"
+                                  }
+                                },
+                                "videoIds": [
+                                  "nbhYmOVixRg"
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "untoggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Add to queue"
+                        }
+                      },
+                      "toggledAccessibility": {
+                        "accessibilityData": {
+                          "label": "Added"
+                        }
+                      },
+                      "trackingParams": "CHYQx-wEGAIiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+                    }
+                  },
+                  {
+                    "thumbnailOverlayNowPlayingRenderer": {
+                      "text": {
+                        "runs": [
+                          {
+                            "text": "Now playing"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "trackingParams": "CHQQmY0FGAkiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+          }
+        }
+      ],
+      "trackingParams": "CHIQr-MEIhMIpbz5iYfV7gIVTSm3AB3hVQZJ",
+      "showMoreButton": {
+        "buttonRenderer": {
+          "style": "STYLE_OPACITY",
+          "size": "SIZE_DEFAULT",
+          "icon": {
+            "iconType": "EXPAND"
+          },
+          "accessibility": {
+            "label": "Show more"
+          },
+          "tooltip": "Show more",
+          "trackingParams": "CHMQ8FsiEwilvPmJh9XuAhVNKbcAHeFVBkk="
+        }
+      }
+    }
+  }
+}
