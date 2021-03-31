@@ -49,12 +49,12 @@
   "devDependencies": {
     "assert-diff": "^3.0.2",
     "codecov": "^3.8.1",
-    "dtslint": "^4.0.7",
-    "eslint": "^7.20.0",
-    "mocha": "^8.3.0",
-    "nock": "^13.0.7",
+    "dtslint": "^4.0.8",
+    "eslint": "^7.23.0",
+    "mocha": "^8.3.2",
+    "nock": "^13.0.11",
     "nyc": "^15.1.0",
-    "typescript": "^4.1.5"
+    "typescript": "^4.2.3"
   },
   "engines": {
     "node": ">=8"
