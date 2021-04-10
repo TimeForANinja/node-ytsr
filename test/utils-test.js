@@ -122,6 +122,13 @@ describe('utils.parseText()', () => {
       'default-value',
     );
   });
+
+  it('does not error when passed undefined', () => {
+    ASSERT.equal(
+      UTILS.parseText(undefined, 'default-value'),
+      'default-value',
+    );
+  });
 });
 
 describe('utils.parseIntegerFromText()', () => {
