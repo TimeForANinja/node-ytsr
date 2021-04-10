@@ -102,7 +102,7 @@ describe('utils.parseText()', () => {
     );
   });
 
-  it('parges from runs', () => {
+  it('parses from runs', () => {
     ASSERT.equal(
       UTILS.parseText({ runs: [{ text: 'a ' }, { text: 'b' }, { text: ' c' }] }),
       'a b c',
@@ -113,6 +113,13 @@ describe('utils.parseText()', () => {
     ASSERT.equal(
       UTILS.parseText({ simpleText: 'simpleText', runs: [{ text: 'a' }] }),
       'simpleText',
+    );
+  });
+
+  it('picks default withput simpletext and runs', () => {
+    ASSERT.equal(
+      UTILS.parseText({ runs: 'runs is no array' }, 'default-value'),
+      'default-value',
     );
   });
 });
