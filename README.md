@@ -82,7 +82,7 @@ var ytsr = require('ytsr');
 
 const search = await ytsr('github', { pages: 1 });
 display(search.items);
-const r2 = ytsr.continueReq(playlist.continuation);
+const r2 = ytsr.continueReq(search.continuation);
 display(r2.items);
 const r3 = ytsr.continueReq(r2.continuation);
 display(r3.items);
