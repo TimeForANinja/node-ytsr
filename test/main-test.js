@@ -124,6 +124,26 @@ describe('YTSR()', () => {
     scope2.done();
   });
 
+  it('continues with second page (alternative Version)', async() => {
+    const scope1 = NOCK(YT_HOST)
+      .get(SEARCH_PATH)
+      .query({ gl: 'US', hl: 'en', search_query: 'testing' })
+      .replyWithFile(200, 'test/pages/firstpage_01.html');
+
+    const scope2 = NOCK(YT_HOST)
+      .post(API_PATH, body => body.continuation === '<firstContinuationToken>')
+      .query({ key: '<apikey>' })
+      .replyWithFile(200, 'test/pages/secondpage_02.html');
+
+    const resp = await YTSR('testing', { pages: 2 });
+    ASSERT.equal(resp.items.length, 41);
+    ASSERT.equal(resp.continuation[0], '<apikey>');
+    ASSERT.equal(resp.continuation[1], '<secondContinuationToken>');
+    ASSERT.equal(resp.continuation[2].client.clientVersion, '<client_version>');
+    scope1.done();
+    scope2.done();
+  });
+
   it('continues with second page recursively', async() => {
     const scope1 = NOCK(YT_HOST)
       .get(SEARCH_PATH)

@@ -3,7 +3,7 @@
   "throws": null,
   "type": "messageRenderer",
   "parsed": null,
-  "raw":   {
+  "raw": {
     "messageRenderer": {
       "text": {
         "runs": [

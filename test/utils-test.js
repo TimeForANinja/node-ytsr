@@ -29,6 +29,13 @@ describe('utils.parseFilters()', () => {
     );
   });
 
+  it('does not error for the alternative version', () => {
+    const data2 = JSON.parse(FS.readFileSync('test/pages/firstpage_alternativeVersion.json', 'utf8'));
+    ASSERT.doesNotThrow(() => {
+      UTILS.parseFilters(data2);
+    });
+  });
+
   it('set\'s active property', () => {
     const resp = UTILS.parseFilters(data);
     ASSERT.equal(resp.get('Duration').active, null);
@@ -95,7 +102,7 @@ describe('utils.parseText()', () => {
     );
   });
 
-  it('parges from runs', () => {
+  it('parses from runs', () => {
     ASSERT.equal(
       UTILS.parseText({ runs: [{ text: 'a ' }, { text: 'b' }, { text: ' c' }] }),
       'a b c',
@@ -106,6 +113,20 @@ describe('utils.parseText()', () => {
     ASSERT.equal(
       UTILS.parseText({ simpleText: 'simpleText', runs: [{ text: 'a' }] }),
       'simpleText',
+    );
+  });
+
+  it('picks default withput simpletext and runs', () => {
+    ASSERT.equal(
+      UTILS.parseText({ runs: 'runs is no array' }, 'default-value'),
+      'default-value',
+    );
+  });
+
+  it('does not error when passed undefined', () => {
+    ASSERT.equal(
+      UTILS.parseText(undefined, 'default-value'),
+      'default-value',
     );
   });
 });
@@ -314,6 +335,56 @@ describe('utils.prepImg()', () => {
     const images = [{ url: '//test.com' }];
     const preped = UTILS.prepImg(images);
     ASSERT.equal(preped[0].url, 'https://test.com/');
+  });
+});
+
+describe('utilts.parseWrapper()', () => {
+  const data = [
+    JSON.parse(FS.readFileSync('test/pages/firstpage_alternativeVersion.json', 'utf8')),
+    JSON.parse(FS.readFileSync('test/pages/firstpage_payload.json', 'utf8')),
+  ];
+
+  it('parses properties', () => {
+    for (const d of data) {
+      const { rawItems, continuation } = UTILS.parseWrapper(
+        d.contents.twoColumnSearchResultsRenderer.primaryContents,
+      );
+      ASSERT.ok(Array.isArray(rawItems));
+      ASSERT.ok(rawItems.length > 0);
+      ASSERT.ok(continuation !== null);
+    }
+  });
+
+  it('defaults to null & empty arra', () => {
+    const { rawItems, continuation } = UTILS.parseWrapper({});
+    ASSERT.ok(Array.isArray(rawItems));
+    ASSERT.equal(rawItems.length, 0);
+    ASSERT.equal(continuation, null);
+  });
+});
+
+describe('utilts.parsePage2Wrapper()', () => {
+  const data = [
+    JSON.parse(FS.readFileSync('test/pages/secondpage_01.html', 'utf8')),
+    JSON.parse(FS.readFileSync('test/pages/secondpage_02.html', 'utf8')),
+  ];
+
+  it('parses properties', () => {
+    for (const d of data) {
+      const { rawItems, continuation } = UTILS.parsePage2Wrapper(
+        d.onResponseReceivedCommands[0].appendContinuationItemsAction.continuationItems,
+      );
+      ASSERT.ok(Array.isArray(rawItems));
+      ASSERT.ok(rawItems.length > 0);
+      ASSERT.ok(continuation !== null);
+    }
+  });
+
+  it('defaults to null & empty arra', () => {
+    const { rawItems, continuation } = UTILS.parseWrapper({});
+    ASSERT.ok(Array.isArray(rawItems));
+    ASSERT.equal(rawItems.length, 0);
+    ASSERT.equal(continuation, null);
   });
 });
 

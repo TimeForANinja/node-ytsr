@@ -5,8 +5,8 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/timeforaninja/node-ytsr/badge.svg)](https://snyk.io/test/github/timeforaninja/node-ytsr)
 [![Discord](https://img.shields.io/discord/484464227067887645.svg)](https://discord.gg/V3vSCs7)
 
-Simple js only module to search YouTube
-Doesn't need any login or GoogleAPI key
+Simple js only package to search for Youtube for Videos, Playlists and many more.
+Does not require any login or Google-API-Key.
 
 # Support
 You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
@@ -54,7 +54,7 @@ const ytsr = require('ytsr');
 const filters1 = await ytsr.getFilters('github');
 const filter1 = filters1.get('Type').get('Video');
 const filters2 = await ytsr.getFilters(filter1.url);
-const filter2 = filters2.get('Duration').get('Short');
+const filter2 = filters2.get('Features').get('Live');
 const options = {
   pages: 2,
 }
@@ -82,7 +82,7 @@ var ytsr = require('ytsr');
 
 const search = await ytsr('github', { pages: 1 });
 display(search.items);
-const r2 = ytsr.continueReq(playlist.continuation);
+const r2 = ytsr.continueReq(search.continuation);
 display(r2.items);
 const r3 = ytsr.continueReq(r2.continuation);
 display(r3.items);
