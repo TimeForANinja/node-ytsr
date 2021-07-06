@@ -17,7 +17,6 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 const ytsr = require('ytsr');
 
 const searchResults = await ytsr('github');
-dosth(searchResults);
 ```
 
 
@@ -59,7 +58,6 @@ const options = {
   pages: 2,
 }
 const searchResults = await ytsr(filter2.url, options);
-dosth(searchResults);
 ```
 
 * `searchString`
