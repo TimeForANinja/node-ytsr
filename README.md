@@ -17,7 +17,6 @@ You can contact us for support on our [chat server](https://discord.gg/V3vSCs7)
 const ytsr = require('ytsr');
 
 const searchResults = await ytsr('github');
-dosth(searchResults);
 ```
 
 
@@ -59,7 +58,6 @@ const options = {
   pages: 2,
 }
 const searchResults = await ytsr(filter2.url, options);
-dosth(searchResults);
 ```
 
 * `searchString`
@@ -78,14 +76,16 @@ The previous request had to be done using `pages` limitation.
 
 #### Usage
 ```js
-var ytsr = require('ytsr');
+const ytsr = require('ytsr');
 
-const search = await ytsr('github', { pages: 1 });
-display(search.items);
-const r2 = ytsr.continueReq(search.continuation);
-display(r2.items);
-const r3 = ytsr.continueReq(r2.continuation);
-display(r3.items);
+const firstResultBatch = await ytsr('github', { pages: 1 });
+const secondResultBatch = ytsr.continueReq(firstResultBatch.continuation);
+const thirdResultBatch = ytsr.continueReq(secondResultBatch.continuation);
+
+// You can now use the .items property of all result batches e.g.:
+console.log(firstResultBatch.items);
+console.log(secondResultBatch.items);
+console.log(thirdResultBatch.items);
 ```
 
 * returns a Promise resolving into `{ continuation, items }`
