@@ -1,0 +1,40 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "includingResultsForRenderer",
+  "parsed": null,
+  "raw": {
+    "includingResultsForRenderer": {
+      "includingResultsFor": {
+        "runs": [
+          {
+            "text": "Including results for:"
+          }
+        ]
+      },
+      "correctedQuery": {
+        "runs": [
+          {
+            "text": "SherlockLives",
+            "italics": true
+          }
+        ]
+      },
+      "correctedQueryEndpoint": {
+        "clickTrackingParams": "CI4BEO8wGAAiEwjy5aamwb_xAhWHw0wCHWjaAW8=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/results?search_query=SherlockLives&sp=EgIQAQ%253D%253D",
+            "webPageType": "WEB_PAGE_TYPE_SEARCH",
+            "rootVe": 4724
+          }
+        },
+        "searchEndpoint": {
+          "query": "SherlockLives",
+          "params": "EgIQAQ%3D%3D"
+        }
+      },
+      "trackingParams": "CI4BEO8wGAAiEwjy5aamwb_xAhWHw0wCHWjaAW8="
+    }
+  }
+}
