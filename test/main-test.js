@@ -291,6 +291,30 @@ describe('YTSR.continue()', () => {
     scope2.done();
   });
 
+  it('does support json.stringifying the continuation ytsr()', async() => {
+    const scope1 = NOCK(YT_HOST)
+      .get(SEARCH_PATH)
+      .query({ gl: 'US', hl: 'en', search_query: 'testing' })
+      .replyWithFile(200, 'test/pages/firstpage_01.html');
+
+    const resp = await YTSR('testing', { pages: 1 });
+
+    const body = { context: resp.continuation[2], continuation: resp.continuation[1] };
+    const scope2 = NOCK(YT_HOST, { reqheaders: resp.continuation[3].headers })
+      .post(API_PATH, JSON.stringify(body))
+      .query({ key: resp.continuation[0] })
+      .replyWithFile(200, 'test/pages/secondpage_01.html');
+
+    // This can set values like limit from Infinity to null
+    const conti = JSON.parse(JSON.stringify(resp.continuation));
+    const { items, continuation } = await YTSR.continueReq(conti);
+    ASSERT.equal(items.length, 18);
+    ASSERT.ok(Array.isArray(continuation));
+    ASSERT.equal(continuation[1], '<secondContinuationToken>');
+    scope1.done();
+    scope2.done();
+  });
+
   it('handles "no more results" response', async() => {
     const opts = [
       'apiKey',
