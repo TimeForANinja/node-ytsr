@@ -1,0 +1,92 @@
+{
+  "specialities": "skip compactPromotedItemRenderer",
+  "throws": null,
+  "type": "compactPromotedItemRenderer",
+  "parsed": null,
+  "raw": {
+    "compactPromotedItemRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://www.gstatic.com/youtube/img/originals/promo/ytr-logo-for-search_80x80.png",
+            "width": 80,
+            "height": 80
+          },
+          {
+            "url": "https://www.gstatic.com/youtube/img/originals/promo/ytr-logo-for-search_160x160.png",
+            "width": 160,
+            "height": 160
+          },
+          {
+            "url": "https://www.gstatic.com/youtube/img/originals/promo/ytr-logo-for-search_256x256.png",
+            "width": 256,
+            "height": 256
+          },
+          {
+            "url": "https://www.gstatic.com/youtube/img/originals/promo/ytr-logo-for-search_512x512.png",
+            "width": 512,
+            "height": 512
+          }
+        ]
+      },
+      "title": {
+        "simpleText": "YouTube Premium"
+      },
+      "subtitle": {
+        "runs": [
+          {
+            "text": "Ad-free YouTube and YouTube Music"
+          }
+        ]
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CLwBEOSrAhgAIhMIx4zru6Cq8gIVBve0Ch3-6gfa",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "/premium",
+            "webPageType": "WEB_PAGE_TYPE_BROWSE",
+            "rootVe": 11487,
+            "apiUrl": "/youtubei/v1/browse"
+          }
+        },
+        "browseEndpoint": {
+          "browseId": "SPunlimited"
+        }
+      },
+      "actionButton": {
+        "buttonRenderer": {
+          "style": "STYLE_BLUE_TEXT",
+          "size": "SIZE_LARGE",
+          "text": {
+            "runs": [
+              {
+                "text": "Get it now"
+              }
+            ]
+          },
+          "navigationEndpoint": {
+            "clickTrackingParams": "CL0BEOSrAiITCMeM67ugqvICFQb3tAod_uoH2g==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/premium",
+                "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                "rootVe": 11487,
+                "apiUrl": "/youtubei/v1/browse"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "SPunlimited"
+            }
+          },
+          "trackingParams": "CL0BEOSrAiITCMeM67ugqvICFQb3tAod_uoH2g==",
+          "accessibilityData": {
+            "accessibilityData": {
+              "label": "Get it now"
+            }
+          }
+        }
+      },
+      "trackingParams": "CLwBEOSrAhgAIhMIx4zru6Cq8gIVBve0Ch3-6gfa"
+    }
+  }
+}
