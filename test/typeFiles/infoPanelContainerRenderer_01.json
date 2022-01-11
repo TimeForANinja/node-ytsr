@@ -1,7 +1,7 @@
 {
-  "specialities": "skips messageRenderer",
+  "specialities": "skips infoPanelContainerRenderer",
   "throws": null,
-  "type": "messageRenderer",
+  "type": "infoPanelContainerRenderer",
   "parsed": null,
   "raw": {
     "infoPanelContainerRenderer": {

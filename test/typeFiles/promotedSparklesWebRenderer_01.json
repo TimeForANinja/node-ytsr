@@ -1,7 +1,7 @@
 {
-  "specialities": "skips messageRenderer",
+  "specialities": "skips promotedSparklesWebRenderer",
   "throws": null,
-  "type": "messageRenderer",
+  "type": "promotedSparklesWebRenderer",
   "parsed": null,
   "raw": {
     "promotedSparklesWebRenderer": {
