@@ -1,0 +1,250 @@
+{
+  "specialities": "skips promotedSparklesWebRenderer",
+  "throws": null,
+  "type": "promotedSparklesWebRenderer",
+  "parsed": null,
+  "raw": {
+    "promotedSparklesWebRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://tpc.googlesyndication.com/simgad/11695534332434165769",
+            "width": 2500,
+            "height": 1307
+          }
+        ]
+      },
+      "title": {
+        "simpleText": "Mr. Blue Sky: The Very Best of Electric Light Orchestra"
+      },
+      "description": {
+        "simpleText": "Unlimited access to ad-free music and podcasts with Amazon Music Unlimited. Try Now"
+      },
+      "websiteText": {
+        "simpleText": "https://music.amazon.com/"
+      },
+      "actionButton": {
+        "buttonRenderer": {
+          "style": "STYLE_SUGGESTIVE",
+          "text": {
+            "simpleText": "VISIT SITE"
+          },
+          "icon": {
+            "iconType": "EXTERNAL_LINK"
+          },
+          "trackingParams": "COEBEPBbIhMIpIP9w92M9QIVC9_BCh2ceQcA",
+          "iconPosition": "BUTTON_ICON_POSITION_TYPE_RIGHT_OF_TEXT"
+        }
+      },
+      "navigationEndpoint": {
+        "clickTrackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "https://www.google.com/aclk?sa=l&ai=CTNKB5EfOYaHdKNOVmwSUvJqABKiax7xn1PjMktQPseK6lYENCAAQASC7m7pOYMnGqYvApNgPoAGIneCXA8gBAaoEVE_QGYSc-BrGCYJ6EG-ok3DNdZBkq6itaDfKJOzTu0uflJ6UqtxssRzdLkefRbLPSu5Rj-k0Y7hbgs21ACGpcKYoZsM-iuSS1aL_R7RvZG14O9u1AcAE7IyVmMADoAZZgAej_Z9okAcBqAfU0huoB6a-G6gHuZqxAqgH89EbqAfu0huoB_-csQKoB8rcG7AIBdIIBhABIKSBApoJKmh0dHBzOi8vbXVzaWMuYW1hem9uLmNvbS9hbGJ1bXMvQjA3OFZIOTE1M7EJyFsnFOo5hg25CchbJxTqOYYN-AkBuAwB0BUBmBYB-BYBgBcBkhcIEgYIARADGAY&sig=AOD64_2QlQQPP-Yb-WhPxCBEKxuM24ar3g&adurl=https://music.amazon.com/albums/B078VH9153_z_-c_c_572064548132_g_120309761644&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=[NB]",
+            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+            "rootVe": 83769
+          }
+        },
+        "urlEndpoint": {
+          "url": "https://www.google.com/aclk?sa=l&ai=CTNKB5EfOYaHdKNOVmwSUvJqABKiax7xn1PjMktQPseK6lYENCAAQASC7m7pOYMnGqYvApNgPoAGIneCXA8gBAaoEVE_QGYSc-BrGCYJ6EG-ok3DNdZBkq6itaDfKJOzTu0uflJ6UqtxssRzdLkefRbLPSu5Rj-k0Y7hbgs21ACGpcKYoZsM-iuSS1aL_R7RvZG14O9u1AcAE7IyVmMADoAZZgAej_Z9okAcBqAfU0huoB6a-G6gHuZqxAqgH89EbqAfu0huoB_-csQKoB8rcG7AIBdIIBhABIKSBApoJKmh0dHBzOi8vbXVzaWMuYW1hem9uLmNvbS9hbGJ1bXMvQjA3OFZIOTE1M7EJyFsnFOo5hg25CchbJxTqOYYN-AkBuAwB0BUBmBYB-BYBgBcBkhcIEgYIARADGAY&sig=AOD64_2QlQQPP-Yb-WhPxCBEKxuM24ar3g&adurl=https://music.amazon.com/albums/B078VH9153_z_-c_c_572064548132_g_120309761644&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=[NB]",
+          "target": "TARGET_NEW_WINDOW"
+        }
+      },
+      "impressionCommands": [
+        {
+          "clickTrackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA",
+          "loggingUrls": [
+            {
+              "baseUrl": "https://www.youtube.com/pagead/paralleladview?ai=CmP6j5EfOYeXfIpX_u7AP9sKb4AUA1PjMktQPABABIABgyQaCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MagDBKoEF0_Q-gEcC6ODRUQu9nnpyMJolYCeJclW0ggCEAGwCwG6CyYIAxAFGAwgCCgFMAVAAUgAWE5gAGgAcAGIAQCYAQGiAQUKAJgCAqAXAQ&sigh=BHx1XmMBtLY&cid=CAASFeRovnvd5lHXXUBRnJGqdOpWJl9I2A&vt=0&ad_mt=[AD_MT]"
+            }
+          ],
+          "pingingEndpoint": {
+            "hack": true
+          }
+        }
+      ],
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuNavigationItemRenderer": {
+                "text": {
+                  "simpleText": "Why this ad?"
+                },
+                "icon": {
+                  "iconType": "INFO"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "ignoreNavigation": true
+                    }
+                  },
+                  "adInfoDialogEndpoint": {
+                    "dialog": {
+                      "adInfoDialogRenderer": {
+                        "dialogMessage": {
+                          "runs": [
+                            {
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        "confirmLabel": {
+                          "simpleText": "CLOSE"
+                        },
+                        "trackingParams": "COABEPWrAiITCKSD_cPdjPUCFQvfwQodnHkHAA==",
+                        "title": {
+                          "simpleText": "This ad is based on:"
+                        },
+                        "adReasons": [
+                          {
+                            "simpleText": "Your current search terms"
+                          },
+                          {
+                            "simpleText": "Google's estimation of your approximate current location"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                "trackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA"
+              }
+            },
+            {
+              "menuNavigationItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Control your Google ads"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "SETTINGS"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://adssettings.google.com/",
+                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https://adssettings.google.com",
+                    "target": "TARGET_NEW_WINDOW"
+                  }
+                },
+                "trackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA"
+              }
+            }
+          ],
+          "trackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA"
+        }
+      },
+      "trackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA",
+      "clickLocationTargets": [
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_AD_BADGE",
+          "code": 31,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_DESCRIPTION",
+          "code": 7,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_NOOP"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_ACTION_LABEL",
+          "code": 8,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_BACKGROUND",
+          "code": 2,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_NOOP"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_BORDER",
+          "code": 39,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_NOOP"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TEXT_AD_WEBSITE",
+          "code": 1,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TEXT_CTD_AD_RATING",
+          "code": 16,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TEXT_CTD_AD_PRICE",
+          "code": 15,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TEXT_CTD_AD_APP_STORE",
+          "code": 35,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TEXT_PRODUCT_PRICE",
+          "code": 15,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_INNER_BACKGROUND",
+          "code": 41,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_NOOP"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_CUSTOM_BADGE",
+          "code": 43,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TALKBACK_ACTIVATED",
+          "code": 17,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_ACTION_LABEL_TALKBACK_ACTIVATED",
+          "code": 8,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TITLE",
+          "code": 0,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_THUMBNAIL",
+          "code": 9,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        },
+        {
+          "location": "PROMOTED_SPARKLES_CLICK_LOCATION_TEXT_PRODUCT_ADVERTISER",
+          "code": 20,
+          "behaviorType": "PROMOTED_SPARKLES_CLICK_BEHAVIOR_TYPE_OPEN_AD"
+        }
+      ],
+      "mediaBadge": {
+        "metadataBadgeRenderer": {
+          "icon": {
+            "iconType": "EXTERNAL_LINK"
+          },
+          "style": "BADGE_STYLE_TYPE_BLACK",
+          "trackingParams": "CN8BENjJBRgAIhMIpIP9w92M9QIVC9_BCh2ceQcA"
+        }
+      },
+      "promotedSparklesWebStyle": "PROMOTED_SPARKLES_WEB_STYLE_LANDSCAPE_IMAGE_ASPECT_RATIO",
+      "isSquareThumbnail": false
+    }
+  }
+}

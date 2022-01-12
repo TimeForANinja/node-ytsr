@@ -1,0 +1,174 @@
+{
+  "specialities": "skips infoPanelContainerRenderer",
+  "throws": null,
+  "type": "infoPanelContainerRenderer",
+  "parsed": null,
+  "raw": {
+    "infoPanelContainerRenderer": {
+      "icon": {
+        "iconType": "CLARIFY"
+      },
+      "title": {
+        "simpleText": "Context"
+      },
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuNavigationItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Why am I seeing this?"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "INFO"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CLABEO3NBRgAIhMI67PPxvaf8wIVjIHBCh2fFwHQ",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "//support.google.com/youtube/answer/9004474?hl=en",
+                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "//support.google.com/youtube/answer/9004474?hl=en",
+                    "target": "TARGET_NEW_WINDOW"
+                  }
+                },
+                "trackingParams": "CLABEO3NBRgAIhMI67PPxvaf8wIVjIHBCh2fFwHQ",
+                "accessibility": {
+                  "accessibilityData": {
+                    "label": "Why am I seeing this?"
+                  }
+                }
+              }
+            },
+            {
+              "menuNavigationItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Send feedback"
+                    }
+                  ]
+                },
+                "icon": {
+                  "iconType": "FEEDBACK"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CLABEO3NBRgAIhMI67PPxvaf8wIVjIHBCh2fFwHQ",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "ignoreNavigation": true
+                    }
+                  },
+                  "userFeedbackEndpoint": {
+                    "additionalDatas": [
+                      {
+                        "userFeedbackEndpointProductSpecificValueData": {
+                          "key": "clarify_id",
+                          "value": "39"
+                        }
+                      }
+                    ],
+                    "bucketIdentifier": "clarify_box"
+                  }
+                },
+                "trackingParams": "CLABEO3NBRgAIhMI67PPxvaf8wIVjIHBCh2fFwHQ",
+                "accessibility": {
+                  "accessibilityData": {
+                    "label": "Send feedback",
+                    "identifier": {
+                      "accessibilityIdType": "MENU_FEEDBACK"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "trackingParams": "CLABEO3NBRgAIhMI67PPxvaf8wIVjIHBCh2fFwHQ",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Action menu"
+            }
+          }
+        }
+      },
+      "content": {
+        "infoPanelContentRenderer": {
+          "title": {
+            "runs": [
+              {
+                "text": "Climate change",
+                "bold": true
+              }
+            ]
+          },
+          "inlineLinkIcon": {
+            "iconType": "OPEN_IN_NEW"
+          },
+          "source": {
+            "runs": [
+              {
+                "text": "Wikipedia",
+                "bold": true
+              }
+            ]
+          },
+          "paragraphs": [
+            {
+              "runs": [
+                {
+                  "text": "Climate change includes both global warming driven by human-induced emissions of greenhouse gases and the resulting large-scale shifts in weather patterns."
+                }
+              ]
+            }
+          ],
+          "thumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://www.gstatic.com/youtube/img/discovery/wiki_logo_240x240.png",
+                "width": 90,
+                "height": 90
+              }
+            ]
+          },
+          "sourceEndpoint": {
+            "clickTrackingParams": "CLEBEMChAiITCOuzz8b2n_MCFYyBwQodnxcB0A==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "https://en.wikipedia.org/wiki/Global_warming?wprov=yicw1",
+                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                "rootVe": 83769
+              }
+            },
+            "urlEndpoint": {
+              "url": "https://en.wikipedia.org/wiki/Global_warming?wprov=yicw1",
+              "target": "TARGET_NEW_WINDOW"
+            }
+          },
+          "truncateParagraphs": true,
+          "trackingParams": "CLEBEMChAiITCOuzz8b2n_MCFYyBwQodnxcB0A==",
+          "sourceAtTop": false,
+          "background": "INFO_PANEL_CONTENT_BACKGROUND_BLUE",
+          "loggingDirectives": {
+            "trackingParams": "CLEBEMChAiITCOuzz8b2n_MCFYyBwQodnxcB0A==",
+            "visibility": {
+              "types": "12"
+            },
+            "gestures": {
+              "types": "4"
+            }
+          }
+        }
+      },
+      "trackingParams": "CLABEO3NBRgAIhMI67PPxvaf8wIVjIHBCh2fFwHQ",
+      "background": "INFO_PANEL_CONTAINER_BACKGROUND_BLUE"
+    }
+  }
+}

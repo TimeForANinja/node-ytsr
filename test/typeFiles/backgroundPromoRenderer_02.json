@@ -1,6 +1,6 @@
 {
-  "specialities": "throws unknown backgroundPromoRenderer",
-  "throws": "unknown message in backgroundPromoRenderer",
+  "specialities": "accepts backgroundPromoRenderers in other languages",
+  "throws": null,
   "type": "backgroundPromoRenderer",
   "parsed": null,
   "raw": {
@@ -8,21 +8,21 @@
       "title": {
         "runs": [
           {
-            "text": "some unknown error"
+            "text": "검색결과가 없습니다."
           }
         ]
       },
       "bodyText": {
         "runs": [
           {
-            "text": "Try different keywords or remove search filters"
+            "text": "다른 검색어를 시도해 보거나 검색 필터를 삭제하세요."
           }
         ]
       },
       "icon": {
         "iconType": "EMPTY_SEARCH"
       },
-      "trackingParams": "CDoQ92QYACITCNSsrOL1xe0CFVKlfAodX4sNeQ==",
+      "trackingParams": "CD4Q92QYASITCObwvemIifQCFXWZVgEdYvgA4g==",
       "style": {
         "value": "BACKGROUND_PROMO_STYLE_TYPE_FULL_HEIGHT"
       }
