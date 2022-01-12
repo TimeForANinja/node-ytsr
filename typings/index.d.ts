@@ -84,7 +84,7 @@ declare module 'ytsr' {
         name: string;
         channelID: string;
         url: string;
-        bestAvatar: Image;
+        bestAvatar: Image | null;
         avatars: Image[];
         ownerBadges: string[];
         verified: boolean;
