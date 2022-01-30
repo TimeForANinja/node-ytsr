@@ -44,7 +44,7 @@
     "test:coverage": "npm run-script nyc:coverage && codecov"
   },
   "dependencies": {
-    "miniget": "^4.2.1"
+    "miniget": "^4.2.2"
   },
   "devDependencies": {
     "assert-diff": "^3.0.2",
