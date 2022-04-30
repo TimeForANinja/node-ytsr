@@ -1,0 +1,182 @@
+{
+  "specialities": "None",
+  "throws": null,
+  "type": "chipCloudRenderer",
+  "parsed": null,
+  "raw": {
+    "chipCloudRenderer": {
+      "chips": [
+        {
+          "chipCloudChipRenderer": {
+            "style": {
+              "styleType": "STYLE_HOME_FILTER"
+            },
+            "text": {
+              "simpleText": "All"
+            },
+            "trackingParams": "CPMBEP1dGAAiEwiNtrTe2K_3AhUQ2LQKHTksD5A=",
+            "isSelected": true,
+            "location": "CHIP_LOCATION_SEARCH_RESULTS"
+          }
+        },
+        {
+          "chipCloudChipRenderer": {
+            "style": {
+              "styleType": "STYLE_HOME_FILTER"
+            },
+            "text": {
+              "simpleText": "Acoustic"
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CPIBEOzmBRgBIhMIjba03tiv9wIVENi0Ch05LA-Q",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/search"
+                }
+              },
+              "continuationCommand": {
+                "token": "EqYEEhhsaXRoaXVtIG5pcnZhbmEgYWNvdXN0aWMahgRFdjBDa2dINUFqb2FDaGhzYVhSb2FYVnRJRzVwY25aaGJtRWdZV052ZFhOMGFXTksyZ0lLTVFvUFRHbDBhR2wxYlNCT2FYSjJZVzVoNmdFU0NoQmFEZ29IQ0lZQkVnQVlDeElEWVd4czhnRUZDZ05CYkd6WUFnRUtRUW9ZYkdsMGFHbDFiU0J1YVhKMllXNWhJR0ZqYjNWemRHbGo2Z0VYQ2hWYUV3b0hDSVlCRWdBWUN4SUlZV052ZFhOMGFXUHlBUW9LQ0VGamIzVnpkR2xqQ2pzS0ZteHBkR2hwZFcwZ2JtbHlkbUZ1WVNCemJHOTNaV1RxQVJVS0Uxb1JDZ2NJaGdFU0FCZ0xFZ1p6Ykc5M1pXVHlBUWdLQmxOc2IzZGxaQW8tQ2hkc2FYUm9hWFZ0SUc1cGNuWmhibUVnYTJGeVlXOXJaZW9CRmdvVVdoSUtCd2lHQVJJQUdBc1NCMnRoY21GdmEyWHlBUWtLQjB0aGNtRnZhMlVLVUFvZGJHbDBhR2wxYlNCdWFYSjJZVzVoSUdkMWFYUmhjaUJzWlhOemIyN3FBUndLR2xvWUNnY0loZ0VTQUJnTEVnMW5kV2wwWVhKZmJHVnpjMjl1OGdFUENnMUhkV2wwWVhJZ2JHVnpjMjl1R0FzNkFoSUFXZzBLQ3dnRUtnY0loZ0VTQUJnTGVBQSUzRJABARiB4OgYIgtzZWFyY2gtZmVlZA%3D%3D",
+                "request": "CONTINUATION_REQUEST_TYPE_SEARCH",
+                "command": {
+                  "clickTrackingParams": "CPIBEOzmBRgBIhMIjba03tiv9wIVENi0Ch05LA-Q",
+                  "showReloadUiCommand": {
+                    "targetId": "search-feed"
+                  }
+                }
+              }
+            },
+            "trackingParams": "CPIBEOzmBRgBIhMIjba03tiv9wIVENi0Ch05LA-Q",
+            "isSelected": false,
+            "location": "CHIP_LOCATION_SEARCH_RESULTS"
+          }
+        },
+        {
+          "chipCloudChipRenderer": {
+            "style": {
+              "styleType": "STYLE_HOME_FILTER"
+            },
+            "text": {
+              "simpleText": "Slowed"
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CPEBEOzmBRgCIhMIjba03tiv9wIVENi0Ch05LA-Q",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/search"
+                }
+              },
+              "continuationCommand": {
+                "token": "Ep4EEhZsaXRoaXVtIG5pcnZhbmEgc2xvd2VkGoAERXZzQ2tnSDNBam9ZQ2hac2FYUm9hWFZ0SUc1cGNuWmhibUVnYzJ4dmQyVmtTdG9DQ2pFS0QweHBkR2hwZFcwZ1RtbHlkbUZ1WWVvQkVnb1FXZzRLQndpR0FSSUFHQXNTQTJGc2JQSUJCUW9EUVd4czJBSUJDa0VLR0d4cGRHaHBkVzBnYm1seWRtRnVZU0JoWTI5MWMzUnBZLW9CRndvVldoTUtCd2lHQVJJQUdBc1NDR0ZqYjNWemRHbGo4Z0VLQ2doQlkyOTFjM1JwWXdvN0NoWnNhWFJvYVhWdElHNXBjblpoYm1FZ2MyeHZkMlZrNmdFVkNoTmFFUW9IQ0lZQkVnQVlDeElHYzJ4dmQyVms4Z0VJQ2daVGJHOTNaV1FLUGdvWGJHbDBhR2wxYlNCdWFYSjJZVzVoSUd0aGNtRnZhMlhxQVJZS0ZGb1NDZ2NJaGdFU0FCZ0xFZ2RyWVhKaGIydGw4Z0VKQ2dkTFlYSmhiMnRsQ2xBS0hXeHBkR2hwZFcwZ2JtbHlkbUZ1WVNCbmRXbDBZWElnYkdWemMyOXU2Z0VjQ2hwYUdBb0hDSVlCRWdBWUN4SU5aM1ZwZEdGeVgyeGxjM052YnZJQkR3b05SM1ZwZEdGeUlHeGxjM052YmhnTE9nSVNBRm9OQ2dzSUJDb0hDSVlCRWdBWUMzZ0GQAQEYgeDoGCILc2VhcmNoLWZlZWQ%3D",
+                "request": "CONTINUATION_REQUEST_TYPE_SEARCH",
+                "command": {
+                  "clickTrackingParams": "CPEBEOzmBRgCIhMIjba03tiv9wIVENi0Ch05LA-Q",
+                  "showReloadUiCommand": {
+                    "targetId": "search-feed"
+                  }
+                }
+              }
+            },
+            "trackingParams": "CPEBEOzmBRgCIhMIjba03tiv9wIVENi0Ch05LA-Q",
+            "isSelected": false,
+            "location": "CHIP_LOCATION_SEARCH_RESULTS"
+          }
+        },
+        {
+          "chipCloudChipRenderer": {
+            "style": {
+              "styleType": "STYLE_HOME_FILTER"
+            },
+            "text": {
+              "simpleText": "Karaoke"
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CPABEOzmBRgDIhMIjba03tiv9wIVENi0Ch05LA-Q",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/search"
+                }
+              },
+              "continuationCommand": {
+                "token": "EqcEEhdsaXRoaXVtIG5pcnZhbmEga2FyYW9rZRqIBEV2d0NrZ0g0QWpvWkNoZHNhWFJvYVhWdElHNXBjblpoYm1FZ2EyRnlZVzlyWlVyYUFnb3hDZzlNYVhSb2FYVnRJRTVwY25aaGJtSHFBUklLRUZvT0NnY0loZ0VTQUJnTEVnTmhiR3p5QVFVS0EwRnNiTmdDQVFwQkNoaHNhWFJvYVhWdElHNXBjblpoYm1FZ1lXTnZkWE4wYVdQcUFSY0tGVm9UQ2djSWhnRVNBQmdMRWdoaFkyOTFjM1JwWV9JQkNnb0lRV052ZFhOMGFXTUtPd29XYkdsMGFHbDFiU0J1YVhKMllXNWhJSE5zYjNkbFpPb0JGUW9UV2hFS0J3aUdBUklBR0FzU0JuTnNiM2RsWlBJQkNBb0dVMnh2ZDJWa0NqNEtGMnhwZEdocGRXMGdibWx5ZG1GdVlTQnJZWEpoYjJ0bDZnRVdDaFJhRWdvSENJWUJFZ0FZQ3hJSGEyRnlZVzlyWmZJQkNRb0hTMkZ5WVc5clpRcFFDaDFzYVhSb2FYVnRJRzVwY25aaGJtRWdaM1ZwZEdGeUlHeGxjM052YnVvQkhBb2FXaGdLQndpR0FSSUFHQXNTRFdkMWFYUmhjbDlzWlhOemIyN3lBUThLRFVkMWFYUmhjaUJzWlhOemIyNFlDem9DRWdCYURRb0xDQVFxQndpR0FSSUFHQXQ0QUElM0QlM0SQAQEYgeDoGCILc2VhcmNoLWZlZWQ%3D",
+                "request": "CONTINUATION_REQUEST_TYPE_SEARCH",
+                "command": {
+                  "clickTrackingParams": "CPABEOzmBRgDIhMIjba03tiv9wIVENi0Ch05LA-Q",
+                  "showReloadUiCommand": {
+                    "targetId": "search-feed"
+                  }
+                }
+              }
+            },
+            "trackingParams": "CPABEOzmBRgDIhMIjba03tiv9wIVENi0Ch05LA-Q",
+            "isSelected": false,
+            "location": "CHIP_LOCATION_SEARCH_RESULTS"
+          }
+        },
+        {
+          "chipCloudChipRenderer": {
+            "style": {
+              "styleType": "STYLE_HOME_FILTER"
+            },
+            "text": {
+              "simpleText": "Guitar lesson"
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CO8BEOzmBRgEIhMIjba03tiv9wIVENi0Ch05LA-Q",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/search"
+                }
+              },
+              "continuationCommand": {
+                "token": "ErUEEh1saXRoaXVtIG5pcnZhbmEgZ3VpdGFyIGxlc3NvbhqQBEVvSURrZ0gtQWpvZkNoMXNhWFJvYVhWdElHNXBjblpoYm1FZ1ozVnBkR0Z5SUd4bGMzTnZia3JhQWdveENnOU1hWFJvYVhWdElFNXBjblpoYm1IcUFSSUtFRm9PQ2djSWhnRVNBQmdMRWdOaGJHenlBUVVLQTBGc2JOZ0NBUXBCQ2hoc2FYUm9hWFZ0SUc1cGNuWmhibUVnWVdOdmRYTjBhV1BxQVJjS0ZWb1RDZ2NJaGdFU0FCZ0xFZ2hoWTI5MWMzUnBZX0lCQ2dvSVFXTnZkWE4wYVdNS093b1diR2wwYUdsMWJTQnVhWEoyWVc1aElITnNiM2RsWk9vQkZRb1RXaEVLQndpR0FSSUFHQXNTQm5Oc2IzZGxaUElCQ0FvR1UyeHZkMlZrQ2o0S0YyeHBkR2hwZFcwZ2JtbHlkbUZ1WVNCcllYSmhiMnRsNmdFV0NoUmFFZ29IQ0lZQkVnQVlDeElIYTJGeVlXOXJaZklCQ1FvSFMyRnlZVzlyWlFwUUNoMXNhWFJvYVhWdElHNXBjblpoYm1FZ1ozVnBkR0Z5SUd4bGMzTnZidW9CSEFvYVdoZ0tCd2lHQVJJQUdBc1NEV2QxYVhSaGNsOXNaWE56YjI3eUFROEtEVWQxYVhSaGNpQnNaWE56YjI0WUN6b0NFZ0JhRFFvTENBUXFCd2lHQVJJQUdBdDRBQSUzRCUzRJABARiB4OgYIgtzZWFyY2gtZmVlZA%3D%3D",
+                "request": "CONTINUATION_REQUEST_TYPE_SEARCH",
+                "command": {
+                  "clickTrackingParams": "CO8BEOzmBRgEIhMIjba03tiv9wIVENi0Ch05LA-Q",
+                  "showReloadUiCommand": {
+                    "targetId": "search-feed"
+                  }
+                }
+              }
+            },
+            "trackingParams": "CO8BEOzmBRgEIhMIjba03tiv9wIVENi0Ch05LA-Q",
+            "isSelected": false,
+            "location": "CHIP_LOCATION_SEARCH_RESULTS"
+          }
+        }
+      ],
+      "trackingParams": "COwBEJFaGAAiEwiNtrTe2K_3AhUQ2LQKHTksD5A=",
+      "nextButton": {
+        "buttonRenderer": {
+          "style": "STYLE_DEFAULT",
+          "size": "SIZE_DEFAULT",
+          "isDisabled": false,
+          "icon": {
+            "iconType": "CHEVRON_RIGHT"
+          },
+          "accessibility": {
+            "label": "Next"
+          },
+          "trackingParams": "CO4BEPBbIhMIjba03tiv9wIVENi0Ch05LA-Q"
+        }
+      },
+      "previousButton": {
+        "buttonRenderer": {
+          "style": "STYLE_DEFAULT",
+          "size": "SIZE_DEFAULT",
+          "isDisabled": false,
+          "icon": {
+            "iconType": "CHEVRON_LEFT"
+          },
+          "accessibility": {
+            "label": "Previous"
+          },
+          "trackingParams": "CO0BEPBbIhMIjba03tiv9wIVENi0Ch05LA-Q"
+        }
+      }
+    }
+  }
+}
