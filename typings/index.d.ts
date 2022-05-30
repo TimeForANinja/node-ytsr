@@ -212,7 +212,18 @@ declare module 'ytsr' {
       }[];
     }
 
-    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf | Clarification | HorizontalChannelList;
+    interface Hashtag {
+      type: 'hashtag'
+      hashtag: string
+      videoCount: string
+      channelCount: string
+      url: string
+      thumbnails: [
+        url: string
+      ]
+    }
+
+    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf | Clarification | HorizontalChannelList | Hashtag;
 
     /**
      * @param searchString search query or link from a previous getFilters request
