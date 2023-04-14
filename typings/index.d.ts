@@ -95,6 +95,25 @@ declare module 'ytsr' {
       uploadedAt: string | null;
     }
 
+    interface Short {
+      type: 'short';
+      title: string;
+      id: string;
+      url: string;
+      bestThumbnail: Image;
+      thumbnails: Image[];
+      views: string;
+      published: string | null;
+
+      channel: {
+        name: string;
+        channelID: string;
+        url: string;
+        bestAvatar: Image | null;
+        avatars: Image[];
+      } | null;
+    }
+
     interface Channel {
       type: 'channel';
       name: string;
@@ -212,7 +231,7 @@ declare module 'ytsr' {
       }[];
     }
 
-    type Item = Video | Channel | Playlist | Mix | GridMovie | Movie | Show | Shelf | Clarification | HorizontalChannelList;
+    type Item = Video | Channel | Short | Playlist | Mix | GridMovie | Movie | Show | Shelf | Clarification | HorizontalChannelList;
 
     /**
      * @param searchString search query or link from a previous getFilters request
