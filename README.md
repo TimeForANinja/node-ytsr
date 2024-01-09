@@ -1,3 +1,7 @@
+# DEPRECATED <node-ytsr>
+
+This repo is no longer supported, please consider using the official api instead.
+
 # node-ytsr
 [![NPM version](https://img.shields.io/npm/v/ytsr.svg?maxAge=3600)](https://www.npmjs.com/package/ytsr)
 [![NPM downloads](https://img.shields.io/npm/dt/ytsr.svg?maxAge=3600)](https://www.npmjs.com/package/ytsr)
