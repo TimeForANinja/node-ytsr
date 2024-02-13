@@ -9,7 +9,7 @@ This repo is no longer supported, please consider using the official api instead
 [![Known Vulnerabilities](https://snyk.io/test/github/timeforaninja/node-ytsr/badge.svg)](https://snyk.io/test/github/timeforaninja/node-ytsr)
 [![Discord](https://img.shields.io/discord/484464227067887645.svg)](https://discord.gg/V3vSCs7)
 
-Simple js only package to search for Youtube for Videos, Playlists and many more.
+Simple js only package to search Youtube for Videos, Playlists and many more.
 Does not require any login or Google-API-Key.
 
 # Support
